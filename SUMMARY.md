@@ -4,6 +4,7 @@
 
 * [사용자 가이드](README.md)
   * [채팅](kakao-work/user/chat.md)
+  * [워크스페이스 입장](kakao-work/user/enter-work-space.md)
 
 ***
 
