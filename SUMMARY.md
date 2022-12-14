@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Kakao WOrk](README.md)
+* [Kakao Work](README.md)
