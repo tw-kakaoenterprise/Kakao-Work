@@ -24,12 +24,13 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.&#x20;
 
-    <figure><img src="https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png" alt=""><figcaption></figcaption></figure>
-2.  Kakao i 계정을 생성합니다.
+   ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
 
+2.  Kakao i 계정을 생성합니다.
     * 기입한 이메일 주소로 인증을 완료해야 합니다.
 
     ![그림. Kakao i 계정 생성](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/Kakao%20i%20%EA%B3%84%EC%A0%95%20%EC%83%9D%EC%84%B1.png)
+
 3.  가입이 완료되면 \[카카오워크 시작] 버튼을 클릭하여 카카오워크를 실행합니다.
 
     * 카카오워크 앱은 \[설치] 버튼을 클릭하거나 카카오워크 [공식 홈페이지](https://www.kakaowork.com/download)에서 다운로드할 수 있습니다.
