@@ -24,7 +24,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.&#x20;
 
-   ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
+    ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
 
 2.  Kakao i 계정을 생성합니다.
     * 기입한 이메일 주소로 인증을 완료해야 합니다.
