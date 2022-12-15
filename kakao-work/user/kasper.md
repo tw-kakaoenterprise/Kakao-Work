@@ -9,7 +9,7 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
 
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 다이내믹 패널의 캐스퍼 1:1 채팅방에 대한 설명은 [**사용자 가이드](https://www.notion.so/9-fa769d0d66bd450baabd7df78202eab2) > [다이내믹 패널](https://www.notion.so/2-d7db64d00d4f4d5d8f91a991db0388bb)** 문서를 참고하시기 바랍니다.
 {% endhint %}
 
@@ -74,7 +74,7 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
 
 
 {% hint style="info" %}
-**안내**\ 
+**안내**<br> 
 카카오 i 캐스퍼 지식 검색 서비스는 STANDARD [요금제](https://www.kakaowork.com/pricing) 이상부터 제공됩니다. 현재 용량 제한 없이 데이터를 등록할 수 있으나, 추후 요금제에 따라 기능 및 용량 제한이 발생할 수 있습니다.
 {% endhint %}
 
