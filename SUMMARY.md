@@ -3,7 +3,7 @@
 ## Kakao Work
 
 * [사용자 가이드](README.md)
-  * [워크스페이스 입장](kakao-work/user/enter-work-space.md)
+  * [워크스페이스 입장](kakao-work/user/enter.md)
   * [다이내믹 패널](kakao-work/user/dynamic-panel.md)
   * [채팅](kakao-work/user/chat/README.md)
     * [채팅 시작](kakao-work/user/chat/start.md)
