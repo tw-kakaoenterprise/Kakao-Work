@@ -3,12 +3,22 @@
 ## Kakao Work
 
 * [사용자 가이드](README.md)
+  * [워크스페이스 입장](kakao-work/user/enter-work-space.md)
+  * [다이내믹 패널](kakao-work/user/dynamic-panel.md)
   * [채팅](kakao-work/user/chat/README.md)
     * [채팅 시작](kakao-work/user/chat/start.md)
     * [채팅방 관리](kakao-work/user/chat/manage-chat.md)
     * [채팅 기본 기능](kakao-work/user/chat/basic.md)
-  * [워크스페이스 입장](kakao-work/user/enter-work-space.md)
-  * [다이내믹 패널](kakao-work/user/dynamic-panel.md)
+  * [프로필 설정](kakao-work/user/profile.md)
+  * [카카오 i 캐스퍼](kakao-work/user/kasper.md)
+  * [할일](kakao-work/user/to-do.md) 
+  * [워크보드](kakao-work/user/workboard.md)
+  * [통합검색](kakao-work/user/search.md)
+  * [바로가기](kakao-work/user/direct.md)
+  * [확장서비스](kakao-work/user/extention.md)
+  * [더보기](kakao-work/user/more.md)
+  * [설정](kakao-work/user/setting.md)
+  * [멀티워크스페이스](kakao-work/user/multi.md)
 
 ***
 
