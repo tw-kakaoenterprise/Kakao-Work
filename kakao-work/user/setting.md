@@ -34,7 +34,7 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
 
 [설정] 아이콘 > **설정** > **알림** 메뉴에서 알림을 설정합니다.
     
-    ![그림. 설정 > 알림](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7beffef0-2819-401f-998a-efbf488fc5f8/%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC___%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B7.png)
+![그림. 설정 > 알림](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7beffef0-2819-401f-998a-efbf488fc5f8/%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC___%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B7.png)
 
     
 | 항목 | 설명 |
