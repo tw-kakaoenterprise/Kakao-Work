@@ -10,7 +10,7 @@ description: 카카오워크의 다이내믹 패널을 안내합니다.
 
 다이내믹 패널은 필요 시 언제든 [펼침/접음] 아이콘으로 열고 닫을 수 있습니다.
 
-![그림. 다이내믹 패널](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2c2526e-7554-4463-a4b3-289fc96d6b9d/%EA%B7%B8%EB%A6%BC.\_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9\_%ED%8C%A8%EB%84%90\_\(2\).png)
+![그림. 다이내믹 패널](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20(2).png)
 
 | 구분          | 설명                                                                                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -36,12 +36,15 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
 
 다이내믹 패널에서는 캐스퍼를 1:1로 호출하여 간편하게 명령이나 질의를 전송할 수 있습니다.
 
-1. 다이내믹 패널에서 카카오 i 캐스퍼 이미지를 클릭합니다. ![그림. 다이내믹 패널 > 캐스퍼](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77970cf1-13f4-443f-a8e0-22c9eb5c2667/%EA%B7%B8%EB%A6%BC.\_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9\_%ED%8C%A8%EB%84%90\_\_\_%EC%BA%90%EC%8A%A4%ED%8D%BC.png)
+1. 다이내믹 패널에서 카카오 i 캐스퍼 이미지를 클릭합니다. 
+
+    ![그림. 다이내믹 패널 > 캐스퍼](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20_%20%EC%BA%90%EC%8A%A4%ED%8D%BC.png)
+
 2.  캐스퍼와 1:1 채팅방이 생성되면, 메시지를 입력하고 엔터를 누르거나 [전송] 아이콘을 클릭합니다.
 
     * 캐스퍼 1:1 채팅방은 입력창에 `/캐스퍼`가 자동으로 입력되어 있으므로, 곧바로 명령어를 입력할 수 있습니다.
 
-    ![그림. 캐스퍼 1:1 대화방](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51a0dd68-01f4-44ab-b4a9-7c6380a5c571/%EA%B7%B8%EB%A6%BC.\_%EC%BA%90%EC%8A%A4%ED%8D%BC\_1\_1\_%EB%8C%80%ED%99%94%EB%B0%A9.png)
+    ![그림. 캐스퍼 1:1 대화방](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%BA%90%EC%8A%A4%ED%8D%BC%201_1%20%EB%8C%80%ED%99%94%EB%B0%A9.png)
 
 ### **캐스퍼 1:1 채팅방과 일반 채팅방**&#x20;
 
@@ -64,23 +67,20 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
 자주 대화하는 멤버나 조직을 즐겨찾기에 등록해 다이내믹 패널에서 프로필을 간편하게 조회하고 대화를 빠르게 시작할 수 있습니다.
 
 1.  **다이내믹 패널 > 즐겨찾기** 영역의 **전체 멤버 보기**를 클릭합니다.
-
     * 이미 즐겨찾기를 한 개 이상 등록한 경우, [조직도] 아이콘을 클릭합니다.
 
-    ![그림. 전체 멤버 보기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1d45bd0-b673-46b0-81a8-f2d1b2a24594/%EA%B7%B8%EB%A6%BC.\_%EC%A0%84%EC%B2%B4\_%EB%A9%A4%EB%B2%84\_%EB%B3%B4%EA%B8%B0.png)
-2.  즐겨찾기에 추가할 멤버 또는 조직명의 [별] 아이콘을 클릭합니다.
+    ![그림. 전체 멤버 보기](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A0%84%EC%B2%B4%20%EB%A9%A4%EB%B2%84%20%EB%B3%B4%EA%B8%B0.png)
 
+2.  즐겨찾기에 추가할 멤버 또는 조직명의 [별] 아이콘을 클릭합니다.
     * 즐겨찾기에 추가하려는 멤버에 마우스 커서를 올리면 [별] 아이콘이 나타납니다.
     * [별] 아이콘을 다시 클릭하면 즐겨찾기에서 해제할 수 있습니다.
 
-    ![그림. 조직도에서 즐겨찾기 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/67c26971-7256-482c-a310-076e21a25ecd/Untitled.png)
+    ![그림. 조직도에서 즐겨찾기 추가](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A1%B0%EC%A7%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%20%EC%B6%94%EA%B0%80.png)
 
-    ![그림. 조직도에서 즐겨찾기 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b649dd7f-5336-40b6-b4c3-e546aef1fd3a/%EA%B7%B8%EB%A6%BC.\_%EC%A1%B0%EC%A7%81%EB%8F%84%EC%97%90%EC%84%9C\_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0\_%EC%B6%94%EA%B0%80.png)
 3.  다이내믹 패널에서 즐겨찾기에 등록된 멤버/조직을 확인할 수 있습니다.
-
     * [새로고침] 아이콘을 클릭해, 멤버 프로필 및 근무 상태를 최신으로 업데이트할 수 있습니다.
 
-    ![그림. 즐겨찾기 추가 완료](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce91b9a7-8df0-4a02-a9b2-05a4376d9ec8/%EA%B7%B8%EB%A6%BC.\_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0\_%EC%B6%94%EA%B0%80\_%EC%99%84%EB%A3%8C.png)
+    ![그림. 즐겨찾기 추가 완료](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%20%EC%B6%94%EA%B0%80%20%EC%99%84%EB%A3%8C.png)
 
 {% hint style="info" %}
 **안내**\
