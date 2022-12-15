@@ -12,7 +12,7 @@ description: 채팅 기능에 대해 설명합니다.
 **채팅 탭 구성**
 {% tabs %}
 {% tab title="PC" %}
-<figure><img src="../../../.gitbook/assets/Untitled.png" alt=""><figcaption><p>카카오워크 PC</p></figcaption></figure>
+![그림. 카카오워크 PC](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20PC.png)
 
 | 구분         | 설명                                                                                                                                           |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -30,6 +30,6 @@ description: 채팅 기능에 대해 설명합니다.
 {% endtab %}
 
 {% tab title="Mobile" %}
-<figure><img src="../../../.gitbook/assets/Untitled (1).png" alt=""><figcaption><p>카카오워크 Mobile</p></figcaption></figure>
+![그림. 카카오워크 PC](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EB%AA%A8%EB%B0%94%EC%9D%BC.png)
 {% endtab %}
 {% endtabs %}
