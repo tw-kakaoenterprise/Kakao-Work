@@ -165,7 +165,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 내가 개설한 보드를 삭제할 수 있습니다.
 
 {% hint style="danger" %}
-**주의**\
+**주의**<br>
 보드를 삭제할 경우, 보드에 작성된 모든 게시글이 영구 삭제되며 복구할 수 없습니다.
 
 * 슈퍼 관리자 및 워크보드 관리자(슈퍼 관리자가 지정)는 모든 보드와 보드 내 게시글과 댓글에 대해 삭제 권한을 갖습니다.
@@ -529,7 +529,7 @@ PC에 저장된 이미지, 동영상, 파일을 게시글에 첨부할 수 있�
 **브라우저 알림 허용하기** 웹 푸시 알림을 수신하기 위해서는 브라우저 알림을 허용해야 합니다. 브라우저 알림을 허용하는 방법은 다음과 같습니다. [data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 {% hint style="danger" %}
-**주의**\
+**주의**<br>
 웹 푸시 알림은 **브라우저 알림 설정을 허용해야만 수신**할 수 있으므로, 웹 푸시 알림 사용 시 반드시 설정을 진행하시기 바랍니다.
 {% endhint %}
 

@@ -61,13 +61,10 @@ Jira Enterprise Bot을 연동하기 위해, 먼저 **확장 서비스** 메뉴�
 
     ![그림. Jira Enterprise Bot 이름 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a74f51f-5cc2-4312-ab6e-ba2344cc183f/Jira\_Enterprise\_Bot\_%E1%84%8B%E1%85%B5%E1%84%85%E1%85%B3%E1%86%B7\_%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png)
 3.  Bot이 정상적으로 추가되면 Webhook URL이 발급됩니다.
+    - 생성된 Webhook URL은 **확장 서비스** 메뉴 > **Jira Enterprise** Bot 프로필 > **나의 봇 관리** > **관리**에서 재설정 할 수 있습니다.   
 
     ![그림. Jira Enterprise Webhook URL 발급](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89df8fdd-5999-44da-b19d-719ab0be7a4a/Jira\_Enterprise\_Webhook\_URL\_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B3%E1%86%B8.png)
 
-    {% hint style="info" %}
-    **안내**<br>
-    생성된 Webhook URL은 **확장 서비스** 메뉴 > **Jira Enterprise** Bot 프로필 > **나의 봇 관리** > **관리**에서 재설정 할 수 있습니다.
-    {% endhint %}
 
 4.  [채팅방 이동하기] 버튼을 클릭하면 Jira Enterprise Bot과의 1:1 대화방으로 이동합니다.
 

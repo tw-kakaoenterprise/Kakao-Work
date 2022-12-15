@@ -238,7 +238,7 @@ PC에 저장된 이미지, 동영상, 파일을 게시글에 첨부할 수 있�
 **브라우저 알림 허용하기** 웹 푸시 알림을 수신하기 위해서는 브라우저 알림을 허용해야 합니다. 브라우저 알림을 허용하는 방법은 다음과 같습니다. [data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 {% hint style="danger" %}
-**주의**\
+**주의**<br>
 웹 푸시 알림은 **브라우저 알림 설정을 허용해야만 수신**할 수 있으므로, 웹 푸시 알림 사용 시 반드시 설정을 진행하시기 바랍니다.
 {% endhint %}
 

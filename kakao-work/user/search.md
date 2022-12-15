@@ -10,6 +10,7 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
     ![그림. 통합검색](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a852a8e-c762-487b-b0bc-3b437b1fcca9/%ED%86%B5%ED%95%A9_%EA%B2%80%EC%83%89.png)
 
 - 검색어 입력 시, 해당 키워드를 포함하는 채팅방 및 멤버가 자동으로 추천됩니다.
+
     ![그림. 검색어 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1c90435-2b48-4ab5-a237-c8ba9255e780/%EA%B2%80%EC%83%89%EC%96%B4_%EC%9E%85%EB%A0%A5.png)
     
 {% hint style="info" %}
