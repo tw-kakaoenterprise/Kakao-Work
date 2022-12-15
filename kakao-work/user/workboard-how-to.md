@@ -13,10 +13,10 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 1.  댓글을 등록할 게시글에서 댓글 입력창을 클릭합니다.
 
     ![그림. 댓글 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0974ba83-11e0-4508-b768-5a550549c470/%E1%84%83%E1%85%A2%E1%86%BA%E1%84%80%E1%85%B3%E1%86%AF\_%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC\_\(1\).png)
-2. 댓글 작성 후, \[작성] 버튼을 클릭합니다.
+2. 댓글 작성 후, [작성] 버튼을 클릭합니다.
    * 댓글에도 게시글 작성 시와 같이 [이미지 및 파일 첨부](https://www.notion.so/7-ab7d617e4b4e43c5bd2e832ba8993c1b)/[멘션](https://www.notion.so/7-ab7d617e4b4e43c5bd2e832ba8993c1b)/[볼드체 설정](https://www.notion.so/7-ab7d617e4b4e43c5bd2e832ba8993c1b)/[링크 연결](https://www.notion.so/7-ab7d617e4b4e43c5bd2e832ba8993c1b)이 가능합니다.
 
-**댓글 수정 및 삭제하기** 내가 작성한 댓글의 \[더보기] 아이콘을 클릭해 댓글을 수정하거나 삭제할 수 있습니다.
+**댓글 수정 및 삭제하기** 내가 작성한 댓글의 [더보기] 아이콘을 클릭해 댓글을 수정하거나 삭제할 수 있습니다.
 
 ![그림. 댓글 수정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae4c1940-0af5-4faa-b35d-7c0710b54f1a/\_.png)
 
@@ -46,7 +46,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 **안내** 비공개 보드의 게시글 및 댓글의 링크는 내가 해당 비공개 보드의 멤버일 때만 확인할 수 있습니다.
 
-1. 게시글 및 댓글의 \[링크] 아이콘을 클릭하여 링크를 복사합니다. ![그림. 링크 복사](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c04eace2-4150-4d6a-a5c5-6362f4ce9f80/Untitled.png)
+1. 게시글 및 댓글의 [링크] 아이콘을 클릭하여 링크를 복사합니다. ![그림. 링크 복사](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c04eace2-4150-4d6a-a5c5-6362f4ce9f80/Untitled.png)
 2. 복사한 링크를 다른 멤버들에게 공유합니다.
 
 ## 검색하기
@@ -73,7 +73,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 **멤버 프로필에서 검색**
 
-**멤버 프로필** > \[작성한 글] 버튼을 클릭해 해당 멤버의 피드를 확인할 수 있습니다. 멤버 피드에서 검색 시 검색창에 작성자명 필터가 적용되어, 해당 멤버가 작성한 게시글과 댓글을 검색할 수 있습니다.
+**멤버 프로필** > [작성한 글] 버튼을 클릭해 해당 멤버의 피드를 확인할 수 있습니다. 멤버 피드에서 검색 시 검색창에 작성자명 필터가 적용되어, 해당 멤버가 작성한 게시글과 댓글을 검색할 수 있습니다.
 
 ![그림. 멤버 프로필에서 검색](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38c6682a-a4c0-4605-80a2-20d2ea6afccd/Untitled.png)
 
@@ -86,7 +86,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 | esc                   | 팝업 닫기             |
 | ← / →                 | 좌/우로 이동           |
 | ctrl(command) + ]     | 앞 페이지로 이동         |
-| ctrl(command) + \[    | 뒤 페이지로 이동         |
+| ctrl(command) + [    | 뒤 페이지로 이동         |
 | H                     | 홈으로 이동            |
 | ctrl(command) + B     | 글 작성 에디터 > 볼드체 설정 |
 | ctrl(command) + K     | 글 작성 에디터 > 링크 삽입  |
@@ -119,14 +119,14 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 {% tabs %}
 {% tab title="Chrome" %}
-1. Chrome 브라우저의 \[더보기] 아이콘 > **설정**을 클릭합니다.
+1. Chrome 브라우저의 [더보기] 아이콘 > **설정**을 클릭합니다.
 2. **개인정보 및 보안** > **사이트 설정** > **알림** 메뉴를 클릭합니다.
-3.  **알림 전송이 허용됨** 항목의 \[추가] 버튼을 클릭합니다.\
+3.  **알림 전송이 허용됨** 항목의 [추가] 버튼을 클릭합니다.\
 
 
     ![그림. Chrome 브라우저 알림 허용](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8bab8ad-0ce2-4f33-8d1e-c34f527e5659/Untitled.png)
 
-    4\. **사이트 추가** 팝업창에서 `https://workboard.kakaowork.com/`를 입력하고 \[추가] 버튼을 클릭합니다.
+    4\. **사이트 추가** 팝업창에서 `https://workboard.kakaowork.com/`를 입력하고 [추가] 버튼을 클릭합니다.
 
 ![그림. Chrome 사이트 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/871ec02a-2b96-433f-9794-eddc97338d9c/Untitled.png)
 {% endtab %}
@@ -134,11 +134,11 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 {% tab title="Microsoft Edge" %}
 
 
-1. Microsoft Edge 브라우저의 \[더보기] 아이콘 **> 설정**을 클릭합니다.
-2.  **쿠키 및 사이트 권한 > 알림** 메뉴에서 **허용** 항목의 \[추가] 버튼을 클릭합니다.
+1. Microsoft Edge 브라우저의 [더보기] 아이콘 **> 설정**을 클릭합니다.
+2.  **쿠키 및 사이트 권한 > 알림** 메뉴에서 **허용** 항목의 [추가] 버튼을 클릭합니다.
 
     ![그림. Edge 브라우저 알림 허용](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c6f396f-2d4d-4213-b26c-9b5499cd8835/Untitled.png)
-3. **사이트 추가** 팝업창에서 `https://workboard.kakaowork.com/`를 입력하고 \[추가] 버튼을 클릭합니다.
+3. **사이트 추가** 팝업창에서 `https://workboard.kakaowork.com/`를 입력하고 [추가] 버튼을 클릭합니다.
 {% endtab %}
 {% endtabs %}
 
