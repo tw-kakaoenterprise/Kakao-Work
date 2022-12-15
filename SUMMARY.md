@@ -15,6 +15,7 @@
   * [워크보드](kakao-work/user/workboard.md)
     * [워크보드 기본 기능](kakao-work/user/workboard-feature.md)
     * [워크보드 관리](kakao-work/user/workboard-manage.md)
+    * [워크보드 활용 및 소통](kakao-work/user/workboard-how-to.md)
   * [통합검색](kakao-work/user/search.md)
   * [바로가기](kakao-work/user/direct.md)
   * [확장서비스](kakao-work/user/extention.md)
