@@ -6,7 +6,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 ## 가입하기
 
-카카오워크에는 멤버들로 구성된 작은 집합으로서 팀/회사/단체/계열사 단위로 설정하여 사용할 수 있는 업무 공간인 **워크스페이스**가 존재합니다. 카카오워크를 사용하기 위해서는 특정 워크스페이스에 소속되어야 하며, 워크스페이스에 참여하기 위해서는 [초대 링크](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f) 혹은 [이메일 초대장](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f)을 통해 kakao i 계정을 생성해야 합니다.
+카카오워크에는 멤버들로 구성된 작은 집합으로서 팀/회사/단체/계열사 단위로 설정하여 사용할 수 있는 업무 공간인 **워크스페이스**가 존재합니다. 카카오워크를 사용하기 위해서는 특정 워크스페이스에 소속되어야 하며, 워크스페이스에 참여하기 위해서는 [초대 링크](enter.md#undefined-4) 혹은 [이메일 초대장](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f)을 통해 kakao i 계정을 생성해야 합니다.
 
 {% hint style="info" %}
 **안내**\
@@ -22,15 +22,14 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 초대 링크를 발송하는 방법은 [Kakao Work 관리자 가이드](https://www.notion.so/Kakao-Work-PC-786f35d3db03469e9170d7307a14f4f7)의 [**워크스페이스 개설 > 초대 링크 전달하기**](https://www.notion.so/2-1-bdcc7f572f0d457ab85be2cae24a7f48)를 참고하시기 바랍니다.
 {% endhint %}
 
-1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.&#x20;
+1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.
 
-    ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
-
+    ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
 2.  Kakao i 계정을 생성합니다.
+
     * 기입한 이메일 주소로 인증을 완료해야 합니다.
 
     ![그림. Kakao i 계정 생성](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/Kakao%20i%20%EA%B3%84%EC%A0%95%20%EC%83%9D%EC%84%B1.png)
-
 3.  가입이 완료되면 \[카카오워크 시작] 버튼을 클릭하여 카카오워크를 실행합니다.
 
     * 카카오워크 앱은 \[설치] 버튼을 클릭하거나 카카오워크 [공식 홈페이지](https://www.kakaowork.com/download)에서 다운로드할 수 있습니다.
