@@ -29,7 +29,7 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
 
 {% hint style="info" %}
 **안내**\
-추천 명령어 및 일반 대화방에서 카카오 i 캐스퍼를 활용하는 방법은 [사용자 가이드](https://www.notion.so/9-fa769d0d66bd450baabd7df78202eab2) > [카카오 i 캐스퍼](https://kakaowork.oopy.io/user/kasper) 문서를 참고하시기 바랍니다.
+추천 명령어 및 일반 대화방에서 카카오 i 캐스퍼를 활용하는 방법은 [카카오 i 캐스퍼](https://kakaowork.oopy.io/user/kasper)[ ](kasper.md)문서를 참고하시기 바랍니다.
 {% endhint %}
 
 ### 캐스퍼 1:1 채팅방
