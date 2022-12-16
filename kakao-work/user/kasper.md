@@ -18,18 +18,18 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
 
 1. 채팅방 입력창에 '**/캐스퍼**'를 입력 후 스페이스바를 누르거나 [캐스퍼] 아이콘을 클릭합니다.
     
-    ![그림. 카카오 i 캐스퍼 호출](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/80bc27a6-dd2b-4117-9a92-0860e3b089cc/%EC%BA%90%EC%8A%A4%ED%8D%BC_%ED%98%B8%EC%B6%9C_(1).png)
+    ![그림. 카카오 i 캐스퍼 호출](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%BA%90%EC%8A%A4%ED%8D%BC%20%ED%98%B8%EC%B6%9C%20(1).png)
 
     
 2. 질문을 전송한 후 카카오 i 캐스퍼의 답변을 확인합니다.
     
-    ![그림. 카카오 i 캐스퍼 답변](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fcb7748-898c-4229-bb94-8e9f36ac5ba8/%EC%B9%B4%EC%B9%B4%EC%98%A4_i_%EC%BA%90%EC%8A%A4%ED%8D%BC_%EB%8B%B5%EB%B3%80.png)
+    ![그림. 카카오 i 캐스퍼 답변](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%20i%20%EC%BA%90%EC%8A%A4%ED%8D%BC%20%EB%8B%B5%EB%B3%80.png)
     
 
 ## 추천 명령어
 항목에 따른 카카오 i 캐스퍼 추천 명령어를 사용하면 더욱 정확한 답변을 확인하실 수 있습니다.  
 
-![그림. 카카오 i 캐스퍼 추천 명령어](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4188b651-6dcf-46bb-b9ee-5607bd2019c7/%EC%B9%B4%EC%B9%B4%EC%98%A4_i_%EC%BA%90%EC%8A%A4%ED%8D%BC_%EC%B6%94%EC%B2%9C_%EB%AA%85%EB%A0%B9%EC%96%B4.png)
+![그림. 카카오 i 캐스퍼 추천 명령어](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%20i%20%EC%BA%90%EC%8A%A4%ED%8D%BC%20%EC%B6%94%EC%B2%9C%20%EB%AA%85%EB%A0%B9%EC%96%B4.png)
 
 
 | 항목 | 추천 명령어 |
@@ -48,7 +48,7 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
 
 카카오 i 캐스퍼 지식 검색 서비스를 이용하기 위해서는 관리자가 질문과 답변 데이터를 직접 등록해야 합니다. 자세한 설명은 **[관리자 가이드 > 봇 관리](https://kakaowork.oopy.io/admin/bot#b6cca328-a27c-4e16-8fe4-482d291a10b7)** 문서를 참고하시기 바랍니다.  
 
-![그림. 카카오 i 캐스퍼 지식검색](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11a03022-fb47-4f03-a13c-69ba49de079e/%EC%B9%B4%EC%B9%B4%EC%98%A4_i_%EC%BA%90%EC%8A%A4%ED%8D%BC_%EC%A7%80%EC%8B%9D%EA%B2%80%EC%83%89.png)
+![그림. 카카오 i 캐스퍼 지식검색](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%20i%20%EC%BA%90%EC%8A%A4%ED%8D%BC%20%EC%A7%80%EC%8B%9D%EA%B2%80%EC%83%89.png)
 
 
 {% hint style="info" %}

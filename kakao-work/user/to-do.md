@@ -57,7 +57,7 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
 1. **할 일** 탭에서 할 일과 완료한 일 내역을 조회합니다. 
     - 설정된 마감일이 지났을 경우 빨간색 글씨로 마감일로부터 지난 일 수가 표시됩니다.
     
-    ![그림. 진행 중인 일/완료한 일 조회](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1dcf676-350b-4356-a10d-5055f8c870c3/%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%85%E1%85%AD_%E1%84%92%E1%85%A1%E1%86%AF_%E1%84%8B%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%A9%E1%84%92%E1%85%AC.png)
+    ![그림. 진행 중인 일/완료한 일 조회](https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%99%84%EB%A3%8C%20%ED%95%A0%20%EC%9D%BC%20%EC%A1%B0%ED%9A%8C.png)
     
     
 2. 할 일 목록에서 할 일을 클릭하면, 할 일의 상세 정보를 조회할 수 있습니다.
