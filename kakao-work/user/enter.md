@@ -81,13 +81,15 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 * 조직 ID가 존재하지 않을 경우, [이메일 주소를 사용](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f)하여 워크스페이스에 입장할 수 있습니다.
 {% endhint %}
 
-1. 카카오워크 PC 앱을 실행 후, **조직 ID**를 입력합니다.
 
-![그림. 카카오워크 로그인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
 
-1. 가입 시 사용한 ID(이메일 또는 휴대폰 번호)와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
+1.  카카오워크 PC 앱을 실행 후, **조직 ID**를 입력합니다.
 
-![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+    ![그림. 카카오워크 로그인 화면
+    ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
+2.  가입 시 사용한 ID(이메일 또는 휴대폰 번호)와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
+
+    ![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
 ## 비밀번호 재설정하기
 
