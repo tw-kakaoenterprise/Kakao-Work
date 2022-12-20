@@ -2,7 +2,10 @@
 
 ## Kakao Work
 
-* [사용자 가이드](README.md)
+* [관리자 가이드](README.md)
+  * [워크스페이스 개설](kakao-work/kakao-work-admin/create.md)
+  * [워크스페이스 환경 설정](kakao-work/kakao-work-admin/config.md)
+* [사용자 가이드](<README (1).md>)
   * [다이내믹 패널](kakao-work/user/dynamic-panel.md)
   * [워크스페이스 입장](kakao-work/user/enter.md)
   * [채팅](kakao-work/user/chat/README.md)
@@ -22,9 +25,3 @@
   * [더보기](kakao-work/user/more.md)
   * [설정](kakao-work/user/setting.md)
   * [멀티워크스페이스](kakao-work/user/multi.md)
-
-***
-
-* [관리자 가이드](kakao-work-admin/README.md)
-  * [워크스페이스 개설](kakao-work-admin/create.md)
-  * [워크스페이스 환경 설정](kakao-work-admin/config.md)
