@@ -25,3 +25,4 @@
 * [관리자 가이드](kakao-work-admin/README.md)
   * [워크스페이스 개설](kakao-work-admin/create.md)
   * [워크스페이스 환경 설정](kakao-work-admin/config.md)
+  * [워크스페이스 멤버 관리](guide/kakao-work-admin/undefined.md)
