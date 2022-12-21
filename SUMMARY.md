@@ -1,6 +1,6 @@
 # Table of contents
 
-## Kakao Work
+## 카카오워크 사용법 <a href="#guide" id="guide"></a>
 
 * [사용자 가이드](README.md)
   * [다이내믹 패널](kakao-work/user/dynamic-panel.md)
@@ -22,9 +22,6 @@
   * [더보기](kakao-work/user/more.md)
   * [설정](kakao-work/user/setting.md)
   * [멀티워크스페이스](kakao-work/user/multi.md)
-
-***
-
 * [관리자 가이드](kakao-work-admin/README.md)
   * [워크스페이스 개설](kakao-work-admin/create.md)
   * [워크스페이스 환경 설정](kakao-work-admin/config.md)

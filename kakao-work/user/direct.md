@@ -10,7 +10,7 @@ description: '내 프로필을 설정하는 방법을 안내합니다.'
 {% hint style="info" %}
 **안내**<br>
 근태관리와 전자결재 서비스를 정상적으로 사용하기 위해서는 관리자의 별도 설정이 필요합니다.
-- 근태관리 및 전자결재 설정: [**근태관리 관리자 가이드](https://workservice.oopy.io/schedule-admin)와 [전자결재 관리자 가이드](https://workservice.oopy.io/approval-admin)** 문서 참고
+- 근태관리 및 전자결재 설정: [근태관리 관리자 가이드](https://workservice.oopy.io/schedule-admin)와 [전자결재 관리자 가이드](https://workservice.oopy.io/approval-admin) 문서 참고
 <br>
 바로가기 리스트 관리 방법은 관련 문서를 참고하시기 바랍니다.
 - 워크 서비스의 **바로가기** 탭 노출 여부 설정: [관리자 가이드](https://kakaowork.oopy.io/admin) > [워크서비스 관리](https://kakaowork.oopy.io/admin/workservice) 문서 참고
