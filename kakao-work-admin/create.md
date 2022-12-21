@@ -97,7 +97,7 @@
     ![그림. 워크스페이스 초대장](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b7db879-87b4-4f79-93d5-114fb5f1dd09/%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3\_%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC.png)
 
 {% hint style="info" %}
-**안내**\
+**안내**
 
 전달받은 초대 링크로 워크스페이스에 가입하는 방법은 [카카오워크 사용자](https://www.notion.so/Kakao-Work-PC-4c0ada760503496c836f7d63ca610d53) [워크스페이스 입장](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f) 문서를 참고하시기 바랍니다.
 {% endhint %}
