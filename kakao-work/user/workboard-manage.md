@@ -35,7 +35,7 @@ PC에 저장된 이미지, 동영상, 파일을 게시글에 첨부할 수 있�
 
 ### 볼드체 설정하기
 
-특정 텍스트를 볼드체(굵은 글씨체)로 바꾸어 강조할 수 있습니다. 볼드체를 적용할 텍스트를 드래그한 후, [B] \*\*\*\*아이콘을 클릭합니다. ![그림. 텍스트 드래그 후 볼드체 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f49fcdec-e7fb-4fa2-b802-637e3503c742/Untitled.png)
+특정 텍스트를 볼드체(굵은 글씨체)로 바꾸어 강조할 수 있습니다. 볼드체를 적용할 텍스트를 드래그한 후, [B] 아이콘을 클릭합니다. ![그림. 텍스트 드래그 후 볼드체 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f49fcdec-e7fb-4fa2-b802-637e3503c742/Untitled.png)
 
 혹은 입력창에서 [B] 아이콘을 클릭한 후, 볼드체를 적용할 텍스트를 작성합니다. ![그림. 볼드체 활성화 후 텍스트 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc6e7d4b-1a96-4683-ae19-1bb63c8ebcfd/Untitled.png)
 
