@@ -115,7 +115,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 | Microsoft Edge | 설정 > 쿠키 및 사이트 권한 > 알림 메뉴에서 워크보드 도메인 추가        |
 | Safari         | 현재 웹 푸시 알림 기능 미지원                             |
 
-****
+
 
 {% tabs %}
 {% tab title="Chrome" %}
@@ -142,7 +142,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 {% endtab %}
 {% endtabs %}
 
-****
+
 
 {% hint style="info" %}
 **안내**\
