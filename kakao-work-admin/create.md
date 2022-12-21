@@ -43,7 +43,7 @@
 
 {% hint style="danger" %}
 **주의**\
-****워크스페이스 생성 및 관리자 계정 가입은 다운로드 받은 카카오워크 앱에서만 가능합니다.
+워크스페이스 생성 및 관리자 계정 가입은 다운로드 받은 카카오워크 앱에서만 가능합니다.
 {% endhint %}
 
 ![그림. 카카오워크 공식 홈페이지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce319735-3b53-4497-97f3-1644cd9ddc4f/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EA%B3%B5%EC%8B%9D\_%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80.png)
