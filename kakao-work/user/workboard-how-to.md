@@ -126,7 +126,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
     ![그림. Chrome 브라우저 알림 허용](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8bab8ad-0ce2-4f33-8d1e-c34f527e5659/Untitled.png)
 
-    4\. **사이트 추가** 팝업창에서 `https://workboard.kakaowork.com/`를 입력하고 [추가] 버튼을 클릭합니다.
+    4. **사이트 추가** 팝업창에서 `https://workboard.kakaowork.com/`를 입력하고 [추가] 버튼을 클릭합니다.
 
 ![그림. Chrome 사이트 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/871ec02a-2b96-433f-9794-eddc97338d9c/Untitled.png)
 {% endtab %}
