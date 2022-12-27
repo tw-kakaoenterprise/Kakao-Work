@@ -2,7 +2,7 @@
 
 ### PC 보안
 
-[**카카오워크 관리자 서비스**](https://admin.kakaowork.com/) **> 보안 > PC 보안** 메뉴에서 PC 앱 사용과 관련된 보안 설정을 관리할 수 있습니다.
+[카카오워크 관리자 서비스](https://admin.kakaowork.com/) **> 보안 > PC 보안** 메뉴에서 PC 앱 사용과 관련된 보안 설정을 관리할 수 있습니다.
 
 ![그림. PC 보안 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76a337a3-1c8d-4704-9969-958dc795e2e0/PC\_%EB%B3%B4%EC%95%88\_%EC%84%A4%EC%A0%95.png)
 
@@ -22,9 +22,10 @@
 
 * 강제 잠금 설정은 3분/10분/30분/1시간 단위로 지정할 수 있습니다.
 
-\<aside> 💡 **안내** 관리자는 PC 강제 잠금 설정에 대한 Bot 메시지 발송 여부를 선택할 수 있습니다.
+{% hint style="info" %}
+**안내**\ 관리자는 PC 강제 잠금 설정에 대한 Bot 메시지 발송 여부를 선택할 수 있습니다.
 
-\</aside>
+{% endhint %}
 
 ![그림. PC 강제 잠금 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3b99dd9-1b03-4616-970b-52d4cdfc7304/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA\_2022-12-08\_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE\_7.18.36.png)
 
@@ -40,7 +41,7 @@
 
 #### 보안 파일 뷰어 설정하기
 
-**보안 파일 뷰어 사용** 기능을 **사용**으로 설정 시 \*\*\*\*PC 앱에서 공유받은 파일을 별도 다운로드 없이 파일 뷰어에서 볼 수 있습니다.
+**보안 파일 뷰어 사용** 기능을 **사용**으로 설정 시 PC 앱에서 공유받은 파일을 별도 다운로드 없이 파일 뷰어에서 볼 수 있습니다.
 
 ![그림. 보안 파일 뷰어 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ef517e4-263c-4d1a-a45e-43b33f5cb017/PC\_%EB%B3%B4%EC%95%88\_%ED%8C%8C%EC%9D%BC\_%EB%B7%B0%EC%96%B4\_%EC%84%A4%EC%A0%95.png)
 
@@ -48,7 +49,7 @@
 
 ### 모바일 보안
 
-[**카카오워크 관리자 서비스**](https://admin.kakaowork.com/) **> 보안 > 모바일 보안** 메뉴에서는 모바일 앱 사용과 관련된 보안 설정을 관리할 수 있습니다.
+[카카오워크 관리자 서비스](https://admin.kakaowork.com/) **> 보안 > 모바일 보안** 메뉴에서는 모바일 앱 사용과 관련된 보안 설정을 관리할 수 있습니다.
 
 ![그림. 모바일 보안 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8628ef8e-5b70-4a4f-a31e-6d1318ca2685/%EB%AA%A8%EB%B0%94%EC%9D%BC\_%EB%B3%B4%EC%95%88\_%EC%84%A4%EC%A0%95.png)
 

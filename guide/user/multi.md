@@ -12,7 +12,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 ![그림. 내 워크스페이스 목록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fef2b85-30b3-448a-93fa-5448a8c6a478/Untitled.png)
 
-이미 로그인한 상태라면, 워크스페이스 로고 > **다른 워크스페이스 로그인**을 클릭해 **내 워크스페이스** 목록으로 이동합니다.
+이미 로그인한 상태라면, 워크스페이스 로고 **다른 워크스페이스 로그인**을 클릭해 **내 워크스페이스** 목록으로 이동합니다.
 
 ![그림. 다른 워크스페이스 로그인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a2072e9-c136-4d32-a23c-657af7f6bdc2/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%A1%B0%ED%9A%8C.png)
 

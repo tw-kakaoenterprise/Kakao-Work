@@ -2,7 +2,7 @@
 
 ### 모바일 보안
 
-[**카카오워크 관리자 서비스**](https://admin.kakaowork.com/) **> 보안 > 모바일 보안** 메뉴에서는 모바일 앱 사용과 관련된 보안 설정을 관리할 수 있습니다.
+[카카오워크 관리자 서비스](https://admin.kakaowork.com/) **> 보안 > 모바일 보안** 메뉴에서는 모바일 앱 사용과 관련된 보안 설정을 관리할 수 있습니다.
 
 ![그림. 모바일 보안 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8628ef8e-5b70-4a4f-a31e-6d1318ca2685/%EB%AA%A8%EB%B0%94%EC%9D%BC\_%EB%B3%B4%EC%95%88\_%EC%84%A4%EC%A0%95.png)
 

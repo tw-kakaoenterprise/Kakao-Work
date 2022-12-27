@@ -21,7 +21,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 * 사내 서비스를 **바로가기**에 연결하는 방법: [관리자 가이드](https://kakaowork.oopy.io/admin) > [바로가기 관리](https://kakaowork.oopy.io/admin/shortcut) 문서 참고
 {% endhint %}
 
-**확장** 탭 > **바로가기** 메뉴에서 원하는 서비스를 선택합니다. ![그림. 확장 탭 > 바로가기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bcca34b-04b3-4901-9e3a-e973712f2e88/%ED%99%95%EC%9E%A5\_%ED%83%AD\_\_\_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0\_\(1\).png)
+**확장** 탭 **바로가기** 메뉴에서 원하는 서비스를 선택합니다. ![그림. 확장 탭 > 바로가기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bcca34b-04b3-4901-9e3a-e973712f2e88/%ED%99%95%EC%9E%A5\_%ED%83%AD\_\_\_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0\_\(1\).png)
 
 ## 게시판 바로가기
 
