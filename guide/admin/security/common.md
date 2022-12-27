@@ -10,7 +10,7 @@
 
 | 구분                                                                                                                 | 설명                                       |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
-| ① [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 채팅방 및 뷰어 영역에 워터마크 정보(스페이스명, 멤버 ID) 표시 설정 |
+| ⓵ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 채팅방 및 뷰어 영역에 워터마크 정보(스페이스명, 멤버 ID) 표시 설정 |
 
 * 스크린샷 또는 외부 촬영에 의해 유출될 경우 유출 경위 추적 가능
 * STANDARD 요금제부터 사용 가능 | | ⓶ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 외부 스페이스 멤버와의 채팅방에서 파일을 업로드할 수 없도록 제한 설정 | | ⓷ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 메시지 내용에 고유 식별 정보 등 민감한 정보를 전송할 수 없도록 제한 설정

@@ -10,7 +10,7 @@
 
 | 구분                                                                                                                 | 설명                                |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
-| ① [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | PC 미사용 시간이 지속될 경우 잠금 모드로 강제 전환 설정 |
+| ⓵ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | PC 미사용 시간이 지속될 경우 잠금 모드로 강제 전환 설정 |
 
 * 멤버들은 관리자가 설정한 시간 이내에서만 잠금 모드 시간 설정 가능 | | ⓶ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | PC 앱에서 파일을 다운로드할 수 없도록 제한 설정
 * 보안 파일 뷰어 사용을 설정하지 않은 경우, PC 앱에서 사진을 제외한 모든 파일을 열어볼 수 없음 | | ⓷ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | PC 앱에서 파일 조회 시, 별도 다운로드 없이 파일 뷰어를 통해 조회 가능하도록 설정
@@ -57,7 +57,7 @@
 
 | 구분                                                                                                                 | 설명                     |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------- |
-| ① [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 모바일 앱에서 암호 잠금 모드 강제 설정 |
+| ⓵ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 모바일 앱에서 암호 잠금 모드 강제 설정 |
 
 * 멤버들은 모바일 앱에 진입할 때마다 암호를 입력해야 함 | | ⓶ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 모바일 앱에서 파일을 다운로드할 수 없도록 제한 설정
 * 파일 뷰어 사용을 설정하지 않은 경우, 모바일 앱에서 사진을 제외한 모든 파일을 열어볼 수 없음 | | ⓷ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 모바일 앱에서 파일을 업로드할 수 없도록 제한 설정 | | ⓸ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 모바일 앱에서 파일 조회 시, 별도 다운로드 없이 파일 뷰어를 통해 조회 가능하도록 설정
