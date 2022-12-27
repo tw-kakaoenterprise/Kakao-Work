@@ -1,5 +1,7 @@
 # Table of contents
 
+* [README](README.md)
+
 ## 카카오워크 사용법 <a href="#guide" id="guide"></a>
 
 * [사용자 가이드](guide/user/README.md)
@@ -7,15 +9,15 @@
   * [워크스페이스 입장](guide/user/enter.md)
   * [채팅](guide/user/chat/README.md)
     * [채팅 시작](guide/user/chat/start.md)
-    * [채팅방 관리](guide/readme/chat/manage.md)
+    * [채팅방 관리](guide/readme/chat/undefined.md)
     * [채팅 기본 기능](guide/user/chat/basic.md)
   * [프로필 설정](guide/user/profile.md)
   * [카카오 i 캐스퍼](guide/user/kasper.md)
   * [할일](guide/user/to-do.md)
   * [워크보드](guide/user/workboard.md)
-    * [워크보드 기본 기능](guide/readme/workboard/basic.md)
-    * [워크보드 관리](guide/readme/workboard/manage.md)
-    * [워크보드 활용 및 소통](guide/readme/workboard/use.md)
+    * [워크보드 기본 기능](guide/readme/undefined-1/undefined.md)
+    * [워크보드 관리](guide/readme/undefined-1/undefined-1.md)
+    * [워크보드 활용 및 소통](guide/readme/undefined-1/undefined-2.md)
   * [통합검색](guide/user/search.md)
   * [바로가기](guide/user/direct.md)
   * [확장서비스](guide/user/extention.md)
