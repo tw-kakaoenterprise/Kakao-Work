@@ -16,7 +16,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
     ![그림. 검색어 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1c90435-2b48-4ab5-a237-c8ba9255e780/%EA%B2%80%EC%83%89%EC%96%B4\_%EC%9E%85%EB%A0%A5.png)
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 최근 검색어는 사용자 디바이스 간에 동기화됩니다.
 {% endhint %}
 
@@ -59,6 +59,6 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 ![그림. 파일 탭](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5798536-980d-4f5b-9058-5fb45df2c87e/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF\_%E1%84%90%E1%85%A2%E1%86%B8.png)
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 파일 본문 검색 기능은 추후 제공 예정입니다.
 {% endhint %}

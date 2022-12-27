@@ -1,7 +1,5 @@
 # Bot(봇) 관리하기
 
-## Bot(봇) 관리하기
-
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **봇 관리** 메뉴에서는 업무에 활용할 Bot을 개발하고, 카카오 i 캐스퍼 지식 검색 서비스의 데이터를 등록 및 관리할 수 있습니다.
 
 Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 응용 프로그램입니다. 카카오워크에서는 업무에 필요한 서비스를 연결한 Bot을 개발 및 관리하는 기능을 제공합니다. 워크스페이스 멤버들은 Bot을 통해 관련 알림을 채팅방 메시지로 빠르게 확인할 수 있습니다. **봇 관리 > 워크스페이스 봇 관리, Bot 개발자 관리, Bot 개발** 메뉴에서는 Bot 관리자를 지정하거나 Bot을 생성 및 관리할 수 있고, **API 가이드**와 **Block Kit Builder**를 Bot 개발에 활용할 수 있습니다.
@@ -42,12 +40,12 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 개발자를 신규 등록하는 방법은 다음과 같습니다.
 
-1.  **봇 관리 > Bot 개발자 관리** 화면으로 이동하여 \[개발자 추가 등록] 버튼을 클릭합니다.
+1.  **봇 관리 > Bot 개발자 관리** 화면으로 이동하여 [개발자 추가 등록] 버튼을 클릭합니다.
 
     ![그림. 개발자 추가 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3124d2dd-1761-49b4-bf6b-8d120435f99d/Untitled.png)
 
     그림. 개발자 추가 등록
-2.  개발자로 등록할 멤버 이름 검색 후, \[추가] 버튼을 클릭합니다.
+2.  개발자로 등록할 멤버 이름 검색 후, [추가] 버튼을 클릭합니다.
 
     ![그림. 개발자 등록 팝업창](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f362ac75-40a5-4520-9ace-0b580597f797/Untitled.png)
 
@@ -57,7 +55,7 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 #### 권한 해제하기
 
-**봇 관리 > Bot 개발자 관리**에서 \[권한 해제] 버튼을 클릭하여 개발자 권한을 해제할 수 있습니다.
+**봇 관리 > Bot 개발자 관리**에서 [권한 해제] 버튼을 클릭하여 개발자 권한을 해제할 수 있습니다.
 
 ![그림. 개발자 권한 해제](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f01b3c13-6822-40fb-961c-059eaf0fbd8d/Untitled.png)
 
@@ -70,7 +68,7 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 * 관리자도 Bot 개발을 하기 위해서는 먼저 [개발자 등록](https://www.notion.so/d17fc11a945a45129657371bdaa6cd33)을 완료해야 합니다.
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 **** Bot 개발 서비스는 현재(22년 11월 기준) Beta 버전으로 제공됩니다.
 {% endhint %}
 
@@ -92,12 +90,12 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 신규 Bot을 생성하는 방법은 다음과 같습니다.
 
-1.  **봇 관리 > Bot 개발** 화면에서 \[Bot 생성하기] 버튼을 클릭합니다.
+1.  **봇 관리 > Bot 개발** 화면에서 [Bot 생성하기] 버튼을 클릭합니다.
 
     ![그림. Bot 생성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e184269-2923-4b69-b947-db33075215cd/Untitled.png)
 
 
-2.  Bot 정보를 입력한 후, \[생성] 버튼을 클릭합니다.
+2.  Bot 정보를 입력한 후, [생성] 버튼을 클릭합니다.
 
     ![그림. Bot 정보 입력 팝업창](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab6e135c-ba6f-4d2b-b12b-4a3146bcf0b1/Untitled.png)
 
@@ -113,12 +111,12 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 Bot의 정보를 수정하는 방법은 다음과 같습니다.
 
-1.  **봇 관리 > Bot 개발자 관리** 메뉴에서 \[수정] 아이콘을 클릭합니다.
+1.  **봇 관리 > Bot 개발자 관리** 메뉴에서 [수정] 아이콘을 클릭합니다.
 
     ![그림. 생성된 Bot 수정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/761e5368-20c0-4c76-8694-53d1e41577e7/Untitled.png)
 2.  제작된 Bot의 기본 정보와 권한 등을 설정합니다.
 
-    1.  **Bot 기본 정보 탭**에서 정보 수정 후 \[저장] 버튼을 클릭합니다.
+    1.  **Bot 기본 정보 탭**에서 정보 수정 후 [저장] 버튼을 클릭합니다.
 
         * **App Key**는 Bot 생성 시 자동으로 부여되며, Bot 인증 시 Request 파라미터에 입력하는 값입니다.
 
@@ -137,7 +135,7 @@ Bot의 정보를 수정하는 방법은 다음과 같습니다.
 
     ****
 
-    1.  **Bot 권한 및 기능 탭**에서 정보 수정 후 \[저장] 버튼을 클릭합니다.
+    1.  **Bot 권한 및 기능 탭**에서 정보 수정 후 [저장] 버튼을 클릭합니다.
 
         ![그림. Bot 권한 및 기능 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618f8520-5317-4dae-b13b-3a94c93cb6b1/Untitled.png)
 
@@ -155,6 +153,6 @@ Bot의 정보를 수정하는 방법은 다음과 같습니다.
     | Callback URL    | 선택    | Request URL에서 받은 모달 화면에서 사용자가 입력하거나 선택한 정보를 POST 요청으로 보내기 위한 URL                                                                                                                              |
 
 {% hint style="info" %}
-**안내**\
-****자세한 Bot 개발 방법은 \[[카카오 i 기술문서\] Bot 개발 가이드](https://docs.kakaoi.ai/kakao\_work/botdevguide/)와 \[[카카오 i 기술문서\] Web API 레퍼런스](https://docs.kakaoi.ai/kakao\_work/webapireference/) 문서를 참고하시기 바랍니다.
+**안내**<br>
+****자세한 Bot 개발 방법은 [[카카오 i 기술문서\] Bot 개발 가이드](https://docs.kakaoi.ai/kakao\_work/botdevguide/)와 [[카카오 i 기술문서\] Web API 레퍼런스](https://docs.kakaoi.ai/kakao\_work/webapireference/) 문서를 참고하시기 바랍니다.
 {% endhint %}

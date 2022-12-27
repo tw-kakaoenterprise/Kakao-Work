@@ -27,7 +27,7 @@
 ![그림. 음성채팅 참여](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9D%8C%EC%84%B1%EC%B1%84%ED%8C%85%20%EC%B0%B8%EC%97%AC.png)
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 특정 상황에서는 음성채팅 참여가 제한됩니다.
 
 * 음성채팅의 최대 참여 인원 수는 200명으로, 이미 200명이 참여하고 있다면 새로운 멤버는 음성채팅에 참여할 수 없습니다.

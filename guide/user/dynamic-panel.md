@@ -28,7 +28,7 @@ description: 카카오워크의 다이내믹 패널을 안내합니다.
 AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 기반의 답변을 제공하는 서비스입니다. 카카오 i 캐스퍼는 어학, 백과, 뉴스 등에 대한 정보를 제공하고 사내 지식 검색 및 일정 관리 등 업무를 돕는 기능을 수행합니다.
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 추천 명령어 및 일반 대화방에서 카카오 i 캐스퍼를 활용하는 방법은 [카카오 i 캐스퍼](https://kakaowork.oopy.io/user/kasper)[ ](kasper.md)문서를 참고하시기 바랍니다.
 {% endhint %}
 
@@ -82,6 +82,6 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
     ![그림. 즐겨찾기 추가 완료](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%20%EC%B6%94%EA%B0%80%20%EC%99%84%EB%A3%8C.png)
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 즐겨찾는 멤버는 최대 100명까지 추가할 수 있습니다.
 {% endhint %}

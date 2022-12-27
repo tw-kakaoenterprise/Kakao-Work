@@ -20,17 +20,20 @@
 1.  카카오워크 앱을 실행하고 **카카오워크가 처음이신가요?**를 클릭합니다.
 
     ![그림. 카카오워크 로그인 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42d7c68b-712a-4a2b-86ce-eed38edeb798/Untitled.png)
+
 2.  관리자 계정을 생성하기 위해, **관리자 계정 만들기**를 클릭합니다.
 
     ![그림. 관리자 계정 만들기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc1e67fd-64bf-4df7-a0e3-f0c2901e5ddc/Untitled.png)
+
 3.  관리자 계정 가입에 필요한 약관 동의와 정보를 입력합니다.
 
     ![그림. 관리자 계정 가입](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/168001d8-c2d4-4dbe-a07d-bd60da2590ce/Untitled.png)
-4.  생성할 워크스페이스명을 입력하고 [다음] 버튼을 클릭합니다.
 
+4.  생성할 워크스페이스명을 입력하고 [다음] 버튼을 클릭합니다.
     * 워크스페이스명은 60자까지 입력할 수 있습니다.
 
     ![그림. 워크스페이스명 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6793fd2-adb2-4e1a-bb4e-e811c6e6d687/%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%86%E1%85%A7%E1%86%BC\_%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC.png)
+
 5.  완성된 워크스페이스를 확인합니다.
 
     ![그림. 워크스페이스 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a5699e3-4d98-4003-be17-673981503e24/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%ED%99%95%EC%9D%B8\_\(1\).png)
@@ -46,9 +49,11 @@
 1.  **더보기** 탭 **멤버 초대 링크**에서 [초대링크 만들기]를 클릭합니다.
 
     ![그림. 더보기 멤버 초대 링크](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3513e19b-a92f-4ddd-8a74-48a90eb65330/Untitled.png)
+
 2.  생성된 워크스페이스의 초대 링크를 복사해, 이메일/카카오톡 등을 통해 초대할 멤버에게 전달합니다.
 
     ![그림. 멤버 초대 링크 복사](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26a7ab8f-2220-4fd5-8ca0-ddc580db4cfd/Untitled.png)
+
 3.  초대된 멤버들은 다음과 같은 초대장을 받게 됩니다.
 
     * 초대장을 받은 멤버들은 [계정 만들기] 버튼을 클릭하여 계정을 생성해야 합니다.
@@ -70,14 +75,15 @@
 1.  [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **워크스페이스 멤버 멤버 관리** 메뉴에서 [멤버 등록] 버튼을 클릭합니다.
 
     ![그림. 멤버 개별 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f6831b9-9a36-4949-8667-ce5c45c4d57c/%EB%A9%A4%EB%B2%84\_%EA%B0%9C%EB%B3%84\_%EB%93%B1%EB%A1%9D.png)
+
 2.  멤버의 정보를 작성 후 [등록] 버튼을 클릭합니다.
 
     * ID(이메일)과 이름은 필수 작성 항목입니다.
     * **멤버 등록** 팝업창에서 입력한 정보를 카카오워크 앱의 프로필 창에 보이도록 설정하려면, [카카오워크 관리자 서비스](https://kakaowork.com/login?service=admin) **워크스페이스 환경** **프로필 정보**에서 표시할 항목을 선택합니다.
 
     ![그림. 멤버 정보 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf1e45bd-894f-45f9-8348-be20c3e0b7de/%EB%A9%A4%EB%B2%84\_%EC%A0%95%EB%B3%B4\_%EC%9E%91%EC%84%B1.png)
-3.  멤버를 등록하면 멤버의 ID(이메일) 주소로 멤버 등록 이메일이 발송됩니다.
 
+3.  멤버를 등록하면 멤버의 ID(이메일) 주소로 멤버 등록 이메일이 발송됩니다.
     * 멤버가 이메일을 확인하여 비밀번호를 설정하면 멤버 등록이 완료됩니다.
 
     ![그림. 워크스페이스 초대 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a419a24-def3-4a07-a9e7-1ca2f6d84eb3/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%B4%88%EB%8C%80\_%ED%99%95%EC%9D%B8.png)
@@ -87,18 +93,20 @@
 1.  [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **워크스페이스 멤버 멤버 관리** 메뉴에서 [멤버 일괄등록] 버튼을 클릭합니다.
 
     ![그림. 멤버 일괄 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5bd0bc7-666d-4362-9886-ed6a3b03ec1e/%EB%A9%A4%EB%B2%84\_%EC%9D%BC%EA%B4%84\_%EB%93%B1%EB%A1%9D.png)
+
 2.  [Excel 양식 다운로드] 버튼을 클릭하여 샘플 양식을 내려받은 후, 양식에 맞게 멤버 정보를 작성합니다.
 
     * 1회 등록 시 최대 300건까지 등록할 수 있으며, 자세한 데이터 입력 방법은 [도움말](https://cs.kakao.com/helps?category=588\&locale=ko\&service=171\&articleId=1073202850\&device=2170) 문서를 참고하시기 바랍니다.
 
     ![그림. Excel 양식 다운로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c292d710-c6ea-43c5-8fe0-c0c76b2efd40/Excel\_%EC%96%91%EC%8B%9D\_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
+
 3.  작성된 Excel 파일을 업로드하고 [등록] 버튼을 클릭합니다.
 
     * `.xls` 또는 `.xlsx` 확장자의 파일만 업로드할 수 있습니다.
 
     ![그림. Excel 파일 업로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed5f6b0b-e315-4959-b53f-7c205e2460a5/Excel\_%ED%8C%8C%EC%9D%BC\_\_%EC%97%85%EB%A1%9C%EB%93%9C.png)
-4.  멤버를 등록하면 멤버의 ID(이메일 주소)로 멤버 등록 이메일이 발송됩니다.
 
+4.  멤버를 등록하면 멤버의 ID(이메일 주소)로 멤버 등록 이메일이 발송됩니다.
     * 멤버가 이메일을 확인하여 비밀번호를 설정하면 멤버 등록이 완료됩니다.
 
     ![그림. 워크스페이스 초대 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a419a24-def3-4a07-a9e7-1ca2f6d84eb3/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%B4%88%EB%8C%80\_%ED%99%95%EC%9D%B8.png)
@@ -110,7 +118,7 @@
 👉 **슈퍼 관리자만 접근 가능합니다.**
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 카카오워크는 이메일로 로그인하는 방식과 조직 ID를 통한 로그인 방식을 지원합니다.
 
 * [조직 ID를 통한 로그인](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f) 방식의 경우, 이메일 인증을 통한 인증 번호 입력 절차가 생략됩니다.
@@ -131,6 +139,7 @@
 4.  [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **워크스페이스 환경 로그인 설정** 메뉴에서 [조직 ID 생성하기] 버튼을 클릭합니다.
 
     ![그림. 로그인 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbe5aecf-159c-4ac6-b155-997d4bd0d8e8/%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%EC%84%A4%EC%A0%95.png)
+    
 5.  **조직 ID 생성** 팝업창에서 조직 ID를 입력하고, [생성] 버튼을 클릭합니다.
 
     * 조직 ID는 영문 소문자, 숫자, 붙임표(`-`) 조합으로 최소 2자\~최대 30자로 설정할 수 있습니다.

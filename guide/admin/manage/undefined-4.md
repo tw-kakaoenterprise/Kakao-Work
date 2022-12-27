@@ -5,7 +5,7 @@
 **카카오워크**는 다양한 업무 시스템과 연동하여 사용할 수 있으며, 계정/조직 연동 설정은 [카카오 i 계정 관리자](https://account.kakaoi.ai/) 서비스에서 진행됩니다. 계정/조직 연동 설정은 [STANDARD 요금제](https://www.kakaowork.com/pricing)부터 가능합니다.
 
 {% hint style="info" %}
-**안내**\**슈퍼 관리자만 접근할 수 있습니다.**
+**안내**<br>**슈퍼 관리자만 접근할 수 있습니다.**
 
 {% endhint %}
 

@@ -35,7 +35,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
     ![그림. 할 일 정보 입력](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%ED%95%A0%20%EC%9D%BC%20%EC%A0%95%EB%B3%B4%20%EC%9E%85%EB%A0%A5.png)
 
 {% hint style="info" %}
-**안내**\
+**안내**<br>
 등록한 할 일은 **할 일** 탭에서 확인할 수 있습니다.
 {% endhint %}
 

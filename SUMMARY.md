@@ -6,9 +6,9 @@
   * [다이내믹 패널](guide/user/dinamic.md)
   * [워크스페이스 입장](guide/user/enter.md)
   * [채팅](guide/user/chat/README.md)
-    * [채팅 시작](guide/user/chat/undefined.md)
-    * [채팅방 관리](guide/user/chat/undefined-1.md)
-    * [채팅 기본 기능](guide/user/chat/chat.md)
+    * [채팅 시작](guide/user/chat/start.md)
+    * [채팅방 관리](guide/user/chat/manage.md)
+    * [채팅 기본 기능](guide/user/chat/basic.md)
   * [프로필 설정](guide/user/profile.md)
   * [카카오 i 캐스퍼](guide/user/kasper.md)
   * [할일](guide/user/to-do.md)
@@ -21,7 +21,7 @@
   * [확장서비스](guide/user/extention.md)
   * [더보기](guide/user/more.md)
   * [설정](guide/user/setting.md)
-  * [멀티워크스페이스](guide/user/undefined-11.md)
+  * [멀티워크스페이스](guide/user/multi.md)
 
   
 * [관리자 가이드](guide/admin/README.md)
