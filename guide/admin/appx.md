@@ -52,6 +52,7 @@
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/)의 메뉴 구성은 다음과 같습니다.
 
 ![그림. 카카오워크 관리자 서비스](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8bbfb80-215e-4315-b979-cc1aefa04485/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EA%B4%80%EB%A6%AC%EC%9E%90\_%EC%84%9C%EB%B9%84%EC%8A%A4.png)
+
 | 구분 | 설명 |
 | --- | --- |
 | https://www.notion.so/7218c86c7c6b4b829d924df5469adcda ▼ | 워크스페이스의 기본 정보와 프로필 정보 설정  |
