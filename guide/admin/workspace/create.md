@@ -20,17 +20,21 @@
 1.  카카오워크 앱을 실행하고 **카카오워크가 처음이신가요?**를 클릭합니다.
 
     ![그림. 카카오워크 로그인 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42d7c68b-712a-4a2b-86ce-eed38edeb798/Untitled.png)
+
 2.  관리자 계정을 생성하기 위해, **관리자 계정 만들기**를 클릭합니다.
 
     ![그림. 관리자 계정 만들기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc1e67fd-64bf-4df7-a0e3-f0c2901e5ddc/Untitled.png)
+
 3.  관리자 계정 가입에 필요한 약관 동의와 정보를 입력합니다.
 
     ![그림. 관리자 계정 가입](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/168001d8-c2d4-4dbe-a07d-bd60da2590ce/Untitled.png)
+
 4.  생성할 워크스페이스명을 입력하고 [다음] 버튼을 클릭합니다.
 
     * 워크스페이스명은 60자까지 입력할 수 있습니다.
 
     ![그림. 워크스페이스명 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f6793fd2-adb2-4e1a-bb4e-e811c6e6d687/%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%B3%E1%84%86%E1%85%A7%E1%86%BC\_%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A5%E1%86%BC.png)
+    
 5.  완성된 워크스페이스를 확인합니다.
 
     ![그림. 워크스페이스 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a5699e3-4d98-4003-be17-673981503e24/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%ED%99%95%EC%9D%B8\_\(1\).png)
@@ -46,9 +50,11 @@
 1.  **더보기** 탭 **멤버 초대 링크**에서 [초대링크 만들기]를 클릭합니다.
 
     ![그림. 더보기 멤버 초대 링크](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3513e19b-a92f-4ddd-8a74-48a90eb65330/Untitled.png)
+
 2.  생성된 워크스페이스의 초대 링크를 복사해, 이메일/카카오톡 등을 통해 초대할 멤버에게 전달합니다.
 
     ![그림. 멤버 초대 링크 복사](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26a7ab8f-2220-4fd5-8ca0-ddc580db4cfd/Untitled.png)
+
 3.  초대된 멤버들은 다음과 같은 초대장을 받게 됩니다.
 
     * 초대장을 받은 멤버들은 [계정 만들기] 버튼을 클릭하여 계정을 생성해야 합니다.
@@ -71,12 +77,14 @@
 1.  [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **워크스페이스 멤버 멤버 관리** 메뉴에서 [멤버 등록] 버튼을 클릭합니다.
 
     ![그림. 멤버 개별 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f6831b9-9a36-4949-8667-ce5c45c4d57c/%EB%A9%A4%EB%B2%84\_%EA%B0%9C%EB%B3%84\_%EB%93%B1%EB%A1%9D.png)
+    
 2.  멤버의 정보를 작성 후 [등록] 버튼을 클릭합니다.
 
     * ID(이메일)과 이름은 필수 작성 항목입니다.
     * **멤버 등록** 팝업창에서 입력한 정보를 카카오워크 앱의 프로필 창에 보이도록 설정하려면, [카카오워크 관리자 서비스](https://kakaowork.com/login?service=admin) **워크스페이스 환경** **프로필 정보**에서 표시할 항목을 선택합니다.
 
     ![그림. 멤버 정보 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf1e45bd-894f-45f9-8348-be20c3e0b7de/%EB%A9%A4%EB%B2%84\_%EC%A0%95%EB%B3%B4\_%EC%9E%91%EC%84%B1.png)
+
 3.  멤버를 등록하면 멤버의 ID(이메일) 주소로 멤버 등록 이메일이 발송됩니다.
 
     * 멤버가 이메일을 확인하여 비밀번호를 설정하면 멤버 등록이 완료됩니다.
