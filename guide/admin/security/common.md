@@ -13,11 +13,11 @@
 | ① [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 채팅방 및 뷰어 영역에 워터마크 정보(스페이스명, 멤버 ID) 표시 설정 |
 
 * 스크린샷 또는 외부 촬영에 의해 유출될 경우 유출 경위 추적 가능
-* STANDARD 요금제부터 사용 가능 | | ② [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 외부 스페이스 멤버와의 채팅방에서 파일을 업로드할 수 없도록 제한 설정 | | ③ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 메시지 내용에 고유 식별 정보 등 민감한 정보를 전송할 수 없도록 제한 설정
+* STANDARD 요금제부터 사용 가능 | | ⓶ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 외부 스페이스 멤버와의 채팅방에서 파일을 업로드할 수 없도록 제한 설정 | | ⓷ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 메시지 내용에 고유 식별 정보 등 민감한 정보를 전송할 수 없도록 제한 설정
 * 주민번호, 여권번호, 운전면허번호, 계좌번호, 휴대전화번호, 이메일 중 선택하여 전송 제한 가능
-* STANDARD 요금제부터 사용 가능 | | ④ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 채팅방에 특정 확장자의 파일만 첨부 가능하도록 제한 설정
+* STANDARD 요금제부터 사용 가능 | | ⓸ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 채팅방에 특정 확장자의 파일만 첨부 가능하도록 제한 설정
 * 별도 설정을 하지 않을 경우, 모든 확장자 파일은 기본적으로 첨부 가능
-* STANDARD 요금제부터 사용 가능 | | ⑤ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 비밀 채팅방(설정한 시간에 따라 메시지가 자동으로 삭제되는 방) 사용 설정
+* STANDARD 요금제부터 사용 가능 | | ⓹ [https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f](https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f) | 비밀 채팅방(설정한 시간에 따라 메시지가 자동으로 삭제되는 방) 사용 설정
 * STANDARD 요금제부터 사용 가능 |
 
 #### 워터마크 설정하기
