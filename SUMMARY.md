@@ -2,7 +2,7 @@
 
 ## 카카오워크 사용법 <a href="#guide" id="guide"></a>
 
-* [사용자 가이드1](README.md)
+* [사용자 가이드](README.md)
   * [다이내믹 패널](kakao-work/user/dynamic-panel.md)
   * [워크스페이스 입장](kakao-work/user/enter.md)
   * [채팅](kakao-work/user/chat/README.md)
