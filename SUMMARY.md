@@ -39,7 +39,7 @@
   * [바로가기 관리하기](guide/admin/manage-direct.md)
   * [게시판 관리하기](guide/admin/manage-board.md)
   * [Bot(봇) 관리하기](guide/admin/bot.md)
-  * [카카오 i 캐스퍼 지식 검색](guide/admin/i.md)
+  * [카카오 i 캐스퍼 지식 검색](guide/admin/kasper.md)
   * [보안](guide/admin/security/README.md)
     * [공통](guide/admin/security/common.md)
     * [PC](guide/admin/security/pc.md)
