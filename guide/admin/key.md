@@ -20,7 +20,7 @@
 ## 인증키 재발급
 인증키를 분실한 경우, 인증키를 재발급 받는 방법은 다음과 같습니다.
 
-**PC 버전**]ㄴ
+**PC 버전**
 1.  **더보기 탭 > 관리자 > 인증키 재발급** 메뉴를 클릭합니다.
 
     ![그림. 인증키 재발급 메뉴](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1535d4eb-3887-4fb8-9da4-069943369d0e/%EC%9D%B8%EC%A6%9D%ED%82%A4\_%EC%9E%AC%EB%B0%9C%EA%B8%89\_%EB%A9%94%EB%89%B4.png)
