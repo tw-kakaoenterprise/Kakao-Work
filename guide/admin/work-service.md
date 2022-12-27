@@ -9,7 +9,7 @@
 ![그림. 워크 서비스 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc49d95e-396a-491a-8c4c-a92a3d4ce0a3/%EC%9B%8C%ED%81%AC\_%EC%84%9C%EB%B9%84%EC%8A%A4\_%EA%B4%80%EB%A6%AC.png)
 | 구분 | 설명 |
 | --- | --- |
-| 워크 서비스 ▼ | 카카오워크에서 기본 제공하는 워크 서비스 소개 및 사용 방법 |
+| 워크 서비스  | 카카오워크에서 기본 제공하는 워크 서비스 소개 및 사용 방법 |
 |      https://meeting.kakaowork.com/ | 카카오워크에서 기본 제공하는 화상회의 서비스<br> - 별도 설정 없이 바로 사용 가능<br> - 바로가기에 기본 노출되며, 노출 여부 수정 불가능 |
 |      https://schedule-admin.we.kakaowork.com/ | 카카오워크에서 기본 제공하는 근태관리 서비스<br> - https://schedule-admin.we.kakaowork.com/manageTA/taRecord에서 서비스 사용을 위한 별도 설정 필요 <br> - 바로가기에 기본 노출되며, 노출 여부 수정 가능 |
 |      https://approval-admin.we.kakaowork.com/ | 카카오워크에서 기본 제공하는 전자결재 서비스<br> - https://approval-admin.we.kakaowork.com/approval/status?makeFromDate=2021-07-05&makeToDate=2021-10-06&keywordFlag=docSubject&offset=1&limit=10에서 서비스 사용을 위한 별도 설정 필요<br> -  바로가기에 기본 노출되며, 노출 여부 수정 가능 |

@@ -11,7 +11,7 @@
 
 
 {% hint style="info" %}
-**안내**\ 
+**안내**<br>
 카카오 i 캐스퍼 지식 검색 서비스는 STANDARD [요금제](https://www.kakaowork.com/pricing) 이상부터 제공됩니다. 현재 용량 제한없이 데이터를 등록할 수 있으나, 추후 요금제에 따라 기능 및 용량에 제한이 발생할 수 있습니다.
 {% endhint %}
 
