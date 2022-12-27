@@ -2,8 +2,8 @@
 
 ## 카카오워크 사용법 <a href="#guide" id="guide"></a>
 
-* [사용자 가이드](README.md)
-  * [다이내믹 패널](guide/undefined/undefined.md)
+* [사용자 가이드](guide/user.md)
+  * [다이내믹 패널](guide/uuser/dynamic.md)
   * [워크스페이스 입장](guide/user/enter.md)
   * [채팅](guide/user/chat/README.md)
     * [채팅 시작](guide/user/chat/start.md)
@@ -22,6 +22,7 @@
   * [더보기](guide/user/more.md)
   * [설정](guide/user/setting.md)
   * [멀티워크스페이스](guide/user/multi.md)
+
 * [관리자 가이드](guide/admin/README.md)
   * [워크스페이스](guide/admin/workspace/README.md)
     * [워크스페이스 개설](guide/admin/workspace/create.md)
