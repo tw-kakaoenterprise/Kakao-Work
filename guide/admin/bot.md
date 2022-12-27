@@ -68,7 +68,7 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 {% hint style="info" %}
 **안내**\
-\*\*\*\* Bot 개발 서비스는 현재(22년 11월 기준) Beta 버전으로 제공됩니다.
+ Bot 개발 서비스는 현재(22년 11월 기준) Beta 버전으로 제공됩니다.
 {% endhint %}
 
 ![그림. Bot 개발 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f067f9c-b071-4dbe-ac15-3cc28d03a6e4/Untitled.png)
@@ -117,35 +117,33 @@ Bot의 정보를 수정하는 방법은 다음과 같습니다.
 
         ![그림. Bot 기본 정보 수정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/550a2946-b02c-4920-b1b5-3ca874a91bc6/Untitled.png)
 
-    | 구분          | 필수 여부 | 설명                                                                          |
-    | ----------- | ----- | --------------------------------------------------------------------------- |
-    | Bot 기본 정보 탭 |       | Bot의 권한과 기능을 수정할 수 있는 탭                                                     |
-    | 제작사         | 필수    | <p>Bot 제작사<br>- 제작사는 해당 워크스페이스명으로 고정</p>                                    |
-    | 아이콘         | 선택    | Bot의 아이콘 이미지                                                                |
-    | 이름          | 필수    | Bot의 이름                                                                     |
-    | 한 줄 설명      | 필수    | Bot 목록에 표시할 문구                                                              |
-    | 소개          | 선택    | Bot의 역할 또는 알림 상황 설명 문구                                                      |
-    | App Key     | 필수    | <p>Bot 생성 시 자동으로 부여되는 값<br>- Bot 인증 시 Request 파라미터에 App Key를 이용하여 인증 요청</p> |
-    | 문의          | 필수    | <p>Bot 담당자 정보<br>- 아이디, 메일 등</p>                                            |
-
-    ***
+    | 구분 | 필수 여부 | 설명 |
+    | --- | --- | --- |
+    | Bot 기본 정보 탭 ▼ |  | Bot의 권한과 기능을 수정할 수 있는 탭 |
+    |      제작사 | 필수 | Bot 제작사<br>- 제작사는 해당 워크스페이스명으로 고정 |
+    |      아이콘 | 선택 | Bot의 아이콘 이미지 |
+    |      이름 | 필수 | Bot의 이름 |
+    |      한 줄 설명 | 필수 | Bot 목록에 표시할 문구 |
+    |      소개 | 선택 | Bot의 역할 또는 알림 상황 설명 문구 |
+    |      App Key | 필수 | Bot 생성 시 자동으로 부여되는 값<br>- Bot 인증 시 Request 파라미터에 App Key를 이용하여 인증 요청 |
+    |      문의 | 필수 | Bot 담당자 정보<br>- 아이디, 메일 등 |
 
     1.  **Bot 권한 및 기능 탭**에서 정보 수정 후 \[저장] 버튼을 클릭합니다.
 
         ![그림. Bot 권한 및 기능 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618f8520-5317-4dae-b13b-3a94c93cb6b1/Untitled.png)
 
-    | 구분            | 필수 여부 | 설명                                                                                                                                                                                            |
-    | ------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Bot 권한 및 기능 탭 |       | Bot의 권한과 기능을 수정할 수 있는 탭                                                                                                                                                                       |
-    | Bot 권한 선택     | 선택    | <p>Bot 제작에 필요한 API 권한 선택 가능<br>- 자세한 설명은 https://docs.kakaoi.ai/kakao_work/webapireference/ 참고</p>                                                                                            |
-    | 멤버 조회         | 선택    | 사용자 정보를 다루는 https://docs.kakaoi.ai/kakao\_work/webapireference/users/ API                                                                                                                     |
-    | 채팅방 조회        | 선택    | 채팅방을 조회하는 https://docs.kakaoi.ai/kakao\_work/webapireference/conversations/ API                                                                                                               |
-    | 메시지 발송        | 선택    | 메시지를 다루는 https://docs.kakaoi.ai/kakao\_work/webapireference/messages/ API                                                                                                                     |
-    | 부서, 조직도 조회    | 선택    | 특정 워크스페이스에 속한 부서 정보를 조회하는 https://docs.kakaoi.ai/kakao\_work/webapireference/departments/ API                                                                                                 |
-    | 채팅방 개설        | 선택    | 채팅방을 개설하는 https://docs.kakaoi.ai/kakao\_work/webapireference/conversations/ API                                                                                                               |
-    | URL 등록        | 선택    | <p>Bot이 동작하는데 필요한 URL 등록 가능<br>- URL 등록 후 교육용 카카오워크 담당자가 해당 정보 확인 후 등록 완료 메일 발신<br>- Request URL과 Callback URL의 활용 시점에 관한 부분은 https://docs.kakaoi.ai/kakao_work/botdevguide/의 반응형 시나리오 참고</p> |
-    | Request URL   | 선택    | 메시지의 Button(Button Block, Action Block) 블록을 눌렀을 때, 모달 블록 구성을 호출할 수 있는 URL                                                                                                                     |
-    | Callback URL  | 선택    | Request URL에서 받은 모달 화면에서 사용자가 입력하거나 선택한 정보를 POST 요청으로 보내기 위한 URL                                                                                                                              |
+    | 구분 | 필수 여부 | 설명 |
+    | --- | --- | --- |
+    | Bot 권한 및 기능 탭 ▼ |  | Bot의 권한과 기능을 수정할 수 있는 탭 |
+    |      Bot 권한 선택 ▼ | 선택 | Bot 제작에 필요한 API 권한 선택 가능<br>- 자세한 설명은 https://docs.kakaoi.ai/kakao_work/webapireference/ 참고 |
+    |          멤버 조회 | 선택 | 사용자 정보를 다루는 https://docs.kakaoi.ai/kakao_work/webapireference/users/ API |
+    |          채팅방 조회 | 선택 | 채팅방을 조회하는 https://docs.kakaoi.ai/kakao_work/webapireference/conversations/ API |
+    |          메시지 발송 | 선택 | 메시지를 다루는 https://docs.kakaoi.ai/kakao_work/webapireference/messages/ API |
+    |          부서, 조직도 조회 | 선택 | 특정 워크스페이스에 속한 부서 정보를 조회하는 https://docs.kakaoi.ai/kakao_work/webapireference/departments/ API |
+    |          채팅방 개설 | 선택 | 채팅방을 개설하는 https://docs.kakaoi.ai/kakao_work/webapireference/conversations/ API |
+    |      URL 등록 ▼ | 선택 | Bot이 동작하는데 필요한 URL 등록 가능<br>- URL 등록 후 교육용 카카오워크 담당자가 해당 정보 확인 후 등록 완료 메일 발신<br>- Request URL과 Callback URL의 활용 시점에 관한 부분은 https://docs.kakaoi.ai/kakao_work/botdevguide/의 반응형 시나리오 참고 |
+    |          Request URL | 선택 | 메시지의 Button(Button Block, Action Block) 블록을 눌렀을 때, 모달 블록 구성을 호출할 수 있는 URL |
+    |          Callback URL | 선택 | Request URL에서 받은 모달 화면에서 사용자가 입력하거나 선택한 정보를 POST 요청으로 보내기 위한 URL |
 
 {% hint style="info" %}
 **안내**\
