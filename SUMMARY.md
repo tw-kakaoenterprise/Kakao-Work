@@ -1,8 +1,10 @@
 # Table of contents
 
+* [README](README.md)
+
 ## 카카오워크 사용법 <a href="#guide" id="guide"></a>
 
-* [사용자 가이드](README.md)
+* [사용자 가이드](guide/user/README.md)
   * [다이내믹 패널](guide/user/dynamic-panel.md)
   * [워크스페이스 입장](guide/user/enter.md)
   * [채팅](guide/user/chat/README.md)
@@ -14,7 +16,7 @@
   * [할일](guide/user/to-do.md)
   * [워크보드](guide/user/workboard/README.md)
     * [워크보드 기본 기능](guide/user/workboard/basic.md)
-    * [워크보드 관리](guide/user/workboard/manage.md)
+    * [워크보드 관리](guide/user/workboard/undefined.md)
     * [워크보드 활용 및 소통](guide/user/workboard/use.md)
   * [통합검색](guide/user/search.md)
   * [바로가기](guide/user/direct.md)
