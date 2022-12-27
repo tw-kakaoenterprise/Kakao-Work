@@ -53,7 +53,8 @@
 
 
 {% hint style="info" %}
-**안내**\ **멤버 등록** 팝업창에 입력한 정보를 카카오워크 앱의 프로필 창에 보이도록 설정하려면, [카카오워크 관리자 서비스](https://kakaowork.com/login?service=admin) **워크스페이스 환경** **프로필 정보**에서 표시할 항목을 선택합니다.
+**안내**\ 
+**멤버 등록** 팝업창에 입력한 정보를 카카오워크 앱의 프로필 창에 보이도록 설정하려면, [카카오워크 관리자 서비스](https://kakaowork.com/login?service=admin) **워크스페이스 환경** **프로필 정보**에서 표시할 항목을 선택합니다.
 {% endhint %}
 
 **멤버 일괄 등록하기**
@@ -71,14 +72,12 @@
 
   
 3.  작성된 Excel 파일을 업로드하고 [등록] 버튼을 클릭합니다.
-
     * `.xls` 또는 `.xlsx` 확장자의 파일만 업로드할 수 있습니다.
 
     ![그림. Excel 파일 업로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed5f6b0b-e315-4959-b53f-7c205e2460a5/Excel\_%ED%8C%8C%EC%9D%BC\_\_%EC%97%85%EB%A1%9C%EB%93%9C.png)
 
     
 4.  멤버를 등록하면 멤버의 ID(이메일 주소)로 멤버 등록 이메일이 발송됩니다.
-
     * 멤버가 이메일을 확인하여 비밀번호를 설정하면 멤버 등록이 완료됩니다.
 
     ![그림. 워크스페이스 초대 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a419a24-def3-4a07-a9e7-1ca2f6d84eb3/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%B4%88%EB%8C%80\_%ED%99%95%EC%9D%B8.png)

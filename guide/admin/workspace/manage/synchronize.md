@@ -26,15 +26,12 @@
 
     ![그림. 계정 연동 신청 정보 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/661154c9-af71-41b1-a42d-af84a2efe1dc/Untitled.png)
 
-
-    | 구분    | 필수 여부 | 설명     |
-    | ----- | ----- | ------ |
-    | 조직 이름 | 필수    | 조직의 이름 |
-
-    * 60자까지 입력 가능 | | 조직 ID | 필수 | 이메일 인증 절차 없이 간편한 로그인 방식을 지원하는 [https://www.notion.so/e5131a94d96a41c99868f6b9f4530c4c](https://www.notion.so/e5131a94d96a41c99868f6b9f4530c4c) 생성
-    * 소문자, 숫자, 대시(-)만 허용
-    * 계정 연동 신청 완료 시 사용 가능 | | 사업자 등록번호 | 필수 | 계정을 연동할 조직의 사업자 등록번호
-    * 사업자 번호가 없을 경우 [https://cs.kakao.com/requests?service=171\&locale=ko](https://cs.kakao.com/requests?service=171\&locale=ko) 문의 |
+    | 구분 | 필수 여부 | 설명 |
+    | --- | --- | --- |
+    | 조직 이름 | 필수 | 조직의 이름<br> - 60자까지 입력 가능 |
+    | 조직 ID | 필수 | 이메일 인증 절차 없이 간편한 로그인 방식을 지원하는 https://www.notion.so/e5131a94d96a41c99868f6b9f4530c4c 생성<br> - 소문자, 숫자, 대시(-)만 허용<br> - 계정 연동 신청 완료 시 사용 가능 |
+    | 사업자 등록번호 | 필수 | 계정을 연동할 조직의 사업자 등록번호<br> - 사업자 번호가 없을 경우 https://cs.kakao.com/requests?service=171&locale=ko 문의 |
+    
 
 #### 로그인 방식 이름 변경하기
 
