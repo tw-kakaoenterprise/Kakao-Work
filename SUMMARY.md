@@ -16,7 +16,7 @@
   * [할일](guide/user/to-do.md)
   * [워크보드](guide/user/workboard/README.md)
     * [워크보드 기본 기능](guide/user/workboard/basic.md)
-    * [워크보드 관리](guide/uer/workboard/manage.md)
+    * [워크보드 관리](guide/user/workboard/undefined.md)
     * [워크보드 활용 및 소통](guide/user/workboard/use.md)
   * [통합검색](guide/user/search.md)
   * [바로가기](guide/user/direct.md)
