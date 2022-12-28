@@ -24,10 +24,11 @@
 
 1. **워크보드** 탭 > **보드** 메뉴 > \[>] 아이콘을 선택합니다.
 2.  **참여가능한 보드 탭**에서 참여하고자하는 보드를 선택합니다.
-
     * 보드명을 검색하여 찾을 수 있습니다.
 
     ![그림. 참여 가능한 보드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f144e9f-bbd9-4364-8a2a-fe46d342ec6c/%EA%B7%B8%EB%A6%BC.\_%EC%B0%B8%EC%97%AC\_%EA%B0%80%EB%8A%A5%ED%95%9C\_%EB%B3%B4%EB%93%9C\_\(1\).png)
+
+
 3.  보드 상세화면의 \[참여하기] 버튼을 선택합니다.
 
     ![그림. 공개 보드 참여하기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a0e37bf6-8c91-4db2-83ba-30542291cbc9/%EA%B3%B5%EA%B0%9C%EB%B3%B4%EB%93%9C\_%EC%B0%B8%EC%97%AC%ED%95%98%EA%B8%B0\_\(2\).png)
@@ -42,6 +43,7 @@
     * \[거절] 버튼을 선택하면 해당 보드에 참여할 수 없으며, 초대장 목록에서 삭제됩니다.
 
     ![그림. 비공개 보드 초대장](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b6bffd7-80f7-4b0c-89f2-fbcdf35d295c/%EB%B9%84%EA%B3%B5%EA%B0%9C\_%EB%B3%B4%EB%93%9C\_%EC%B4%88%EB%8C%80%EC%9E%A5.png)
+
 3. 초대 수락한 보드는 **워크보드** 탭 > **보드** 메뉴 > \[>] 아이콘 > **나의 보드 목록** 탭에서 확인할 수 있습니다.
 
 ## 보드 상세화면
