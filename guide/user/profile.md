@@ -73,38 +73,41 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
     ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fec927f62-692e-4c71-83ba-dba635571861%2F%EC%99%B8%EB%B6%80\_%EB%A9%A4%EB%B2%84\_%EC%B6%94%EA%B0%80\_\(1\).png\&blockId=c7f72b24-a4e4-4773-b101-f8da088f8bb0)
 
 
-
-### **상대방 프로필 공유받기**
+### 상대방 프로필 공유받기
 
 외부 워크스페이스 멤버로부터 프로필 링크를 공유받아 상대방을 외부 멤버로 추가하여 대화하는 방법은 다음과 같습니다.
 
 1. 상대방으로부터 공유받은 프로필 링크를 클릭한 후, \[프로필 확인하기] 버튼을 클릭합니다.
 
-![그림. 프로필 확인하기](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7d1e81df-9a3b-462d-87bc-b79f360dfeee%2F%ED%94%84%EB%A1%9C%ED%95%84\_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.png\&blockId=1d3e8a1f-62e8-4269-8542-3ea9903c3e97)
+    ![그림. 프로필 확인하기](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7d1e81df-9a3b-462d-87bc-b79f360dfeee%2F%ED%94%84%EB%A1%9C%ED%95%84\_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.png\&blockId=1d3e8a1f-62e8-4269-8542-3ea9903c3e97)
 
-2\. 외부 멤버 안내 메시지가 나타나면, \[외부 멤버로 추가하기] 버튼을 클릭합니다.•추가된 외부 멤버는 조직도 메뉴의 외부 멤버 탭에서 확인할 수 있습니다.
+2. 외부 멤버 안내 메시지가 나타나면, \[외부 멤버로 추가하기] 버튼을 클릭합니다.•추가된 외부 멤버는 조직도 메뉴의 외부 멤버 탭에서 확인할 수 있습니다.
 
-![그림. 외부 멤버로 추가](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdbb1bc99-9d7b-4533-9bde-d0920637069e%2FUntitled.png\&blockId=5d6e8bd0-f639-4ef6-9b03-586e63ac9c73)
+    ![그림. 외부 멤버로 추가](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdbb1bc99-9d7b-4533-9bde-d0920637069e%2FUntitled.png\&blockId=5d6e8bd0-f639-4ef6-9b03-586e63ac9c73)
 
-### **외부 멤버 차단하기**
+### 외부 멤버 차단하기
 
 대화를 원하지 않는 외부 멤버를 차단하여 불필요한 채팅방 생성을 방지할 수 있습니다.
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
-안내내가 속한 워크스페이스의 멤버는 차단할 수 없습니다.1.외부 멤버와의 채팅방에서 \[더보기] 아이콘을 클릭한 후, 다이내믹 패널의 \[멤버 차단] 버튼을 클릭합니다.
+{% hint style="info" %}
+**안내**\
+내가 속한 워크스페이스의 멤버는 차단할 수 없습니다.
+{% endhint %}
 
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc19eb047-6e66-4edc-a431-1fc50885ff7f%2FUntitled.png\&blockId=64b468a0-34de-4f10-91f3-0064b06bbcdb)
+1. 외부 멤버와의 채팅방에서 \[더보기] 아이콘을 클릭한 후, 다이내믹 패널의 \[멤버 차단] 버튼을 클릭합니다.
 
-그림. 멤버 차단2.안내 팝업창을 확인하고, \[확인] 버튼을 클릭합니다.
+    ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc19eb047-6e66-4edc-a431-1fc50885ff7f%2FUntitled.png\&blockId=64b468a0-34de-4f10-91f3-0064b06bbcdb)
 
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe8c5266a-1251-42e0-8cfd-a4a237d3972d%2F%25EB%25A9%25A4%25EB%25B2%2584\_%25EC%25B0%25A8%25EB%258B%25A8\_%25ED%2599%2595%25EC%259D%25B8.png\&blockId=0eed1757-d28f-4d6a-b66c-b0ef2874a5b7)
+2. 안내 팝업창을 확인하고, \[확인] 버튼을 클릭합니다.
 
-그림. 멤버 차단 확인3.멤버가 차단되면 해당 채팅방에서 더이상 대화할 수 없습니다.•차단된 멤버와 차단한 멤버는 서로의 프로필을 조회할 수 없고 1:1 채팅이 불가합니다.
+    ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe8c5266a-1251-42e0-8cfd-a4a237d3972d%2F%25EB%25A9%25A4%25EB%25B2%2584\_%25EC%25B0%25A8%25EB%258B%25A8\_%25ED%2599%2595%25EC%259D%25B8.png\&blockId=0eed1757-d28f-4d6a-b66c-b0ef2874a5b7)
 
-![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe71f942f-5d74-405b-ac2b-23441ee857ce%2FUntitled.png\&blockId=e154725d-3848-487f-9505-9c280b0d6a3d)
+3. 멤버가 차단되면 해당 채팅방에서 더이상 대화할 수 없습니다.•차단된 멤버와 차단한 멤버는 서로의 프로필을 조회할 수 없고 1:1 채팅이 불가합니다.
 
-그림. 멤버 차단 완료
+    ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe71f942f-5d74-405b-ac2b-23441ee857ce%2FUntitled.png\&blockId=e154725d-3848-487f-9505-9c280b0d6a3d)
+
 
 **외부 멤버 차단 해제하기**
 
@@ -116,23 +119,19 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 나와 채팅하기 기능은 다른 멤버와 채팅뿐만 아니라 자신만 사용할 수 있는 채팅 공간으로, 개인 메모장으로 활용할 수 있습니다.
 
-1.내 프로필에서 프로필 이미지를 클릭합니다.
+1. 내 프로필에서 프로필 이미지를 클릭합니다.
 
-![그림. 내 프로필 상세](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9bea3d94-aa8d-463a-9768-08cd0dc9022c%2FUntitled.png\&blockId=b5b43eb4-2296-483b-884b-dc8f703db229)
-
-2.내 프로필 상세 창에서 \[말풍선] 아이콘을 클릭합니다.
-
-![그림. 나와의 채팅](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faa82138b-8996-4d13-a68c-9929423eee97%2FUntitled.png\&blockId=b37f8649-b711-4409-ad55-4f3c51ca2124)
-
-3.나와의 채팅방에서 메시지를 입력 후 엔터를 누르거나 \[전송] 아이콘을 클릭합니다.•나와의 채팅방 제목에는 \[나] 아이콘이 붙습니다.
-
-![그림. 나와의 채팅방에서 메시지 전송](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb4910106-b3ef-4ad9-b844-2ae782e3142f%2FUntitled.png\&blockId=b44c54f1-ee84-4a5f-88b2-9cf4f1215f56)
-
-\
+    ![그림. 내 프로필 상세](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9bea3d94-aa8d-463a-9768-08cd0dc9022c%2FUntitled.png\&blockId=b5b43eb4-2296-483b-884b-dc8f703db229)
 
 
-###
+2. 내 프로필 상세 창에서 \[말풍선] 아이콘을 클릭합니다.
+
+    ![그림. 나와의 채팅](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faa82138b-8996-4d13-a68c-9929423eee97%2FUntitled.png\&blockId=b37f8649-b711-4409-ad55-4f3c51ca2124)
+
+3. 나와의 채팅방에서 메시지를 입력 후 엔터를 누르거나 \[전송] 아이콘을 클릭합니다.•나와의 채팅방 제목에는 \[나] 아이콘이 붙습니다.
+
+    ![그림. 나와의 채팅방에서 메시지 전송](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb4910106-b3ef-4ad9-b844-2ae782e3142f%2FUntitled.png\&blockId=b44c54f1-ee84-4a5f-88b2-9cf4f1215f56)
 
 
 
-##
+

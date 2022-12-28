@@ -12,7 +12,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 {% hint style="info" %}
 **안내** \
-****카카오워크 앱은 카카오워크 [공식 홈페이지](https://www.kakaowork.com/download)에서 다운로드 받을 수 있습니다.
+카카오워크 앱은 카카오워크 [공식 홈페이지](https://www.kakaowork.com/download)에서 다운로드 받을 수 있습니다.
 {% endhint %}
 
 ## 가입하기
