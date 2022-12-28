@@ -104,7 +104,6 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 나와 채팅하기 기능은 다른 멤버와 채팅뿐만 아니라 자신만 사용할 수 있는 채팅 공간으로, 개인 메모장으로 활용할 수 있습니다.
 
-<<<<<<< HEAD
 1. 내 프로필에서 프로필 이미지를 클릭합니다.
 
     ![그림. 내 프로필 상세](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9bea3d94-aa8d-463a-9768-08cd0dc9022c%2FUntitled.png\&blockId=b5b43eb4-2296-483b-884b-dc8f703db229)
@@ -118,19 +117,4 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
     ![그림. 나와의 채팅방에서 메시지 전송](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb4910106-b3ef-4ad9-b844-2ae782e3142f%2FUntitled.png\&blockId=b44c54f1-ee84-4a5f-88b2-9cf4f1215f56)
 
-=======
-1.  내 프로필에서 프로필 이미지를 클릭합니다.
 
-    ![그림. 내 프로필 상세](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9bea3d94-aa8d-463a-9768-08cd0dc9022c/Untitled.png)
-2.  내 프로필 상세 창에서 [말풍선] 아이콘을 클릭합니다.
->>>>>>> 8d1bca3646ca7659d5770e39f42cbef21079c03d
-
-    ![그림. 나와의 채팅](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa82138b-8996-4d13-a68c-9929423eee97/Untitled.png)
-3.  나와의 채팅방에서 메시지를 입력 후 엔터를 누르거나 [전송] 아이콘을 클릭합니다.
-
-    * 나와의 채팅방 제목에는 [나] 아이콘이 붙습니다.
-
-<<<<<<< HEAD
-=======
-    ![그림. 나와의 채팅방에서 메시지 전송](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4910106-b3ef-4ad9-b844-2ae782e3142f/Untitled.png)
->>>>>>> 8d1bca3646ca7659d5770e39f42cbef21079c03d
