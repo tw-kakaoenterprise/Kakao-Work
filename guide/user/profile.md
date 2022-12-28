@@ -80,11 +80,6 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 내가 속한 워크스페이스의 멤버는 차단할 수 없습니다.
 {% endhint %}
 
-<<<<<<< HEAD
-{% hint style="info" %}
-**안내**\
-내가 속한 워크스페이스의 멤버는 차단할 수 없습니다.
-{% endhint %}
 
 1. 외부 멤버와의 채팅방에서 \[더보기] 아이콘을 클릭한 후, 다이내믹 패널의 \[멤버 차단] 버튼을 클릭합니다.
 
@@ -98,23 +93,6 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
     ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe71f942f-5d74-405b-ac2b-23441ee857ce%2FUntitled.png\&blockId=e154725d-3848-487f-9505-9c280b0d6a3d)
 
-=======
-1.  외부 멤버와의 채팅방에서 [더보기] 아이콘을 클릭한 후, 다이내믹 패널의 [멤버 차단] 버튼을 클릭합니다.
-
-    ![그림. 멤버 차단](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c19eb047-6e66-4edc-a431-1fc50885ff7f/Untitled.png)
-2.  안내 팝업창을 확인하고, [확인] 버튼을 클릭합니다.
-
-    ![그림. 멤버 차단 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8c5266a-1251-42e0-8cfd-a4a237d3972d/%EB%A9%A4%EB%B2%84\_%EC%B0%A8%EB%8B%A8\_%ED%99%95%EC%9D%B8.png)
-3.  멤버가 차단되면 해당 채팅방에서 더이상 대화할 수 없습니다.
-
-    * 차단된 멤버와 차단한 멤버는 서로의 프로필을 조회할 수 없고 1:1 채팅이 불가합니다.
-
-    ![그림. 멤버 차단 완료](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e71f942f-5d74-405b-ac2b-23441ee857ce/Untitled.png)
-
-### 외부 멤버 차단 해제하기
-
-차단 멤버로 등록되어 있는 외부 멤버의 차단을 해제할 수 있습니다.
->>>>>>> 8d1bca3646ca7659d5770e39f42cbef21079c03d
 
 **더보기** 탭 **차단 멤버 관리**에서 차단 해제할 멤버의 [차단 해제] 버튼을 클릭합니다.
 
