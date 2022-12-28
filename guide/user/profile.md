@@ -59,30 +59,17 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
     ![그림. 외부 멤버로 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec927f62-692e-4c71-83ba-dba635571861/%EC%99%B8%EB%B6%80\_%EB%A9%A4%EB%B2%84\_%EC%B6%94%EA%B0%80\_\(1\).png)
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 8d1bca3646ca7659d5770e39f42cbef21079c03d
 ### 상대방 프로필 공유받기
 
 외부 워크스페이스 멤버로부터 프로필 링크를 공유받아 상대방을 외부 멤버로 추가하여 대화하는 방법은 다음과 같습니다.
 
 1.  상대방으로부터 공유받은 프로필 링크를 클릭한 후, [프로필 확인하기] 버튼을 클릭합니다.
 
-<<<<<<< HEAD
     ![그림. 프로필 확인하기](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7d1e81df-9a3b-462d-87bc-b79f360dfeee%2F%ED%94%84%EB%A1%9C%ED%95%84\_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.png\&blockId=1d3e8a1f-62e8-4269-8542-3ea9903c3e97)
 
 2. 외부 멤버 안내 메시지가 나타나면, \[외부 멤버로 추가하기] 버튼을 클릭합니다.•추가된 외부 멤버는 조직도 메뉴의 외부 멤버 탭에서 확인할 수 있습니다.
 
     ![그림. 외부 멤버로 추가](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdbb1bc99-9d7b-4533-9bde-d0920637069e%2FUntitled.png\&blockId=5d6e8bd0-f639-4ef6-9b03-586e63ac9c73)
-=======
-    ![그림. 프로필 확인하기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d1e81df-9a3b-462d-87bc-b79f360dfeee/%ED%94%84%EB%A1%9C%ED%95%84\_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.png)
-2.  외부 멤버 안내 메시지가 나타나면, [외부 멤버로 추가하기] 버튼을 클릭합니다.
-
-    * 추가된 외부 멤버는 **조직도** 메뉴의 **외부 멤버** 탭에서 확인할 수 있습니다.
-
-    ![그림. 외부 멤버로 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbb1bc99-9d7b-4533-9bde-d0920637069e/Untitled.png)
->>>>>>> 8d1bca3646ca7659d5770e39f42cbef21079c03d
 
 ### 외부 멤버 차단하기
 
