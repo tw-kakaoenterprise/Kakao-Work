@@ -4,7 +4,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 # 워크스페이스 입장
 
-### 카카오워크 소개
+## 카카오워크 소개
 
 카카오워크(Kakao Work)는 기업을 위한 종합 업무 플랫폼입니다. 카카오워크는 기업 메신저의 기본 기능인 채팅뿐만 아니라 화상회의, 음성채팅, 할 일 관리, 캘린더, 인공지능 업무 비서 카카오 i 캐스퍼 등 업무에 도움을 주는 다양한 기능을 제공합니다.
 
@@ -36,15 +36,14 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.
 
     ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
-
 2.  Kakao i 계정을 생성합니다.
+
     * 기입한 이메일 주소로 인증을 완료해야 합니다.
 
     ![그림. Kakao i 계정 생성
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/Kakao%20i%20%EA%B3%84%EC%A0%95%20%EC%83%9D%EC%84%B1.png)
-
-
 3.  가입이 완료되면 \[카카오워크 시작] 버튼을 클릭하여 카카오워크를 실행합니다.
+
     * 카카오워크 앱은 \[설치] 버튼을 클릭하거나 카카오워크 [공식 홈페이지](https://www.kakaowork.com/download)에서 다운로드할 수 있습니다.
 
     ![그림. 카카오워크 실행](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EC%8B%A4%ED%96%89.png)
@@ -56,7 +55,6 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 1.  회사 이메일 주소로 전송된 초대 이메일을 클릭 후, \[비밀번호 설정] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 초대 이메일](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EC%B4%88%EB%8C%80\_%EC%9D%B4%EB%A9%94%EC%9D%BC.png)
-
 2.  비밀번호를 입력하고 \[확인] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 비밀번호 설정](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%84%A4%EC%A0%95.png)
@@ -73,21 +71,16 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
     ![그림. 카카오워크 로그인 화면
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
-
-
 2.  이메일 주소로 발송된 인증번호를 입력하고 \[확인] 버튼을 클릭합니다.
+
     * 인증번호 입력 5회 실패 시 로그인이 제한될 수 있습니다.
 
     ![그림. 인증번호 입력
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9D%B8%EC%A6%9D%EB%B2%88%ED%98%B8\_%EC%9E%85%EB%A0%A5.png)
-
-
 3.  입장하려는 워크스페이스를 선택합니다.
 
     ![그림.워크스페이스 입장
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%9E%85%EC%9E%A5.png)
-
-
 4.  이메일 주소와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
 
     ![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
@@ -99,17 +92,19 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 {% hint style="info" %}
 **안내**\
 조직 환경에 따라 조직 ID가 존재하지 않을 수도 있으며, 조직 ID를 모를 경우 슈퍼 관리자에게 문의하시기 바랍니다.
+
 * 조직 ID가 존재하지 않을 경우, [이메일 주소를 사용](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f)하여 워크스페이스에 입장할 수 있습니다.
 {% endhint %}
 
 
+
 1. 카카오워크 PC 앱을 실행 후, **조직 ID**를 입력합니다.
+2.
 
     ![그림. 카카오워크 로그인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
+3. 가입 시 사용한 ID(이메일 또는 휴대폰 번호)와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
 
-2. 가입 시 사용한 ID(이메일 또는 휴대폰 번호)와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
-
-    ![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
 
 ## 비밀번호 재설정하기
 
@@ -124,30 +119,21 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
     ![그림. 비밀번호 재설정
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95.png)
-
-
 2.  해당 계정에서 사용 중인 이름과 이메일을 입력하고, \[비밀번호 재설정 메일 보내기] 버튼을 클릭합니다.
 
     ![그림. 비밀번호 재설정 메일 보내기
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95\_%EB%A9%94%EC%9D%BC\_%EB%B3%B4%EB%82%B4%EA%B8%B0.png)
-
-
 3.  수신한 메일에서 \[비밀번호 재설정] 버튼을 클릭합니다.
 
     ![그림. 비밀번호 재설정
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95.png)
-
-
 4.  새로 사용할 비밀번호를 입력하고 \[확인] 버튼을 클릭합니다.
 
     ![그림. 비밀번호 변경
     ](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EB%B3%80%EA%B2%BD.png)
-
-
 5.  새로운 비밀번호로 로그인을 진행합니다.
 
     ![그림. 새로운 비밀번호로 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%83%88%EB%A1%9C%EC%9A%B4\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EB%A1%9C\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
-
 
 ## 기기 인증하기
 
@@ -171,5 +157,6 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 {% hint style="info" %}
 **안내**\
 멤버들이 모두 워크스페이스에 접속할 수 없다면, 슈퍼 관리자에게 로그인을 요청하시기 바랍니다.
+
 * 슈퍼 관리자는 [인증키로 로그인](https://www.notion.so/2-16-461a099ada1140a38290b984cce15b9d) 할 수 있습니다.
 {% endhint %}
