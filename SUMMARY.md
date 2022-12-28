@@ -7,7 +7,7 @@
   * [다이내믹 패널](guide/user/dynamic-panel.md)
   * [채팅](guide/user/chat/README.md)
     * [채팅 시작](guide/user/chat/start.md)
-    * [채팅방 관리](guide/user/chat/manage.md)
+    * [채팅방 관리](guide/user/chat/manage-chat.md)
     * [채팅 기본 기능](guide/user/chat/basic.md)
   * [프로필 설정](guide/user/profile.md)
   * [카카오 i 캐스퍼](guide/user/kasper.md)
