@@ -6,7 +6,7 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 멤버들에게 보여지는 내 프로필을 확인하고 정보를 수정할 수 있습니다. 카카오워크 PC 앱에서 **내 프로필**을 클릭해 프로필 관리 기능을 사용합니다.
 
-**내 프로필 구성1**
+**내 프로필 구성**
 
 ![그림. 내 프로필](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51ca40fd-4d5e-490a-9d8d-9d64e598b23c/Untitled.png)
 
@@ -40,9 +40,11 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
 내 프로필을 외부 워크스페이스 멤버에게 공유하고, 해당 멤버가 나를 외부 멤버로 추가하는 방법은 다음과 같습니다.
 
-1.  내 프로필에서 프로필 이미지를 클릭합니다.&#x20;
+1.  내 프로필에서 프로필 이미지를 클릭합니다.
 
     <figure><img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23a7f1ec-b475-4cf1-bacb-d0ff664f9dd7/Untitled.png" alt=""><figcaption><p>그림. 내 프로필 상세</p></figcaption></figure>
+
+
 2.  \[공유] 아이콘을 클릭한 후, **나의 프로필 링크**에서 생성할 프로필 링크 유형을 선택합니다.
 
     ![그림. 나의 프로필 공유](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bbefd11-7cf5-4278-ab18-c9c47565684f/%EB%82%B4\_%ED%94%84%EB%A1%9C%ED%95%84\_%EA%B3%B5%EC%9C%A0.png)
@@ -51,12 +53,18 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
     | ---------- | ----------------------------------------------------- |
     | 1회용 프로필 링크 | <p>1시간 동안만 유효한 프로필 링크<br>- 일회성으로 프로필 공유 시 적합</p>      |
     | QR 프로필 링크  | <p>영구적으로 사용하는 프로필 링크<br>- 명함/이메일 서명 등에 삽입하여 활용 가능</p> |
+
+
 3.  각 유형 별로 생성된 링크를 복사한 후, 외부 워크스페이스 멤버에게 전달합니다.
 
     ![그림. 프로필 링크 복사](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9ccf07d-7de1-49e5-8bc8-7ec19656f210/%ED%94%84%EB%A1%9C%ED%95%84\_%EB%A7%81%ED%81%AC\_%EB%B3%B5%EC%82%AC.png)
+
+
 4.  상대가 나를 외부 멤버로 추가하면, 내 카카오워크에 외부 멤버 추가 안내 메시지가 발송됩니다. 이 메시지에서 \[프로필 확인하기] 버튼을 클릭합니다.
 
     ![그림. 외부 멤버 프로필 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9cbe22a1-4dc3-4e58-a48d-2468b10f4723/%EA%B7%B8%EB%A6%BC.\_%EC%99%B8%EB%B6%80\_%EB%A9%A4%EB%B2%84\_%ED%94%84%EB%A1%9C%ED%95%84\_%ED%99%95%EC%9D%B8.png)
+
+
 5.  \[외부 멤버로 추가하기] > \[확인] 버튼을 클릭해 외부 멤버를 추가합니다.
 
     ![그림. 외부 멤버로 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec927f62-692e-4c71-83ba-dba635571861/%EC%99%B8%EB%B6%80\_%EB%A9%A4%EB%B2%84\_%EC%B6%94%EA%B0%80\_\(1\).png)
@@ -69,6 +77,8 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 
     ![그림. 프로필 확인하기
     ](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7d1e81df-9a3b-462d-87bc-b79f360dfeee%2F%ED%94%84%EB%A1%9C%ED%95%84\_%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.png\&blockId=1d3e8a1f-62e8-4269-8542-3ea9903c3e97)
+
+
 2.  외부 멤버 안내 메시지가 나타나면, \[외부 멤버로 추가하기] 버튼을 클릭합니다.•추가된 외부 멤버는 조직도 메뉴의 외부 멤버 탭에서 확인할 수 있습니다.
 
     ![그림. 외부 멤버로 추가](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdbb1bc99-9d7b-4533-9bde-d0920637069e%2FUntitled.png\&blockId=5d6e8bd0-f639-4ef6-9b03-586e63ac9c73)
@@ -85,9 +95,13 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 1.  외부 멤버와의 채팅방에서 \[더보기] 아이콘을 클릭한 후, 다이내믹 패널의 \[멤버 차단] 버튼을 클릭합니다.
 
     ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc19eb047-6e66-4edc-a431-1fc50885ff7f%2FUntitled.png\&blockId=64b468a0-34de-4f10-91f3-0064b06bbcdb)
+
+
 2.  안내 팝업창을 확인하고, \[확인] 버튼을 클릭합니다.
 
     ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe8c5266a-1251-42e0-8cfd-a4a237d3972d%2F%25EB%25A9%25A4%25EB%25B2%2584\_%25EC%25B0%25A8%25EB%258B%25A8\_%25ED%2599%2595%25EC%259D%25B8.png\&blockId=0eed1757-d28f-4d6a-b66c-b0ef2874a5b7)
+
+
 3.  멤버가 차단되면 해당 채팅방에서 더이상 대화할 수 없습니다.•차단된 멤버와 차단한 멤버는 서로의 프로필을 조회할 수 없고 1:1 채팅이 불가합니다.
 
     ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe71f942f-5d74-405b-ac2b-23441ee857ce%2FUntitled.png\&blockId=e154725d-3848-487f-9505-9c280b0d6a3d)
@@ -107,9 +121,13 @@ description: 내 프로필을 설정하는 방법을 안내합니다.
 1.  내 프로필에서 프로필 이미지를 클릭합니다.
 
     ![그림. 내 프로필 상세](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F9bea3d94-aa8d-463a-9768-08cd0dc9022c%2FUntitled.png\&blockId=b5b43eb4-2296-483b-884b-dc8f703db229)
+
+
 2.  내 프로필 상세 창에서 \[말풍선] 아이콘을 클릭합니다.
 
     ![그림. 나와의 채팅](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Faa82138b-8996-4d13-a68c-9929423eee97%2FUntitled.png\&blockId=b37f8649-b711-4409-ad55-4f3c51ca2124)
+
+
 3.  나와의 채팅방에서 메시지를 입력 후 엔터를 누르거나 \[전송] 아이콘을 클릭합니다.•나와의 채팅방 제목에는 \[나] 아이콘이 붙습니다.
 
     ![그림. 나와의 채팅방에서 메시지 전송](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb4910106-b3ef-4ad9-b844-2ae782e3142f%2FUntitled.png\&blockId=b44c54f1-ee84-4a5f-88b2-9cf4f1215f56)
