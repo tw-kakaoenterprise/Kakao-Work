@@ -75,6 +75,8 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 초대 링크를 발송하는 방법은 [Kakao Work 관리자 가이드](../admin/)의 [워크스페이스 개설 > 초대 링크 전달하기](../admin/workspace/create.md#undefined-4)를 참고하시기 바랍니다.
 {% endhint %}
 
+{% tabs %}
+{% tab title="PC" %}
 1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.
 
     ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
@@ -88,17 +90,43 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
     * 카카오워크 앱은 \[설치] 버튼을 클릭하거나 카카오워크 [공식 홈페이지](https://www.kakaowork.com/download)에서 다운로드할 수 있습니다.
 
     ![그림. 카카오워크 실행](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EC%8B%A4%ED%96%89.png)
+{% endtab %}
+
+{% tab title="Mobile" %}
+1.
+{% endtab %}
+{% endtabs %}
 
 ### 이메일 초대장으로 가입하기
 
 슈퍼 관리자 또는 관리자가 멤버의 회사 이메일 주소를 워크스페이스에 미리 등록했을 경우, 해당 멤버는 별도의 가입절차 없이 비밀번호를 설정하여 Kakao i 계정을 생성할 수 있습니다.
 
+{% tabs %}
+{% tab title="PC" %}
 1.  회사 이메일 주소로 전송된 초대 이메일을 클릭 후, \[비밀번호 설정] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 초대 이메일](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EC%B4%88%EB%8C%80\_%EC%9D%B4%EB%A9%94%EC%9D%BC.png)
 2.  비밀번호를 입력하고 \[확인] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 비밀번호 설정](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%84%A4%EC%A0%95.png)
+
+
+{% endtab %}
+
+{% tab title="Mobile" %}
+1.  회사 이메일 주소로 전송된 초대 이메일에서 \[비밀번호 설정] 버튼을 선택합니다.
+
+    ![그림. 카카오워크 초대 이메일](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e93dd141-90e1-4541-b3f4-097ea02c2c07/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EC%B4%88%EB%8C%80\_%EC%9D%B4%EB%A9%94%EC%9D%BC.png)
+2.  로그인 시 사용할 비밀번호를 설정한 후 \[확인] 버튼을 선택합니다.
+
+    ![그림. 카카오워크 비밀번호 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96ae2fd9-3f14-4a27-9fab-fd4ddd349d34/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%84%A4%EC%A0%95.png)
+3.  가입이 완료되면 \[카카오워크 시작] 버튼을 선택하여 카카오워크를 실행합니다.
+
+    * 카카오워크 앱을 설치하지 않은 경우 \[Android 설치] 버튼을 선택하거나, [Google Play 스토어(Android)](https://play.google.com/store/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\&c=apps)에서 다운로드합니다.
+
+    ![그림. 카카오워크 실행](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eeb7bdca-044a-402b-87a2-44bd630fc5fe/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EC%8B%A4%ED%96%89\(%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%A3%BC%EC%86%8C%EA%B0%80%EC%9E%85\).png)
+{% endtab %}
+{% endtabs %}
 
 ## 로그인하기
 
@@ -108,6 +136,8 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 가입 시 사용한 이메일 주소로 카카오워크에 로그인하는 방법은 다음과 같습니다.
 
+{% tabs %}
+{% tab title="PC" %}
 1.  카카오워크 PC 앱을 실행 후, 가입 시 사용한 이메일 주소를 입력하고 \[확인] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 로그인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
@@ -122,6 +152,23 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 4.  이메일 주소와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
 
     ![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+{% endtab %}
+
+{% tab title="Mobile" %}
+1.  카카오워크 앱을 실행 후, 가입 시 등록한 이메일 주소를 입력하고 \[확인] 버튼을 선택합니다.
+
+    ![그림. 카카오워크 로그인 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/011c4f8e-21c1-4e64-ba46-2af5df4fca7b/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3\_%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB\_%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png)
+2.  이메일 주소로 발송된 인증번호를 입력합니다.
+
+    ![그림. 인증번호 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43dc2103-ae04-43ac-b4a2-6b0a64ecef11/%EC%9D%B8%EC%A6%9D%EB%B2%88%ED%98%B8\_%EC%9E%85%EB%A0%A5.png)
+3.  입장하려는 워크스페이스를 선택합니다.
+
+    ![그림.워크스페이스 입장](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9af7cbc2-1fab-422b-9088-02aca56d1876/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%9E%85%EC%9E%A5.png)
+4.  해당 워크스페이스에 등록한 이메일 주소와 비밀번호를 입력하고, \[로그인] 버튼을 선택합니다.
+
+    ![그림. 워크스페이스 로그인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9afea92-7bbe-4c86-9d1b-144af4cb43c1/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+{% endtab %}
+{% endtabs %}
 
 ### 조직 ID로 로그인하기
 
@@ -134,12 +181,25 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 * 조직 ID가 존재하지 않을 경우, [이메일 주소를 사용](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f)하여 워크스페이스에 입장할 수 있습니다.
 {% endhint %}
 
+{% tabs %}
+{% tab title="PC" %}
 1.  카카오워크 PC 앱을 실행 후, **조직 ID**를 입력합니다.
 
     ![그림. 카카오워크 로그인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
 2.  가입 시 사용한 ID(이메일 또는 휴대폰 번호)와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
 
     ![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+{% endtab %}
+
+{% tab title="Mobile" %}
+1.  카카오워크 앱을 실행 후, 조직 ID를 입력하고 \[확인] 버튼을 선택합니다.
+
+    ![그림. 카카오워크 로그인 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd44f148-5906-4f43-a958-388344ada217/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%AF%E1%84%8F%E1%85%B3\_%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%8B%E1%85%B5%E1%86%AB\_%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB.png)
+2.  가입 시 사용한 이메일 또는 휴대폰 번호와 비밀번호를 입력한 후, \[로그인] 버튼을 선택합니다.
+
+    ![그림. 워크스페이스 조직ID 로그인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/feb5859d-8891-4ef8-980b-67b77d772600/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%A1%B0%EC%A7%81\_ID\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+{% endtab %}
+{% endtabs %}
 
 ## 비밀번호 재설정하기
 
@@ -150,6 +210,8 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 비밀번호 10회 이상 오입력 시, 1시간 동안 로그인 시도가 제한됩니다.
 {% endhint %}
 
+{% tabs %}
+{% tab title="PC" %}
 1.  워크스페이스 로그인 페이지에서 **비밀번호를 잊어버렸어요**를 클릭합니다.
 
     ![그림. 비밀번호 재설정](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95.png)
@@ -165,6 +227,26 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 5.  새로운 비밀번호로 로그인을 진행합니다.
 
     ![그림. 새로운 비밀번호로 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%83%88%EB%A1%9C%EC%9A%B4\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EB%A1%9C\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+{% endtab %}
+
+{% tab title="Mobile" %}
+1.  워크스페이스 로그인 화면에서 \*\*비밀번호를 잊어버렸어요.\*\*를 선택합니다.
+
+    ![그림. 비밀번호 재설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebecb562-86f7-4af6-816a-7c8fe33073ef/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95.png)
+2.  해당 계정에서 사용 중인 이름과 이메일을 입력하고, \[비밀번호 재설정 메일 보내기] 버튼을 선택합니다.
+
+    ![비밀번호 재설정 메일 보내기.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/020c7934-6b61-43dc-99c1-0576463f247d/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95\_%EB%A9%94%EC%9D%BC\_%EB%B3%B4%EB%82%B4%EA%B8%B0.png)
+3.  사용 중인 이메일 주소의 메일함에서 수신한 메일을 확인합니다. 메일에서 \[비밀번호 재설정] 버튼을 선택합니다.
+
+    ![그림. 비밀번호 재설정 메일](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f0f2b26-9935-46dd-9453-5b647d32cbdd/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95\_%EB%A9%94%EC%9D%BC.png)
+4.  새로 사용할 비밀번호를 입력하고, \[확인] 버튼을 선택하면 비밀번호가 변경됩니다.
+
+    ![그림. 비밀번호 변경](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/266fb9fb-765b-4978-b89a-2fa7050f23d7/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EB%B3%80%EA%B2%BD.png)
+5.  새로운 비밀번호로 로그인을 진행합니다.
+
+    ![그림. 새로운 비밀번호로 로그인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e28a38d-d33b-43c9-bce0-1cbc08917755/%EC%83%88%EB%A1%9C%EC%9A%B4\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EB%A1%9C\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+{% endtab %}
+{% endtabs %}
 
 ## 기기 인증하기
 
@@ -192,7 +274,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 * 슈퍼 관리자는 [인증키로 로그인](https://www.notion.so/2-16-461a099ada1140a38290b984cce15b9d)할 수 있습니다.
 {% endhint %}
 
-## 기기 인증하기2022년 12월 업데이트 이전
+## 기기 인증하기(2022년 12월 업데이트 이전)
 
 2022년 12월 업데이트 이전 버전의 카카오워크에서 사용자가 새로운 기기에서 로그인을 시도할 경우, 정보 보안을 위해 기기 인증을 수행해야 합니다. 기기 인증 방법은 다음과 같습니다.
 
