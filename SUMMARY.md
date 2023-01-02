@@ -52,9 +52,3 @@
   * [인증키](guide/admin/key.md)
   * [기기 인증](guide/admin/device.md)
   * [부록. 카카오워크 관리자 서비스](guide/admin/appx.md)
-
-***
-
-* [카카오](page-1/README.md)
-  * [Page 2](page-1/page-2.md)
-* [커컹ㅎ1](1.md)
