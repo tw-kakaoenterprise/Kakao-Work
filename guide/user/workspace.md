@@ -37,7 +37,27 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 {% tab title="Mobile" %}
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>카어</p></figcaption></figure>
 
-표...
+| 구분 | 권한 | 설명 |
+| --- | --- | --- |
+| ① 상단 메뉴 ▼ | 모든 멤버 | 카카오워크 상단 메뉴 |
+|      워크스페이스 | 모든 멤버 | 현재 위치한 워크스페이스의 로고<br>- 로고를 선택해 다른 워크스페이스로 전환 가능 |
+|      조직도 | 모든 멤버 | 조직도와 구성원 검색 및 조회 |
+|      통합검색 | 모든 멤버 | 워크스페이스 내 멤버/채팅방/메시지/워크보드명 및 게시글/파일 검색 |
+| ② 멤버 정보 | 모든 멤버 | 나의 프로필과 관련 정보 표시 |
+| ③ 온보딩 위젯 | 사용자 | 프로필 설정, 카카오톡 계정 연결, 전체 멤버 보기 등 초기 설정 바로가기 제공<br>- 최초 로그인 시 나타나며, 건너뛰기 선택 시 다시 보이지 않음 |
+| ➃ 즐겨찾기 | 모든 멤버 | 특정 멤버나 조직을 즐겨찾기 지정<br>- 즐겨찾기 미설정 시 [전체 멤버 보기] 버튼 제공 |
+| ⑤ 멤버 초대 위젯 | 관리자 | 멤버 초대 링크 생성 바로가기<br>- 최초 로그인 시 나타나며, X 선택 시 다시 보이지 않음 |
+| ⑥ 워크스페이스 관리 | 슈퍼 관리자 | 멤버 초대 링크 생성, 복구키 재발급, 관리자 서비스, 기기 인증 요청 확인 바로가기 제공 |
+| ⑦ 할 일 | 모든 멤버 | 등록된 할 일 목록 |
+| ⑧ 일정 | 모든 멤버 | 캘린더의 등록된 오늘과 내일 일정 표시
+ - 전체보기 선택 시 캘린더로 이동하여 전체 일정 확인 가능 |
+| ⑨ 메인 탭 ▼ | 모든 멤버 | 카카오워크 메인 기능 탭 |
+|      My 탭 | 모든 멤버 | 프로필 정보/즐겨찾는 조직 및 멤버/할 일/일정 확인 |
+|      채팅 탭 | 모든 멤버 | 채팅방을 생성하여 멤버들과 채팅 |
+|      워크보드 탭 | 모든 멤버 | 워크보드 새 소식, 워크보드 알림, 참여 보드 목록 조회 |
+|      확장 탭 | 모든 멤버 | 워크 서비스/사내 서비스 바로가기 및 확장 서비스 Bot 설정 제공 |
+|      더보기 탭 | 모든 멤버 | 공지사항/준비 중인 기능/카카오워크 사용법/환경설정/버전 정보/고객센터 등 정보 제공 |
+
 {% endtab %}
 {% endtabs %}
 
@@ -182,33 +202,37 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 2022년 12월 업데이트 이전 버전의 카카오워크에서 사용자가 새로운 기기에서 로그인을 시도할 경우, 정보 보안을 위해 기기 인증을 수행해야 합니다. 기기 인증 방법은 다음과 같습니다.
 
-**로그인된 기기가 있을 경우**
+### 로그인된 기기가 있을 경우
 
-다른 기기에 카카오워크가 로그인이 되어 있을 경우, 동일 사용자임을 확인하기 위해 기존에 로그인된 다른 기기에서 기기 인증을 수행합니다.1.새로운 기기에서 로그인을 하면 기존에 로그인된 모든 기기에 인증 알림 메시지가 발송됩니다.
+다른 기기에 카카오워크가 로그인이 되어 있을 경우, 동일 사용자임을 확인하기 위해 기존에 로그인된 다른 기기에서 기기 인증을 수행합니다.
 
-<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4776c4ed-a3fb-425f-9240-5cf507aa9d4c%2F%E1%84%80%E1%85%B5%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B7_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%89%E1%85%A9%E1%86%BC.png&#x26;blockId=3cf87efa-c95d-489e-b938-a51b9f567096" alt="" data-size="original">
+1. 새로운 기기에서 로그인을 하면 기존에 로그인된 모든 기기에 인증 알림 메시지가 발송됩니다.
 
-그림. 기기 인증 알림 발송2.인증 요청 메시지를 클릭 후, \[수락] 버튼을 클릭하여 인증을 완료합니다.
+    <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4776c4ed-a3fb-425f-9240-5cf507aa9d4c%2F%E1%84%80%E1%85%B5%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B7_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%89%E1%85%A9%E1%86%BC.png&#x26;blockId=3cf87efa-c95d-489e-b938-a51b9f567096" alt="" data-size="original">
 
-<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F877843a7-c148-4f96-b943-f679e19b18c1%2F%25EA%25B7%25B8%25EB%25A6%25BC._%25EA%25B8%25B0%25EA%25B8%25B0_%25EC%259D%25B8%25EC%25A6%259D_%25EC%259A%2594%25EC%25B2%25AD_%25EC%2588%2598%25EB%259D%25BD.png&#x26;blockId=e2b82765-cfef-4105-b9ff-61a12ff1fcd6" alt="" data-size="original">
+2. 인증 요청 메시지를 클릭 후, \[수락] 버튼을 클릭하여 인증을 완료합니다.
 
-그림. 기기 인증 요청 수락
+    <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F877843a7-c148-4f96-b943-f679e19b18c1%2F%25EA%25B7%25B8%25EB%25A6%25BC._%25EA%25B8%25B0%25EA%25B8%25B0_%25EC%259D%25B8%25EC%25A6%259D_%25EC%259A%2594%25EC%25B2%25AD_%25EC%2588%2598%25EB%259D%25BD.png&#x26;blockId=e2b82765-cfef-4105-b9ff-61a12ff1fcd6" alt="" data-size="original">
 
-**로그인된 기기가 없을 경우**
+### 로그인된 기기가 없을 경우
 
-기기 분실 등으로 인해 기존 기기에서 인증 알림을 확인할 수 없는 경우, 슈퍼 관리자에게 기기 인증 승인을 요청해야 합니다.1.로그인 후 나타나는 화면에서 다른 방법으로 인증할게요.를 클릭합니다.
+기기 분실 등으로 인해 기존 기기에서 인증 알림을 확인할 수 없는 경우, 슈퍼 관리자에게 기기 인증 승인을 요청해야 합니다.
 
-<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbffc12a4-5970-48a7-98f3-0eb86ecfe5f3%2F%E1%84%83%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=a18fca0d-838d-4b2b-9b82-2e4379fd62e2" alt="" data-size="original">
+1. 로그인 후 나타나는 화면에서 다른 방법으로 인증할게요.를 클릭합니다.
 
-그림. 다른 방법으로 인증 요청 클릭2.인증 요청 팝업창에서 \[요청] 버튼을 클릭합니다.
+    <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbffc12a4-5970-48a7-98f3-0eb86ecfe5f3%2F%E1%84%83%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=a18fca0d-838d-4b2b-9b82-2e4379fd62e2" alt="" data-size="original">
 
-<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fea4c9307-7c33-41e9-aa28-4039ba9dd71e%2F%E1%84%80%E1%85%B5%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=3a09d5b4-bc64-44fa-97e7-40acd69b72c1" alt="" data-size="original">
+2. 인증 요청 팝업창에서 \[요청] 버튼을 클릭합니다.
 
-그림. 관리자에게 기기 인증 요청3.슈퍼 관리자가 기기 인증을 승인하면, 팀/회사/단체/계열사별 워크스페이스에 입장할 수 있습니다.
+    <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fea4c9307-7c33-41e9-aa28-4039ba9dd71e%2F%E1%84%80%E1%85%B5%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=3a09d5b4-bc64-44fa-97e7-40acd69b72c1" alt="" data-size="original">
 
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-size="original">
+3. 슈퍼 관리자가 기기 인증을 승인하면, 팀/회사/단체/계열사별 워크스페이스에 입장할 수 있습니다.
 
-안내 슈퍼 관리자가 멤버의 기기 인증 요청을 승인하는 방법은 [Kakao Work 관리자 가이드](https://kakaowork.oopy.io/abc6435c-b390-4902-ae54-96c66471497c)의 [기기 인증](https://kakaowork.oopy.io/e058b8dd-d43b-42b2-97b7-2e5cf128456f) 문서를 참고하시기 바랍니다.\
+    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-size="original">
 
+    {% hint style="info" %}
+    **안내**\
+    슈퍼 관리자가 멤버의 기기 인증 요청을 승인하는 방법은 [Kakao Work 관리자 가이드](https://kakaowork.oopy.io/abc6435c-b390-4902-ae54-96c66471497c)의 [기기 인증](https://kakaowork.oopy.io/e058b8dd-d43b-42b2-97b7-2e5cf128456f) 문서를 참고하시기 바랍니다.\
+    {% endhint %}
 
 </details>
