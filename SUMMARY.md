@@ -1,7 +1,7 @@
 # Table of contents
 
 * [카카오워크 사용법](README.md)
-  * [사용자 가이드](guide/user/README.md)
+  * [사용자 가이드](<README (1).md>)
     * [워크스페이스 입장](guide/user/enter.md)
     * [다이내믹 패널](guide/user/dynamic-panel.md)
     * [프로필 설정](guide/user/profile.md)
