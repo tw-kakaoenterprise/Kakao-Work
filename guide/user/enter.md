@@ -30,7 +30,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 {% hint style="info" %}
 **안내**\
-초대 링크를 발송하는 방법은 [Kakao Work 관리자 가이드](../guide/admin/)의 [워크스페이스 개설 > 초대 링크 전달하기](../guide/admin/workspace/create.md#undefined-4)를 참고하시기 바랍니다.
+초대 링크를 발송하는 방법은 [Kakao Work 관리자 가이드](../admin/)의 [워크스페이스 개설 > 초대 링크 전달하기](../admin/workspace/create.md#undefined-4)를 참고하시기 바랍니다.
 {% endhint %}
 
 1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.
