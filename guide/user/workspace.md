@@ -10,6 +10,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 ![카카오워크 메인 화면](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F68b96df9-5341-47de-b2b8-6e32e8ff207f%2FUntitled.png\&blockId=39e5162b-c8b6-47e1-9362-edaf5d79cfbe)
 
+표
 | 구분 | 설명 |
 | --- | --- |
 | ① 상단 메뉴 ▼ | 카카오워크 상단 메뉴 |
