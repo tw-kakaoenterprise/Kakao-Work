@@ -88,11 +88,19 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 1.  카카오워크 PC 앱을 실행 후, 가입 시 사용한 이메일 주소를 입력하고 \[확인] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 로그인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
+
 2.  이메일 주소로 발송된 인증번호를 입력하고 \[확인] 버튼을 클릭합니다.
 
     * 인증번호 입력 5회 실패 시 로그인이 제한될 수 있습니다.
 
     ![그림. 인증번호 입력](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9D%B8%EC%A6%9D%EB%B2%88%ED%98%B8\_%EC%9E%85%EB%A0%A5.png)
+
+    {% hint style="danger" %}
+    **주의**\
+    인증번호 입력 5회 실패 시 로그인이 제한될 수 있습니다.
+    {% endhint %}
+
+
 3.  입장하려는 워크스페이스를 선택합니다.
 
     ![그림.워크스페이스 입장](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%9E%85%EC%9E%A5.png)
