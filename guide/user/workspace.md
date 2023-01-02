@@ -8,6 +8,8 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 카카오워크(Kakao Work)는 기업을 위한 종합 업무 플랫폼입니다. 카카오워크는 기업 메신저의 기본 기능인 채팅뿐만 아니라 화상회의, 음성채팅, 할 일 관리, 캘린더, 인공지능 업무 비서 카카오 i 캐스퍼 등 업무에 도움을 주는 다양한 기능을 제공합니다.
 
+{% tabs %}
+{% tab title="PC" %}
 ![카카오워크 메인 화면](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F68b96df9-5341-47de-b2b8-6e32e8ff207f%2FUntitled.png\&blockId=39e5162b-c8b6-47e1-9362-edaf5d79cfbe)
 
 | 구분                  | 설명                                                                                                          |
@@ -28,6 +30,16 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 | 알림                  | <p>일정 시간 동안 알림 끄기<br>- 30분/1시간/2시간/4시간 동안</p>                                                               |
 | 설정                  | 카카오워크 사용 환경 설정 및 버전 정보 제공                                                                                   |
 | [내 프로필](profile.md) | 내 프로필 정보 수정, 잠금모드 설정, 로그아웃, 카카오워크 종료                                                                        |
+
+
+{% endtab %}
+
+{% tab title="Mobile" %}
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>카어</p></figcaption></figure>
+
+표...
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 **안내**\
@@ -50,13 +62,11 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 1.  슈퍼 관리자 또는 관리자가 공유한 초대 링크(메일, SMS, 카카오톡 등)를 클릭합니다.
 
     ![그림. 카카오워크 초대 링크 공유](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B4%88%EB%8C%80%20%EB%A7%81%ED%81%AC%20%EA%B3%B5%EC%9C%A0.png)
-
 2.  Kakao i 계정을 생성합니다.
 
     * 기입한 이메일 주소로 인증을 완료해야 합니다.
 
     ![그림. Kakao i 계정 생성](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/Kakao%20i%20%EA%B3%84%EC%A0%95%20%EC%83%9D%EC%84%B1.png)
-
 3.  가입이 완료되면 \[카카오워크 시작] 버튼을 클릭하여 카카오워크를 실행합니다.
 
     * 카카오워크 앱은 \[설치] 버튼을 클릭하거나 카카오워크 [공식 홈페이지](https://www.kakaowork.com/download)에서 다운로드할 수 있습니다.
@@ -70,7 +80,6 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 1.  회사 이메일 주소로 전송된 초대 이메일을 클릭 후, \[비밀번호 설정] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 초대 이메일](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EC%B4%88%EB%8C%80\_%EC%9D%B4%EB%A9%94%EC%9D%BC.png)
-
 2.  비밀번호를 입력하고 \[확인] 버튼을 클릭합니다.
 
     ![그림. 카카오워크 비밀번호 설정](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%84%A4%EC%A0%95.png)
@@ -91,11 +100,9 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
     * 인증번호 입력 5회 실패 시 로그인이 제한될 수 있습니다.
 
     ![그림. 인증번호 입력](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9D%B8%EC%A6%9D%EB%B2%88%ED%98%B8\_%EC%9E%85%EB%A0%A5.png)
-
 3.  입장하려는 워크스페이스를 선택합니다.
 
     ![그림.워크스페이스 입장](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%9E%85%EC%9E%A5.png)
-
 4.  이메일 주소와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
 
     ![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
@@ -107,13 +114,13 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 {% hint style="info" %}
 **안내**\
 조직 환경에 따라 조직 ID가 존재하지 않을 수도 있으며, 조직 ID를 모를 경우 슈퍼 관리자에게 문의하시기 바랍니다.
+
 * 조직 ID가 존재하지 않을 경우, [이메일 주소를 사용](https://www.notion.so/1-081b7517f11f4bfbab275e25087f098f)하여 워크스페이스에 입장할 수 있습니다.
 {% endhint %}
 
 1.  카카오워크 PC 앱을 실행 후, **조직 ID**를 입력합니다.
 
     ![그림. 카카오워크 로그인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EB%A1%9C%EA%B7%B8%EC%9D%B8\_%ED%99%94%EB%A9%B4.png)
-
 2.  가입 시 사용한 ID(이메일 또는 휴대폰 번호)와 비밀번호를 입력 후, \[로그인] 버튼을 클릭합니다.
 
     ![그림. 워크스페이스 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
@@ -130,19 +137,15 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 1.  워크스페이스 로그인 페이지에서 **비밀번호를 잊어버렸어요**를 클릭합니다.
 
     ![그림. 비밀번호 재설정](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95.png)
-
 2.  해당 계정에서 사용 중인 이름과 이메일을 입력하고, \[비밀번호 재설정 메일 보내기] 버튼을 클릭합니다.
 
     ![그림. 비밀번호 재설정 메일 보내기](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95\_%EB%A9%94%EC%9D%BC\_%EB%B3%B4%EB%82%B4%EA%B8%B0.png)
-
 3.  수신한 메일에서 \[비밀번호 재설정] 버튼을 클릭합니다.
 
     ![그림. 비밀번호 재설정](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EC%9E%AC%EC%84%A4%EC%A0%95.png)
-
 4.  새로 사용할 비밀번호를 입력하고 \[확인] 버튼을 클릭합니다.
 
     ![그림. 비밀번호 변경](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8\_%EB%B3%80%EA%B2%BD.png)
-
 5.  새로운 비밀번호로 로그인을 진행합니다.
 
     ![그림. 새로운 비밀번호로 로그인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%83%88%EB%A1%9C%EC%9A%B4\_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%EB%A1%9C\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
@@ -172,3 +175,40 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 * 슈퍼 관리자는 [인증키로 로그인](https://www.notion.so/2-16-461a099ada1140a38290b984cce15b9d)할 수 있습니다.
 {% endhint %}
+
+<details>
+
+<summary>기기 인증하기(2022년 12월 업데이트 이전)</summary>
+
+2022년 12월 업데이트 이전 버전의 카카오워크에서 사용자가 새로운 기기에서 로그인을 시도할 경우, 정보 보안을 위해 기기 인증을 수행해야 합니다. 기기 인증 방법은 다음과 같습니다.
+
+**로그인된 기기가 있을 경우**
+
+다른 기기에 카카오워크가 로그인이 되어 있을 경우, 동일 사용자임을 확인하기 위해 기존에 로그인된 다른 기기에서 기기 인증을 수행합니다.1.새로운 기기에서 로그인을 하면 기존에 로그인된 모든 기기에 인증 알림 메시지가 발송됩니다.
+
+<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4776c4ed-a3fb-425f-9240-5cf507aa9d4c%2F%E1%84%80%E1%85%B5%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%85%E1%85%B5%E1%86%B7_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%89%E1%85%A9%E1%86%BC.png&#x26;blockId=3cf87efa-c95d-489e-b938-a51b9f567096" alt="" data-size="original">
+
+그림. 기기 인증 알림 발송2.인증 요청 메시지를 클릭 후, \[수락] 버튼을 클릭하여 인증을 완료합니다.
+
+<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F877843a7-c148-4f96-b943-f679e19b18c1%2F%25EA%25B7%25B8%25EB%25A6%25BC._%25EA%25B8%25B0%25EA%25B8%25B0_%25EC%259D%25B8%25EC%25A6%259D_%25EC%259A%2594%25EC%25B2%25AD_%25EC%2588%2598%25EB%259D%25BD.png&#x26;blockId=e2b82765-cfef-4105-b9ff-61a12ff1fcd6" alt="" data-size="original">
+
+그림. 기기 인증 요청 수락
+
+**로그인된 기기가 없을 경우**
+
+기기 분실 등으로 인해 기존 기기에서 인증 알림을 확인할 수 없는 경우, 슈퍼 관리자에게 기기 인증 승인을 요청해야 합니다.1.로그인 후 나타나는 화면에서 다른 방법으로 인증할게요.를 클릭합니다.
+
+<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbffc12a4-5970-48a7-98f3-0eb86ecfe5f3%2F%E1%84%83%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=a18fca0d-838d-4b2b-9b82-2e4379fd62e2" alt="" data-size="original">
+
+그림. 다른 방법으로 인증 요청 클릭2.인증 요청 팝업창에서 \[요청] 버튼을 클릭합니다.
+
+<img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fea4c9307-7c33-41e9-aa28-4039ba9dd71e%2F%E1%84%80%E1%85%B5%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=3a09d5b4-bc64-44fa-97e7-40acd69b72c1" alt="" data-size="original">
+
+그림. 관리자에게 기기 인증 요청3.슈퍼 관리자가 기기 인증을 승인하면, 팀/회사/단체/계열사별 워크스페이스에 입장할 수 있습니다.
+
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-size="original">
+
+안내 슈퍼 관리자가 멤버의 기기 인증 요청을 승인하는 방법은 [Kakao Work 관리자 가이드](https://kakaowork.oopy.io/abc6435c-b390-4902-ae54-96c66471497c)의 [기기 인증](https://kakaowork.oopy.io/e058b8dd-d43b-42b2-97b7-2e5cf128456f) 문서를 참고하시기 바랍니다.\
+
+
+</details>
