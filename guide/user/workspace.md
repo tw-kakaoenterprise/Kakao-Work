@@ -10,7 +10,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 
 {% tabs %}
 {% tab title="PC" %}
-![카카오워크 메인 화면](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.png)
+![카카오워크 메인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.png)
 
 | 구분                  | 설명                                                                                                          |
 | ------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -33,8 +33,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 {% endtab %}
 
 {% tab title="Mobile" %}
-
-![카카오워크 메인 화면](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.png)
+![카카오워크 메인 화면](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/mobile\_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4.png)
 
 | 구분          | 권한     | 설명                                                                                          |
 | ----------- | ------ | ------------------------------------------------------------------------------------------- |
@@ -48,13 +47,13 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 | ⓹ 멤버 초대 위젯  | 관리자    | <p>멤버 초대 링크 생성 바로가기<br>- 최초 로그인 시 나타나며, X 선택 시 다시 보이지 않음</p>                                |
 | ⓺ 워크스페이스 관리 | 슈퍼 관리자 | 멤버 초대 링크 생성, 복구키 재발급, 관리자 서비스, 기기 인증 요청 확인 바로가기 제공                                          |
 | ⓻ 할 일       | 모든 멤버  | 등록된 할 일 목록                                                                                  |
-| ⓼ 일정        | 모든 멤버  | 캘린더의 등록된 오늘과 내일 일정 표시<br>- 전체보기 선택 시 캘린더로 이동하여 전체 일정 확인 가능 | 
-| ⑨ 메인 탭 ▼ | 모든 멤버 | 카카오워크 메인 기능 탭 | 
-| My 탭 | 모든 멤버 | 프로필 정보/즐겨찾는 조직 및 멤버/할 일/일정 확인 | 
-| 채팅 탭 | 모든 멤버 | 채팅방을 생성하여 멤버들과 채팅 | 
-| 워크보드 탭 | 모든 멤버 | 워크보드 새 소식, 워크보드 알림, 참여 보드 목록 조회 | 
-| 확장 탭 | 모든 멤버 | 워크 서비스/사내 서비스 바로가기 및 확장 서비스 Bot 설정 제공 | 
-| 더보기 탭 | 모든 멤버 | 공지사항/준비 중인 기능/카카오워크 사용법/환경설정/버전 정보/고객센터 등 정보 제공 |
+| ⓼ 일정        | 모든 멤버  | <p>캘린더의 등록된 오늘과 내일 일정 표시<br>- 전체보기 선택 시 캘린더로 이동하여 전체 일정 확인 가능</p>                           |
+| ⑨ 메인 탭 ▼    | 모든 멤버  | 카카오워크 메인 기능 탭                                                                               |
+| My 탭        | 모든 멤버  | 프로필 정보/즐겨찾는 조직 및 멤버/할 일/일정 확인                                                               |
+| 채팅 탭        | 모든 멤버  | 채팅방을 생성하여 멤버들과 채팅                                                                           |
+| 워크보드 탭      | 모든 멤버  | 워크보드 새 소식, 워크보드 알림, 참여 보드 목록 조회                                                             |
+| 확장 탭        | 모든 멤버  | 워크 서비스/사내 서비스 바로가기 및 확장 서비스 Bot 설정 제공                                                       |
+| 더보기 탭       | 모든 멤버  | 공지사항/준비 중인 기능/카카오워크 사용법/환경설정/버전 정보/고객센터 등 정보 제공                                             |
 {% endtab %}
 {% endtabs %}
 
@@ -193,7 +192,7 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 * 슈퍼 관리자는 [인증키로 로그인](https://www.notion.so/2-16-461a099ada1140a38290b984cce15b9d)할 수 있습니다.
 {% endhint %}
 
-## 기기 인증하기(2022년 12월 업데이트 이전)
+## 기기 인증하기2022년 12월 업데이트 이전
 
 2022년 12월 업데이트 이전 버전의 카카오워크에서 사용자가 새로운 기기에서 로그인을 시도할 경우, 정보 보안을 위해 기기 인증을 수행해야 합니다. 기기 인증 방법은 다음과 같습니다.
 
@@ -215,14 +214,14 @@ description: 카카오워크의 특정 워크스페이스에 입장하는 방법
 1.  로그인 후 나타나는 화면에서 다른 방법으로 인증할게요.를 클릭합니다.
 
     <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbffc12a4-5970-48a7-98f3-0eb86ecfe5f3%2F%E1%84%83%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AB_%E1%84%87%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=a18fca0d-838d-4b2b-9b82-2e4379fd62e2" alt="" data-size="original">
-    
 2.  인증 요청 팝업창에서 \[요청] 버튼을 클릭합니다.
 
     <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fea4c9307-7c33-41e9-aa28-4039ba9dd71e%2F%E1%84%80%E1%85%B5%E1%84%80%E1%85%B5_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC.png&#x26;blockId=3a09d5b4-bc64-44fa-97e7-40acd69b72c1" alt="" data-size="original">
-
 3. 슈퍼 관리자가 기기 인증을 승인하면, 팀/회사/단체/계열사별 워크스페이스에 입장할 수 있습니다.
 
-    {% hint style="info" %}
-    **안내**\
-    슈퍼 관리자가 멤버의 기기 인증 요청을 승인하는 방법은 [Kakao Work 관리자 가이드](https://kakaowork.oopy.io/abc6435c-b390-4902-ae54-96c66471497c)의 [기기 인증](https://kakaowork.oopy.io/e058b8dd-d43b-42b2-97b7-2e5cf128456f) 문서를 참고하시기 바랍니다.
-    {% endhint %}
+{% hint style="info" %}
+```
+**안내**\
+슈퍼 관리자가 멤버의 기기 인증 요청을 승인하는 방법은 [Kakao Work 관리자 가이드](https://kakaowork.oopy.io/abc6435c-b390-4902-ae54-96c66471497c)의 [기기 인증](https://kakaowork.oopy.io/e058b8dd-d43b-42b2-97b7-2e5cf128456f) 문서를 참고하시기 바랍니다.
+```
+{% endhint %}
