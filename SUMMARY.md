@@ -13,8 +13,8 @@
   * [카카오 i 캐스퍼](guide/user/kasper.md)
   * [할일](guide/user/to-do.md)
   * [워크보드](guide/user/workboard/README.md)
-    * [보드 개설 및 관리](guide/readme/workboard/create.md)
-    * [보드 참여 및 조회](guide/readme/workboard/join.md)
+    * [보드 개설 및 관리](guide/readme/workboard/undefined.md)
+    * [보드 참여 및 조회](guide/readme/workboard/undefined-1.md)
     * [게시글 관리](guide/user/workboard/manage.md)
     * [보드 활용 및 소통](guide/user/workboard/use.md)
   * [통합검색](guide/user/search.md)
@@ -55,5 +55,6 @@
 
 ***
 
-* [Page 1](page-1/README.md)
+* [카카오](page-1/README.md)
   * [Page 2](page-1/page-2.md)
+* [커컹ㅎ1](1.md)
