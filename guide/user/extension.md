@@ -102,5 +102,6 @@ Jira Enterprise Bot을 연동하기 위해, 먼저 **확장 서비스** 메뉴�
     ![그림. Jira Webhook URL, Headers 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6224c04a-4ef2-4870-8e22-43172f46790e/Untitled.png)
 5. Webhook body는 `Issue data`를 선택한 뒤, \[Save] 버튼을 클릭하여 저장합니다. ![그림. Jira Webhook body](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/38df61bd-097b-467c-a5ab-f16b572ae024/Untitled.png)
 6. **Project automation > automation** 리스트에서 **Enabled**가 활성화 상태이면 연동이 완료됩니다. ![그림. Jira 연동 완료](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a894562-eefd-420e-8709-7be0ceb3b2c3/Untitled.png)
-7. 연동이 완료되면 다음과 같은 메시지를 수신할 수 있습니다.\
-   ![그림. Jira Bot 메시지 예시](https://t1.kakaocdn.net/service\_kep\_docpublish/service/9c3628af017c00001.png)
+7.  연동이 완료되면 다음과 같은 메시지를 수신할 수 있습니다.
+
+    <figure><img src="https://t1.kakaocdn.net/service_kep_docpublish/service/9c3628af017c00001.png" alt=""><figcaption></figcaption></figure>
