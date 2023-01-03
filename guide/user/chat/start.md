@@ -26,7 +26,7 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
 
     * 대화상대 선택에서는 즐겨찾기로 등록된 멤버가 기본값으로 나타나며, 검색을 통해 다른 멤버를 추가할 수 있습니다.
 
-    ![채팅 탭에서 채팅방 생성](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d4e4f29-78ff-4b59-89bb-e8e892a5971b%2FUntitled.png\&blockId=0960c1b6-37aa-447a-bd38-d5fffaaeb04e)
+    ![채팅 탭에서 채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EC%B1%84%ED%8C%85%20%ED%83%AD%EC%97%90%EC%84%9C%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
 2. 채팅방이 생성되면 메시지를 입력 후 \[전송] 아이콘을 선택하여 채팅을 시작합니다.
    * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
 {% endtab %}
@@ -46,6 +46,19 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
    * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
    * 채팅 시작 전 그룹 채팅방명을 설정하면 모두에게 같은 이름으로 채팅방이 개설됩니다.
 {% endtab %}
+
+{% tab title="Mobile" %}
+1.  **My** 탭 화면에서 \[조직도] 아이콘 혹은 즐겨찾기 > 조직도 보기를 선택합니다.
+
+    ![조직도에서 채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EC%A1%B0%EC%A7%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
+2.  조직을 선택하고 \[채팅방] 아이콘을 선택합니다.
+
+    ![조직 채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EC%A1%B0%EC%A7%81%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
+3. 참여 멤버를 확인하고, 확인을 선택합니다.
+   * 선택한 조직에 속한 모든 멤버가 자동으로 선택되며, 즐겨찾기 및 검색을 통해 다른 멤버를 추가할 수 있습니다.
+4. 해당 조직에 속한 멤버가 모두 포함된 채팅방이 생성됩니다.
+   * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
+{% endtab %}
 {% endtabs %}
 
 ## 프로필에서 채팅방 생성하기
@@ -64,14 +77,13 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
 {% endtab %}
 
 {% tab title="Mobile" %}
-
-{% endtab %}
-{% endtabs %}
-
 1.  대화하려는 멤버의 프로필을 선택한 후, 멤버의 프로필 창에서 1:1 채팅을 선택합니다.
 
-    ![](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F757dcb3c-c36e-46dd-93fe-752dab7d8953%2FUntitled.png\&blockId=973e5f43-9aa7-45b9-9dd2-6ca667b3684d)
-2. 채팅방이 생성되면 메시지를 입력 후 \[전송] 아이콘을 선택해 채팅을 시작합니다.•채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
+    ![1:1 채팅](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_1%EB%8C%801%EC%B1%84%ED%8C%85.png)
+2. 채팅방이 생성되면 메시지를 입력 후 \[전송] 아이콘을 선택해 채팅을 시작합니다.
+   * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
+{% endtab %}
+{% endtabs %}
 
 ## 외부 멤버와 대화하기
 
@@ -93,6 +105,17 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
     ![외부 멤버 탭에서 대화 상대 선택](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EC%99%B8%EB%B6%80%20%EB%A9%A4%EB%B2%84%20%ED%83%AD%EC%97%90%EC%84%9C%20%EB%8C%80%ED%99%94%20%EC%83%81%EB%8C%80%20%EC%84%A0%ED%83%9D.png)
 3. 안내 팝업창에서 \[채팅방 개설] 버튼을 클릭합니다.
 4. 채팅방이 생성되면 메시지를 입력하고 엔터를 누르거나 \[전송] 아이콘을 클릭해 채팅을 시작합니다.
+   * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
+{% endtab %}
+
+{% tab title="Mobile" %}
+1.  채팅 탭에서 \[채팅방] 아이콘을 선택합니다.
+
+    ![채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
+2.  대화상대 선택 메뉴의 외부 멤버 탭에서 대화할 상대를 선택하고, 확인을 선택합니다.
+
+    ![외부 멤버 선택](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EC%99%B8%EB%B6%80%20%EB%A9%A4%EB%B2%84%20%EC%84%A0%ED%83%9D.png)
+3. 채팅방이 생성되면 \[전송] 아이콘을 선택해 메시지를 전송하며 채팅을 시작합니다.
    * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
 {% endtab %}
 {% endtabs %}
@@ -123,6 +146,23 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
     | 메시지 자동 삭제 시간 | <p>참여 중인 모든 멤버가 메시지를 읽은 후, 메시지가 삭제되는 시간<br>- { 1시간 / 3시간 / 6시간 / 1일 / 3일 / 5일 / 7일 } 중 선택</p> |
     | 최대 메시지 보관 기간 | <p>메시지 읽음 여부와 관계없이 메시지가 삭제되는 시간<br>- { 3일 / 7일 / 10일 / 14일 } 중 선택</p>                         |
 3. 채팅방에 참여할 멤버를 확인하고, \[선택] 버튼을 클릭합니다.
+   * 비밀 채팅방에 그룹사 멤버는 초대할 수 있으나, 외부 멤버는 초대할 수 없습니다.
+{% endtab %}
+
+{% tab title="Mobile" %}
+1.  **채팅** 탭에서 \[채팅방] 아이콘을 선택하고, 비밀 채팅방을 선택합니다.
+
+    ![비밀 채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EB%B9%84%EB%B0%80%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
+2.  **비밀 채팅방 설정** 메뉴에서 메시지 삭제 옵션을 설정합니다.
+
+    ![비밀 채팅방 옵션](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EB%B9%84%EB%B0%80%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%98%B5%EC%85%98.png)
+
+    | 구분           | 설명                                                                                            |
+    | ------------ | --------------------------------------------------------------------------------------------- |
+    | 메시지 자동 삭제 시간 | <p>참여 중인 모든 멤버가 메시지를 읽은 후, 메시지가 삭제되는 시간 <br>- { 1시간 | 3시간 | 6시간 | 1일 | 3일 | 5일 | 7일 } 중 선택</p> |
+    | ------------ | ---------------------------------------------------------------------------------------------- |
+    | 최대 메시지 보관 기간 | <p>메시지 읽음 여부와 관계없이 메시지가 삭제되는 시간 <br>- { 3일 | 7일 | 10일 | 14일 } 중 선택</p>                         |
+3. 채팅방에 참여할 멤버를 확인하고, \[확인] 버튼을 선택합니다.
    * 비밀 채팅방에 그룹사 멤버는 초대할 수 있으나, 외부 멤버는 초대할 수 없습니다.
 {% endtab %}
 {% endtabs %}
