@@ -6,7 +6,7 @@
 
 **결제 > 이용 및 청구현황** 메뉴에서 월별 이용 내역과 납부 현황을 확인하고, 청구 정보를 조회 또는 변경할 수 있습니다.
 
-![그림. 이용 및 청구현황](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79f66339-fb4c-4c6e-9ccd-2fda9df07d44/%EC%9D%B4%EC%9A%A9\_%EB%B0%8F\_%EC%B2%AD%EA%B5%AC%ED%98%84%ED%99%A9.png)
+![그림. 이용 및 청구현황](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9D%B4%EC%9A%A9_%EB%B0%8F_%EC%B2%AD%EA%B5%AC%ED%98%84%ED%99%A9.png)
 
 | 구분         | 설명                                                                                                                                                                                                                                                                                                   |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,25 +29,29 @@
 
 1.  **결제 > 이용 및 청구현황** 메뉴에서 계약 주기를 **연간계약**/**월간계약**으로 변경할 수 있습니다.
 
-    ![그림. 계약 주기 변경](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/452a57b6-95af-4f44-a2a8-4f32567e3c82/%EA%B3%84%EC%95%BD\_%EC%A3%BC%EA%B8%B0\_%EB%B3%80%EA%B2%BD.png)
+    ![그림. 계약 주기 변경](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B3%84%EC%95%BD_%EC%A3%BC%EA%B8%B0_%EB%B3%80%EA%B2%BD.png)
 
     1. **계약 주기**에서 \[변경] 버튼을 클릭합니다.
     2. 변경 안내문을 확인하고 \[변경] 버튼을 클릭합니다.
+
+
 2.  변경이 완료되면 변경 예정 내용이 이용 플랜 정보에 표시됩니다.
 
-    ![그림. 계약 주기 변경 결과 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/237100e9-e045-47b2-b7f6-3c3ae8c8fe93/%EA%B3%84%EC%95%BD\_%EC%A3%BC%EA%B8%B0\_%EB%B3%80%EA%B2%BD\_%EA%B2%B0%EA%B3%BC\_%ED%99%95%EC%9D%B8.png)
+    ![그림. 계약 주기 변경 결과 확인](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B3%84%EC%95%BD_%EC%A3%BC%EA%B8%B0_%EB%B3%80%EA%B2%BD_%EA%B2%B0%EA%B3%BC_%ED%99%95%EC%9D%B8.png)
 
 ### 결제 수단 변경하기
 
 1.  **결제 > 이용 및 청구현황** 메뉴에서 등록된 결제 수단을 변경합니다.
 
-    ![그림. 결제 수단 변경](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed4a085f-17ac-449e-8d06-56018b26c7fd/%EA%B2%B0%EC%A0%9C\_%EC%88%98%EB%8B%A8\_%EB%B3%80%EA%B2%BD.png)
+    ![그림. 결제 수단 변경](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B2%B0%EC%A0%9C_%EC%88%98%EB%8B%A8_%EB%B3%80%EA%B2%BD.png)
 
     1. 결제 수단 메뉴에서 \[변경] 버튼을 클릭합니다.
     2. 결제 수단 관리 팝업창에서 등록된 결제 수단을 확인하고, \[변경] 버튼을 클릭합니다.
+
+
 2.  새로 변경할 결제 수단을 등록합니다.
 
-    ![그림. 결제수단 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/007197ad-6ec6-4c28-b74a-603a8a47f4c5/%EA%B2%B0%EC%A0%9C\_%EC%88%98%EB%8B%A8\_%EB%93%B1%EB%A1%9D.png)
+    ![그림. 결제수단 등록](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B2%B0%EC%A0%9C_%EC%88%98%EB%8B%A8_%EB%93%B1%EB%A1%9D.png)
 
     1. 변경할 결제 수단을 선택합니다.
     2. 약관을 확인하고 약관 동의를 선택합니다.

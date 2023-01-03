@@ -6,7 +6,7 @@
 
 카카오 i 캐스퍼 지식 검색 서비스를 제공하기 위해서는 관리자가 질문과 답변 데이터를 직접 등록해야 합니다. 카카오 i 캐스퍼 데이터는 Bot 관리 권한이 있는 관리자가 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **봇 관리 > QnA데이터 관리** 메뉴에서 등록합니다.
 
-![그림. 지식 검색 서비스 예시](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9824456-3684-4fa4-b7d0-404341db0250/%E1%84%8C%E1%85%B5%E1%84%89%E1%85%B5%E1%86%A8\_%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8\_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3\_%E1%84%8B%E1%85%A8%E1%84%89%E1%85%B5.png)
+![그림. 지식 검색 서비스 예시](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%A7%80%EC%8B%9D%20%EA%B2%80%EC%83%89%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%98%88%EC%8B%9C.png)
 
 {% hint style="info" %}
 **안내**\
@@ -19,7 +19,7 @@
 
 **QnA 데이터 관리자 서비스 접속하기** **QnA 데이터 관리자** 사이트는 카카오워크 관리자 서비스의 **봇 관리** 메뉴에서 접속할 수 있습니다.
 
-![그림. QnA 데이터 관리자 서비스 접속](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78b295ed-1a68-4929-81c7-3384eaff4791/QnA\_%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5\_%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8C%E1%85%A1\_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3\_%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%89%E1%85%A9%E1%86%A8.png)
+![그림. QnA 데이터 관리자 서비스 접속](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/QnA_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%84%9C%EB%B9%84%EC%8A%A4_%EC%A0%91%EC%86%8D.png)
 
 | 구분            | 접속 방법                |
 | ------------- | -------------------- |
@@ -27,7 +27,7 @@
 
 **QnA 데이터 관리자 서비스 화면 구성**
 
-![그림. QnA 데이터 관리자 서비스 화면 구성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c2d32f8-e665-48ab-a35a-0a0a59e1f172/QnA\_%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5\_%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%E1%84%8C%E1%85%A1\_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3\_%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC.png)
+![그림. QnA 데이터 관리자 서비스 화면 구성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/QnA_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B5%AC%EC%84%B1.png)
 
 | 구분           | 설명                                                                                                                                                                                                    |
 | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@
     * QnA 데이터: 질문(Question)과 답변(Answer)값으로 이루어진 데이터셋
     * 용어 사전: 용어명(Keyword)과 용어 설명(Description)으로 이루어진 데이터셋
 
-    ![그림. 데이터 업로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f08d102-adcb-430d-8c4c-3c760deeab29/%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5\_%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+    ![그림. 데이터 업로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%97%85%EB%A1%9C%EB%93%9C.png)
 
     | 구분         | 설명                                       |
     | ---------- | ---------------------------------------- |
@@ -59,22 +59,28 @@
     | 서비스 반영 에러  | 데이터 등록 과정 중 에러가 발생한 상태로, 데이터 삭제 후 재등록 필요 |
     | 서비스 반영 중   | 데이터 등록 후 서비스에 반영 중인 상태                   |
     | 서비스 반영 완료  | 서비스에 데이터 등록이 완료된 상태                      |
+
+
 2.  **데이터 등록** 팝업창에서 **입력 양식 다운로드**를 클릭하여 데이터셋을 입력하기 위한 양식 파일을 다운로드합니다.
 
-    ![그림. 양식 파일 다운로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2fdc2512-eeea-416c-9599-1ab038997078/%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8\_%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF\_%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+    ![그림. 양식 파일 다운로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%96%91%EC%8B%9D_%ED%8C%8C%EC%9D%BC_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
+
+
 3. **데이터 등록** 팝업창 하단에 표기된 데이터셋 작성 가이드를 참고하여, 양식에 맞게 데이터셋을 작성합니다.
 4.  \[파일 업로드] 버튼을 클릭해 작성 완료된 CSV 파일을 등록합니다.
 
     * 반드시 UTF-8 타입의 CSV 형식의 파일만 업로드합니다.
     * UTF-8 타입 외의 CSV 파일이거나 UTF-8 타입을 지원하지 않는 소프트웨어로 파일을 수정하는 경우, 한글 깨짐 현상이 발생하여 데이터 반영에 문제가 발생할 수 있습니다.
 
-    ![그림. 파일 업로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd21cc03-96e1-4774-9eaf-c5fcc10db616/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF\_%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+    ![그림. 파일 업로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%ED%8C%8C%EC%9D%BC_%EC%97%85%EB%A1%9C%EB%93%9C2.png)
+
+
 5.  \[등록] 버튼을 클릭합니다.
 
     * 최초 데이터 등록 시 서비스 반영까지 최대 30분의 시간이 소요됩니다.
     * 데이터 업로드가 정상적으로 진행되면, 해당 서비스 상태가 `서비스 반영 중`→`서비스 반영 완료`로 변경됩니다.
 
-    ![그림. 데이터 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ce39ce3b-58fe-425a-a2eb-4244e64ce08c/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF\_%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+    ![그림. 데이터 등록](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%93%B1%EB%A1%9D.png)
 
 ### 데이터 업데이트하기
 
@@ -87,14 +93,18 @@
 
 1.  **서비스 관리**에서 수정하고자 하는 서비스 카테고리의 \[파일 다운로드] 버튼을 클릭해 현재 등록되어 있는 데이터셋을 다운로드합니다.
 
-    ![그림. 파일 다운로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87e46851-3806-4f51-a3e7-0c483311238a/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF\_%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+    ![그림. 파일 다운로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%ED%8C%8C%EC%9D%BC_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
+
+
 2. 다운로드한 파일을 수정 및 저장합니다.
 3.  **서비스 관리**에서 업데이트 하고자하는 서비스 카테고리의 **데이터 업로드**를 클릭합니다.
 
-    ![그림. 데이터 업로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05a8ed74-f155-4e22-a3d7-c45317989808/%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5\_%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+    ![그림. 데이터 업로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%97%85%EB%A1%9C%EB%93%9C.png)
+
+
 4.  **데이터 등록** 팝업창에서 \[파일 업로드] 버튼을 클릭하여 수정한 CSV 파일을 업로드합니다.
 
-    ![그림. 파일 업로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47c1fd0c-7a20-4bcd-a38c-66226128800f/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF\_%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png)
+    ![그림. 파일 업로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%ED%8C%8C%EC%9D%BC_%EC%97%85%EB%A1%9C%EB%93%9C2.png)
 
 ### 데이터 삭제하기
 
@@ -102,7 +112,7 @@
 
 * 데이터 삭제가 완료되면, `데이터 업로드 필요` 상태로 변경됩니다.
 
-![그림. 데이터 삭제](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f4cf5a6-fa69-467a-acc7-2cd3cffc5204/%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF\_%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3-2.png)
+![그림. 데이터 삭제](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%82%AD%EC%A0%9C.png)
 
 {% hint style="danger" %}
 **주의**\

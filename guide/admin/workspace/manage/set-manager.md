@@ -4,7 +4,7 @@
 
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **워크스페이스 멤버 > 관리자 설정** 메뉴에서는 주요 직책자를 워크스페이스 관리자로 설정할 수 있으며, 관리자별 접근 가능한 메뉴를 제한하여 설정할 수 있습니다.
 
-![그림. 관리자 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/11a92095-46a1-4be5-bd5e-c51593a8b4e1/%EA%B4%80%EB%A6%AC%EC%9E%90\_%EC%84%A4%EC%A0%95\_\(1\).png)
+![그림. 관리자 설정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B4%80%EB%A6%AC%EC%9E%90_%EC%84%A4%EC%A0%95.png)
 
 | 구분                | 접근 권한       | 설명                                                                                        |
 | ----------------- | ----------- | ----------------------------------------------------------------------------------------- |
@@ -29,16 +29,20 @@
 
 1.  **워크스페이스 멤버 > 관리자 설정** 메뉴에서 특정 멤버를 관리자로 추가합니다.
 
-    ![그림. 관리자 추가](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8ba8cd0-21c9-4653-9e1d-9ad085ea7d18/Untitled.png)
+    ![그림. 관리자 추가](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%B6%94%EA%B0%80.png)
 
     1. \[관리자 추가 등록] 버튼을 클릭합니다.
     2. **관리자 추가** 팝업창이 나타나면 멤버 이름을 입력하여 관리자를 추가합니다.
+
+
 2.  접근 가능 메뉴를 선택 또는 해제 후, \[확인] 버튼을 클릭합니다.
 
-    ![그림. 관리자 접근 권한 선택/해제](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fddb6edc-997b-4bb8-947a-a6411e1bdd32/Untitled.png)
+    ![그림. 관리자 접근 권한 선택/해제](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%A0%91%EA%B7%BC%20%EA%B6%8C%ED%95%9C%20%EC%84%A0%ED%83%9D%ED%95%B4%EC%A0%9C.png)
+
+
 3.  추가한 관리자가 관리자 리스트에 표시됩니다.
 
-    ![그림. 관리자가 추가된 리스트](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1dd89553-7b27-4238-a1d8-72cbddbe7ad4/Untitled.png)
+    ![그림. 관리자가 추가된 리스트](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B4%80%EB%A6%AC%EC%9E%90%EA%B0%80%20%EC%B6%94%EA%B0%80%EB%90%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.png)
 
 ### 관리자 수정/삭제하기
 
@@ -46,4 +50,4 @@
 
 * 관리자는 다른 멤버를 관리자로 추가하거나 삭제할 수 있습니다.
 
-![그림. 관리자 수정 및 삭제](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8a61aa3-f8c8-47b1-9566-44ad209d6abe/Untitled.png)
+![그림. 관리자 수정 및 삭제](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%88%98%EC%A0%95%EB%B0%8F%20%EC%82%AD%EC%A0%9C.png)

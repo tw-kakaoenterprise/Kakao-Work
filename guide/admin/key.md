@@ -25,26 +25,32 @@
 
 1.  **더보기 탭 > 관리자 > 인증키 재발급** 메뉴를 클릭합니다.
 
-    ![그림. 인증키 재발급 메뉴](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1535d4eb-3887-4fb8-9da4-069943369d0e/%EC%9D%B8%EC%A6%9D%ED%82%A4\_%EC%9E%AC%EB%B0%9C%EA%B8%89\_%EB%A9%94%EB%89%B4.png)
+    ![그림. 인증키 재발급 메뉴](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9D%B8%EC%A6%9D%ED%82%A4%20%EC%9E%AC%EB%B0%9C%EA%B8%89%20%EB%A9%94%EB%89%B4.png)
+
+
 2.  \[클릭하여 인증키 재발급] 버튼을 클릭해 새로운 인증키를 발급받습니다.
 
     * 인증키는 슈퍼관리자 메일로 발송되며, 복사하여 다른 멤버에게 공유하거나 별도로 보관할 수 있습니다.
 
-    ![그림. 인증키 재발급](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16256701-74d3-442e-96d9-be664574a825/%EC%9D%B8%EC%A6%9D%ED%82%A4\_%EC%9E%AC%EB%B0%9C%EA%B8%89\_\(1\).png)
+    ![그림. 인증키 재발급](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9D%B8%EC%A6%9D%ED%82%A4%20%EC%9E%AC%EB%B0%9C%EA%B8%89.png)
 
 **Mobile 버전**
 
-1.  **더보기** 탭 **> 관리자 > 인증키 재발급** 메뉴로 이동합니다.
+1.  **더보기 탭 > 관리자 > 인증키 재발급** 메뉴로 이동합니다.
 
-    ![그림. 인증키 재발급 메뉴(Mobile)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f36229a-d055-45d6-9389-8849c7d8b387/%EB%A9%94%EC%8B%9C%EC%A7%80\_%EC%95%94%ED%98%B8%ED%99%94.png)
+    ![그림. 인증키 재발급 메뉴(Mobile)](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9D%B8%EC%A6%9D%ED%82%A4%20%EC%9E%AC%EB%B0%9C%EA%B8%89%20%EB%A9%94%EB%89%B4mobile.png)
+
+
 2.  **터치하여 인증키 재발급**을 선택하여 새로운 인증키를 발급받습니다.
 
-    ![그림. 인증키 재발급(Mobile)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1149825b-1c1d-44a3-b8cc-e7af8644937e/%EC%9D%B8%EC%A6%9D%ED%82%A4\_%EC%9E%AC%EB%B0%9C%EA%B8%89\_\(2\).png)
+    ![그림. 인증키 재발급(Mobile)](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9D%B8%EC%A6%9D%ED%82%A4%20%EC%9E%AC%EB%B0%9C%EA%B8%89mobile.png)
+
+
 3.  인증키 재발급이 완료되고, 발급된 인증키는 슈퍼 관리자 메일로 발송됩니다.
 
     * **보관하기** **인증키 복사하기,** **인증키 내보내기** 기능을 활용해 인증키를 별도로 보관할 수도 있습니다.
 
-    ![그림. 인증키 재발급 완료](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/122b274d-74eb-42d3-ae6f-61c2fd73c17c/%EC%9D%B8%EC%A6%9D%ED%82%A4\_%EC%9E%AC%EB%B0%9C%EA%B8%89\_%EC%99%84%EB%A3%8C.png)
+ 
 
 ## 복구키 재발급(**2022년 12월 업데이트 이전 가입자**)
 
@@ -61,12 +67,14 @@
 
 1.  **더보기** 탭 **복구키 재발급** 메뉴에서 **클릭하여 복구키 재발급**을 클릭합니다.
 
-    ![그림. 클릭하여 복구키 재발급](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39986e95-c5d4-459c-b6af-62b0265d657c/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%80%E1%85%AE%E1%84%8F%E1%85%B5\_%E1%84%8C%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B3%E1%86%B8.png)
+    ![그림. 클릭하여 복구키 재발급](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%ED%81%B4%EB%A6%AD%ED%95%98%EC%97%AC%20%EB%B3%B5%EA%B5%AC%ED%82%A4%20%EC%9E%AC%EB%B0%9C%EA%B8%89.png)
+
+
 2.  재발급된 복구키는 사용 중인 기기에 스크린샷으로 저장되며, 나와의 채팅방에도 전달됩니다.
 
     * 복구키 재발급 시, 이전 복구키는 더 이상 사용할 수 없습니다.
 
-    ![그림. 복구키 재발급](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6cd252c8-4b2c-4ca6-89cb-1aae95229af0/%E1%84%87%E1%85%A9%E1%86%A8%E1%84%80%E1%85%AE%E1%84%8F%E1%85%B5\_%E1%84%8C%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B3%E1%86%B8-1.png)
+    ![그림. 복구키 재발급](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B3%B5%EA%B5%AC%ED%82%A4%20%EC%9E%AC%EB%B0%9C%EA%B8%89.png)
 
 ### 다른 멤버를 통해 재발급받기
 
@@ -74,15 +82,21 @@
 
 1.  카카오워크 앱 하단의 \[복구키를 분실하셨나요?] 버튼을 클릭합니다.
 
-    ![그림. 복구키 분실](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90dc7656-f6bd-4c22-a8eb-2b0dd35a06a4/Untitled.png)
+    ![그림. 복구키 분실](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B3%B5%EA%B5%AC%ED%82%A4%20%EB%B6%84%EC%8B%A4.png)
+
+
 2.  \[다른 멤버에게 확인 요청] 버튼을 클릭합니다.
 
-    ![그림. 다른 멤버에게 확인 요청](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a81826ba-cdc4-4b08-b47f-294dca155ce6/Untitled.png)
+    ![그림. 다른 멤버에게 확인 요청](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%8B%A4%EB%A5%B8%20%EB%A9%A4%EB%B2%84%EC%97%90%EA%B2%8C%20%ED%99%95%EC%9D%B8%20%EC%9A%94%EC%B2%AD.png)
+
+
 3.  확인 요청할 멤버를 선택(최대 5명)합니다.
 
-    ![그림. 확인 요청할 멤버 선택](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89655e1a-4b1f-4bb3-ab7d-18f228c28074/Untitled.png)
+    ![그림. 확인 요청할 멤버 선택](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%ED%99%95%EC%9D%B8%20%EC%9A%94%EC%B2%AD%ED%95%A0%20%EB%A9%A4%EB%B2%84%20%EC%84%A0%ED%83%9D.png)
+
+
 4.  다른 멤버가 확인을 완료하면 복구키를 재발급 받을 수 있습니다.
 
     * 확인 요청 멤버 중 1명이라도 확인 요청을 승인하면, 인증이 완료되어 새로운 복구키를 발급할 수 있습니다.
 
-    ![그림. 확인 요청 알림 전송](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43e730c2-8cda-4a40-a440-c2e6801107b1/Untitled.png)
+    ![그림. 확인 요청 알림 전송](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%ED%99%95%EC%9D%B8%20%EC%9A%94%EC%B2%AD%20%EC%95%8C%EB%A6%BC%20%EC%A0%84%EC%86%A1.png)

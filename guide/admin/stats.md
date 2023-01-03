@@ -7,7 +7,7 @@
 STANDARD [요금제](https://www.kakaowork.com/pricing) 이상부터 제공됩니다.
 {% endhint %}
 
-![그림. 통계 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e5b0f54-cb86-4263-b64d-4a885b7586b8/Untitled.png)
+![그림. 통계 화면](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%ED%86%B5%EA%B3%84%20%ED%99%94%EB%A9%B4.png)
 
 | 구분               | 설명                                                                                                                                                                               |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

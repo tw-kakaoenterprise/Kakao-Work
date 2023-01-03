@@ -10,7 +10,7 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **봇 관리 > 워크스페이스 봇 관리** 메뉴에서 워크스페이스에서 사용 중인 Bot 내역과 활성화 여부를 설정할 수 있습니다.
 
-![그림. 워크스페이스 봇 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44b6aa04-4792-477f-bafd-50ff6a19e63f/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC\_%EA%B4%80%EB%A6%AC%EC%9E%90\_%EC%84%9C%EB%B9%84%EC%8A%A4\_\(1\).png)
+![그림. 워크스페이스 봇 관리](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EB%B4%87%20%EA%B4%80%EB%A6%AC.png)
 
 | 구분               | 설명                                                            |
 | ---------------- | ------------------------------------------------------------- |
@@ -21,7 +21,7 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) > **봇 관리 > Bot 개발자 관리** 메뉴에서는 워크스페이스용 Bot을 생성할 수 있는 개발자를 추가하고 관리할 수 있습니다.
 
-![그림. Bot 개발자 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2b98ed0-7f59-46da-86f5-5bbad8ca800f/Untitled.png)
+![그림. Bot 개발자 관리](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B4%87%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B4%80%EB%A6%AC.png)
 
 | 구분            | 설명                                                                                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -38,10 +38,12 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 1.  **봇 관리 > Bot 개발자 관리** 화면으로 이동하여 \[개발자 추가 등록] 버튼을 클릭합니다.
 
-    ![그림. 개발자 추가 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3124d2dd-1761-49b4-bf6b-8d120435f99d/Untitled.png)
+    ![그림. 개발자 추가 등록](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%B6%94%EA%B0%80%20%EB%93%B1%EB%A1%9D.png)
+
+
 2.  개발자로 등록할 멤버 이름 검색 후, \[추가] 버튼을 클릭합니다.
 
-    ![그림. 개발자 등록 팝업창](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f362ac75-40a5-4520-9ace-0b580597f797/Untitled.png)
+    ![그림. 개발자 등록 팝업창](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EB%93%B1%EB%A1%9D%20%ED%8C%9D%EC%97%85%EC%B0%BD.png)
 
 **안내**\
 관리자 권한이 없는 사용자가 개발자로 지정될 경우, [카카오워크 관리자 서비스](https://admin.kakaowork.com/)의 **봇 관리** 메뉴에만 접근할 수 있습니다.
@@ -50,7 +52,7 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 
 **봇 관리 > Bot 개발자 관리**에서 \[권한 해제] 버튼을 클릭하여 개발자 권한을 해제할 수 있습니다.
 
-![그림. 개발자 권한 해제](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f01b3c13-6822-40fb-961c-059eaf0fbd8d/Untitled.png)
+![그림. 개발자 권한 해제](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B6%8C%ED%95%9C%20%ED%95%B4%EC%A0%9C.png)
 
 ### Bot 개발하기
 
@@ -63,7 +65,7 @@ Bot(봇)이란 특정 작업을 자동으로 수행하도록 프로그래밍된 
 Bot 개발 서비스는 현재(22년 11월 기준) Beta 버전으로 제공됩니다.
 {% endhint %}
 
-![그림. Bot 개발 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f067f9c-b071-4dbe-ac15-3cc28d03a6e4/Untitled.png)
+![그림. Bot 개발 화면](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B4%87%20%EA%B0%9C%EB%B0%9C%20%ED%99%94%EB%A9%B4.png)
 
 | 구분             | 설명                                                                      |
 | -------------- | ----------------------------------------------------------------------- |
@@ -83,10 +85,12 @@ Bot 개발 서비스는 현재(22년 11월 기준) Beta 버전으로 제공됩�
 
 1.  **봇 관리 > Bot 개발** 화면에서 \[Bot 생성하기] 버튼을 클릭합니다.
 
-    ![그림. Bot 생성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e184269-2923-4b69-b947-db33075215cd/Untitled.png)
+    ![그림. Bot 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B4%87%20%EC%83%9D%EC%84%B1.png)
+
+
 2.  Bot 정보를 입력한 후, \[생성] 버튼을 클릭합니다.
 
-    ![그림. Bot 정보 입력 팝업창](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab6e135c-ba6f-4d2b-b12b-4a3146bcf0b1/Untitled.png)
+    ![그림. Bot 정보 입력 팝업창](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B4%87%20%EC%A0%95%EB%B3%B4%20%EC%9E%85%EB%A0%A5%20%ED%8C%9D%EC%97%85%EC%B0%BD.png)
 
     | 구분     | 필수 여부 | 설명                    |
     | ------ | ----- | --------------------- |
@@ -100,14 +104,16 @@ Bot의 정보를 수정하는 방법은 다음과 같습니다.
 
 1.  **봇 관리 > Bot 개발자 관리** 메뉴에서 \[수정] 아이콘을 클릭합니다.
 
-    ![그림. 생성된 Bot 수정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/761e5368-20c0-4c76-8694-53d1e41577e7/Untitled.png)
+    ![그림. 생성된 Bot 수정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%83%9D%EC%84%B1%EB%90%9C%20%EB%B4%87%20%EC%88%98%EC%A0%95.png)
+
+
 2.  제작된 Bot의 기본 정보와 권한 등을 설정합니다.
 
     1.  **Bot 기본 정보 탭**에서 정보 수정 후 \[저장] 버튼을 클릭합니다.
 
         * **App Key**는 Bot 생성 시 자동으로 부여되며, Bot 인증 시 Request 파라미터에 입력하는 값입니다.
 
-        ![그림. Bot 기본 정보 수정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/550a2946-b02c-4920-b1b5-3ca874a91bc6/Untitled.png)
+        ![그림. Bot 기본 정보 수정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B4%87%20%EA%B8%B0%EB%B3%B8%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png)
 
         | 구분            | 필수 여부 | 설명                                                                          |
         | ------------- | ----- | --------------------------------------------------------------------------- |
@@ -119,9 +125,11 @@ Bot의 정보를 수정하는 방법은 다음과 같습니다.
         | 소개            | 선택    | Bot의 역할 또는 알림 상황 설명 문구                                                      |
         | App Key       | 필수    | <p>Bot 생성 시 자동으로 부여되는 값<br>- Bot 인증 시 Request 파라미터에 App Key를 이용하여 인증 요청</p> |
         | 문의            | 필수    | <p>Bot 담당자 정보<br>- 아이디, 메일 등</p>                                            |
+
+
     2.  **Bot 권한 및 기능 탭**에서 정보 수정 후 \[저장] 버튼을 클릭합니다.
 
-        ![그림. Bot 권한 및 기능 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/618f8520-5317-4dae-b13b-3a94c93cb6b1/Untitled.png)
+        ![그림. Bot 권한 및 기능 설정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B4%87%20%EA%B6%8C%ED%95%9C%20%EB%B0%8F%20%EA%B8%B0%EB%8A%A5%20%EC%84%A4%EC%A0%95.png)
 
     | 구분               | 필수 여부 | 설명                                                                                                                                                                                                                     |
     | ---------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

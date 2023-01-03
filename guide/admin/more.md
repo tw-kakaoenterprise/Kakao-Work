@@ -2,7 +2,7 @@
 
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **더보기** 메뉴에서는 카카오워크 앱(애플리케이션)과 관련된 상세 정보를 확인할 수 있습니다.
 
-![그림. 더보기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/379ed1f3-1ceb-4e58-85dc-e0319cdda8c3/%EB%8D%94%EB%B3%B4%EA%B8%B0.png)
+![그림. 더보기](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%8D%94%EB%B3%B4%EA%B8%B0.png)
 
 | 구분          | 접근 권한     |                                      |
 | ----------- | --------- | ------------------------------------ |

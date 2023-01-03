@@ -13,7 +13,7 @@
 
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **워크스페이스 멤버**에서 워크스페이스에 새로운 멤버를 등록하고 기존 멤버의 정보를 조회 또는 변경할 수 있습니다.
 
-![그림. 워크스페이스 멤버 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02201c00-a65b-4e2a-94d2-bd63a6f81e19/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A9%A4%EB%B2%84\_%EA%B4%80%EB%A6%AC.png)
+![그림. 워크스페이스 멤버 관리](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4_%EB%A9%A4%EB%B2%84_%EA%B4%80%EB%A6%AC.png)
 
 | 구분                                       | 설명                                                                                                                 |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -37,7 +37,9 @@
 
 1.  [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **> 워크스페이스 멤버 > 멤버 관리**에서 \[멤버 등록] 버튼을 클릭합니다.
 
-    ![그림. 멤버 개별 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f6831b9-9a36-4949-8667-ce5c45c4d57c/%EB%A9%A4%EB%B2%84\_%EA%B0%9C%EB%B3%84\_%EB%93%B1%EB%A1%9D.png)
+    ![그림. 멤버 개별 등록](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%A9%A4%EB%B2%84_%EA%B0%9C%EB%B3%84_%EB%93%B1%EB%A1%9D(%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A9%A4%EB%B2%84%EA%B4%80%EB%A6%AC).png)
+
+
 2.  멤버의 정보를 작성하고 \[등록] 버튼을 클릭합니다.
 
     * ID(이메일)과 이름은 필수 작성 항목입니다.
@@ -48,7 +50,7 @@
     | 멤버에게 비밀번호 설정 메일 발송 | <p>등록한 멤버의 이메일 주소로 비밀번호 설정 메일 발송<br>- 멤버가 이메일을 확인한 후, 비밀번호를 직접 설정하여 로그인</p> |
     | 관리자가 직접 등록         | <p>관리자가 멤버의 초기 비밀번호 직접 설정<br>- 멤버가 관리자로부터 전달받은 초기 비밀번호로 로그인한 후, 비밀번호 변경</p> |
 
-    ![그림. 멤버 정보 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55efa7c0-349c-4120-9a3b-2bddfd803f00/%EB%A9%A4%EB%B2%84\_%EC%A0%95%EB%B3%B4\_%EC%9E%91%EC%84%B1.png)
+    ![그림. 멤버 정보 작성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%A9%A4%EB%B2%84%20%EC%A0%95%EB%B3%B4%20%EC%9E%91%EC%84%B1.png)
 
 {% hint style="info" %}
 **안내**\
@@ -59,28 +61,34 @@
 
 1.  [**카카오워크 관리자 서비스**](https://admin.kakaowork.com/) **> 워크스페이스 멤버 > 멤버 관리** 메뉴에서 \[멤버 일괄등록] 버튼을 클릭합니다.
 
-    ![그림. 멤버 일괄 등록](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5bd0bc7-666d-4362-9886-ed6a3b03ec1e/%EB%A9%A4%EB%B2%84\_%EC%9D%BC%EA%B4%84\_%EB%93%B1%EB%A1%9D.png)
+    ![그림. 멤버 일괄 등록](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%A9%A4%EB%B2%84_%EC%9D%BC%EA%B4%84_%EB%93%B1%EB%A1%9D.png)
+
+
 2.  \[Excel 양식 다운로드] 버튼을 클릭하여 샘플 양식을 내려받은 후, 양식에 맞게 멤버 정보를 작성합니다.
 
     * 1회 등록 시 최대 300건까지 등록할 수 있으며, 자세한 데이터 입력 방법은 [도움말](https://cs.kakao.com/helps?category=588\&locale=ko\&service=171\&articleId=1073202850\&device=2170) 문서를 참고하시기 바랍니다.
 
-    ![그림. Excel 양식 다운로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c292d710-c6ea-43c5-8fe0-c0c76b2efd40/Excel\_%EC%96%91%EC%8B%9D\_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
+    ![그림. Excel 양식 다운로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/Excel_%EC%96%91%EC%8B%9D_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)
+
+
 3.  작성된 Excel 파일을 업로드하고 \[등록] 버튼을 클릭합니다.
 
     * `.xls` 또는 `.xlsx` 확장자의 파일만 업로드할 수 있습니다.
 
-    ![그림. Excel 파일 업로드](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed5f6b0b-e315-4959-b53f-7c205e2460a5/Excel\_%ED%8C%8C%EC%9D%BC\_\_%EC%97%85%EB%A1%9C%EB%93%9C.png)
+    ![그림. Excel 파일 업로드](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/Excel_%ED%8C%8C%EC%9D%BC__%EC%97%85%EB%A1%9C%EB%93%9C.png)
+
+
 4.  멤버를 등록하면 멤버의 ID(이메일 주소)로 멤버 등록 이메일이 발송됩니다.
 
     * 멤버가 이메일을 확인하여 비밀번호를 설정하면 멤버 등록이 완료됩니다.
 
-    ![그림. 워크스페이스 초대 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8a419a24-def3-4a07-a9e7-1ca2f6d84eb3/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EC%B4%88%EB%8C%80\_%ED%99%95%EC%9D%B8.png)
+    ![그림. 워크스페이스 초대 확인](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4_%EC%B4%88%EB%8C%80_%ED%99%95%EC%9D%B8.png)
 
 #### 멤버 상세 조회하기
 
 **워크스페이스 멤버** > **멤버 관리** 메뉴에서 조회할 멤버를 선택하여 멤버의 상세 정보를 확인할 수 있습니다.
 
-![그림. 멤버 상세 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3aaf8a2-eec0-4537-8ce0-1d8cf6a7f30f/%EB%A9%A4%EB%B2%84\_%EC%83%81%EC%84%B8\_%EC%A0%95%EB%B3%B4\_%ED%99%95%EC%9D%B8.png)
+![그림. 멤버 상세 확인](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%A9%A4%EB%B2%84%20%EC%83%81%EC%84%B8%20%ED%99%95%EC%9D%B8.png)
 
 #### 멤버 정보 수정하기
 
@@ -92,7 +100,7 @@
 
     * ID(이메일), 계정/조직 시스템 연동 중인 항목, 앱 설치 전 멤버의 이름은 수정할 수 없습니다.
 
-    ![그림. 멤버 정보 수정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ccb1a2ba-ce62-481d-ace3-d5da53280189/%EB%A9%A4%EB%B2%84\_%EC%A0%95%EB%B3%B4\_%EC%88%98%EC%A0%95\_\(1\).png)
+    ![그림. 멤버 정보 수정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%A9%A4%EB%B2%84%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png)
 
 #### 멤버 정보 삭제하기
 
@@ -101,10 +109,10 @@
 * 삭제된 멤버는 복구할 수 없으며, 멤버와 주고받은 메시지 및 사용 이력은 삭제되지 않습니다.
 * 삭제할 멤버가 관리자일 경우, [관리자 설정](https://www.notion.so/40c226233dab4bfaa0675f12770f3540) 메뉴에서 관리자 권한 해제 후 삭제가 가능합니다.
 
-![그림. 멤버 정보 삭제](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fa74795-b307-4438-9797-ebb95e8b20ab/%EB%A9%A4%EB%B2%84\_%EC%83%81%EC%84%B8\_%EC%A0%95%EB%B3%B4\_%ED%99%95%EC%9D%B8\_\(1\).png)
+![그림. 멤버 정보 삭제](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%A9%A4%EB%B2%84%20%EC%A0%95%EB%B3%B4%20%EC%82%AD%EC%A0%9C.png)
 
 #### 멤버 내려받기
 
 **워크스페이스 멤버 > 멤버 관리** 메뉴에서 \[멤버 내려받기] 버튼을 클릭해 멤버 목록 파일을 다운로드 합니다.
 
-![그림. 멤버 내려받기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1d0e568-1be1-409c-a4ef-560cf62ddcaf/%EB%A9%A4%EB%B2%84\_%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0.png)
+![그림. 멤버 내려받기](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%A9%A4%EB%B2%84_%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0.png)

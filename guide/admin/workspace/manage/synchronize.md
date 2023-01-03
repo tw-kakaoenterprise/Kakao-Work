@@ -11,15 +11,19 @@
 
 1.  [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **> 워크스페이스 멤버 > 계정/조직 연동 설정**으로 이동 후, \[바로가기↗︎] 버튼을 클릭합니다.
 
-    ![그림. 카카오 i 계정 관리자 바로가기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fc80378-240c-49ed-a295-f103c33485bf/%EC%B9%B4%EC%B9%B4%EC%98%A4\_i\_%EA%B3%84%EC%A0%95\_%EA%B4%80%EB%A6%AC%EC%9E%90\_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0.png)
+    ![그림. 카카오 i 계정 관리자 바로가기](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%B9%B4%EC%B9%B4%EC%98%A4_i_%EA%B3%84%EC%A0%95_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0.png)
+
+
 2.  **조직 관리 > 계정 연동 설정** 화면에서 \[계정 연동 신청] 버튼을 클릭합니다.
 
-    ![그림. 계정 연동 신청](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/09a57e4c-720c-42c1-8f71-0582398d9666/Untitled.png)
+    ![그림. 계정 연동 신청](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B3%84%EC%A0%95%20%EC%97%B0%EB%8F%99%20%EC%8B%A0%EC%B2%AD.png)
+
+
 3.  정보를 입력 후 \[계정 연동 신청] 버튼을 클릭 합니다.
 
     * 승인 완료는 신청 시점으로부터 영업일 기준 최대 3일 정도 소요될 수 있습니다.
 
-    ![그림. 계정 연동 신청 정보 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/661154c9-af71-41b1-a42d-af84a2efe1dc/Untitled.png)
+    ![그림. 계정 연동 신청 정보 입력](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B3%84%EC%A0%95%20%EC%97%B0%EB%8F%99%20%EC%8B%A0%EC%B2%AD%20%EC%A0%95%EB%B3%B4%20%EC%9E%85%EB%A0%A5.png)
 
     | 구분       | 필수 여부 | 설명                                                                                                                                              |
     | -------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,4 +35,4 @@
 
 **조직 관리 > 계정 연동 설정**에서 로그인 방식 이름을 변경할 수 있습니다. 로그인 방식 이름을 입력하면 조직 전용 로그인 화면에서 해당 로그인 방식 이름을 확인할 수 있습니다.
 
-![그림. 계정 연동 설정 화면](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5bd12058-5865-4b00-aa3e-8550d427868d/Untitled.png)
+![그림. 계정 연동 설정 화면](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B3%84%EC%A0%95%20%EC%97%B0%EB%8F%99%EC%84%A4%EC%A0%95%20%ED%99%94%EB%A9%B4.png)

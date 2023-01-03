@@ -4,7 +4,7 @@
 
 [카카오워크 관리자 서비스](https://admin.kakaowork.com/) **워크스페이스 멤버** **직책/직위 관리**에서는 워크스페이스 멤버들의 직책 또는 직위를 설정할 수 있습니다.
 
-![그림. 직책/지위 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f0d23d83-9755-476d-a068-647a2731fb39/%EC%A7%81%EC%B1%85%EC%A7%80%EC%9C%84\_%EA%B4%80%EB%A6%AC.png)
+![그림. 직책/지위 관리](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%A7%81%EC%B1%85%EC%A7%80%EC%9C%84_%EA%B4%80%EB%A6%AC.png)
 
 | 구분                | 설명                                                                                                       |
 | ----------------- | -------------------------------------------------------------------------------------------------------- |
@@ -23,7 +23,7 @@
 
 **워크스페이스 멤버 > 직책/직위 관리** 메뉴에서 조직에 맞는 직책 또는 직위를 설정합니다.
 
-![그림. 직책/직위 설정](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a55ec19-ed91-402f-b6c9-a6b15e0e3d8d/%EC%A7%81%EC%B1%85%EC%A7%80%EC%9C%84\_%EC%84%A4%EC%A0%95.png)
+![그림. 직책/직위 설정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%A7%81%EC%B1%85%EC%A7%80%EC%9C%84_%EC%84%A4%EC%A0%95.png)
 
 1. \[직책 사용하기] 또는 \[직위 사용하기] 버튼을 활성화합니다.
 2. \[삭제], \[∧]\[∨], \[+] 버튼을 클릭하여 직책 또는 직위명 정보를 수정합니다.

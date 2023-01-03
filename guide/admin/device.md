@@ -21,7 +21,7 @@
 
 * 다른 인증 방법이 있나요?를 클릭해 다른 인증 방법을 활용할 수 있습니다.
 
-![그림. 기기 인증](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1a0e2c5-fdd3-49da-abbc-19c19ec00846/%EA%B8%B0%EA%B8%B0\_%EC%9D%B8%EC%A6%9D.png)
+![그림. 기기 인증](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B8%B0%EA%B8%B0%20%EC%9D%B8%EC%A6%9D.png)
 
 | 구분            | 인증 방법                         |
 | ------------- | ----------------------------- |
@@ -48,10 +48,12 @@
 
 1.  **인증키로 로그인**을 클릭합니다.
 
-    ![그림. 인증키로 로그인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca3a1751-03d0-4dbc-8e09-db82b34e8182/%EC%9D%B8%EC%A6%9D%ED%82%A4%EB%A1%9C\_%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+    ![그림. 인증키로 로그인](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9D%B8%EC%A6%9D%ED%82%A4%EB%A1%9C%20%EB%A1%9C%EA%B7%B8%EC%9D%B8.png)
+
+
 2.  인증키를 입력하고 \[확인] 버튼을 클릭하여 로그인합니다.
 
-    ![그림. 인증키 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5a12238-ec47-4702-938e-92e2075403e2/%EC%9D%B8%EC%A6%9D%ED%82%A4\_%EC%9E%85%EB%A0%A5.png)
+    ![그림. 인증키 입력](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9D%B8%EC%A6%9D%ED%82%A4%20%EC%9E%85%EB%A0%A5.png)
 
 ## 기기 인증하기(**2022년 12월 업데이트 이전 가입자**)
 
@@ -77,7 +79,7 @@
 
 인증 요청 메시지에서 \[요청 확인하기] 버튼을 클릭 후, \[수락] 또는 \[거절] 버튼을 클릭합니다.
 
-![그림. 새로운 기기 인증 요청 메시지 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c8688b7-d103-4c3b-ae4f-fe85f634b9e7/Untitled.png)
+![그림. 새로운 기기 인증 요청 메시지 확인](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%83%88%EB%A1%9C%EC%9A%B4%20%EA%B8%B0%EA%B8%B0%20%EC%9D%B8%EC%A6%9D%EC%9A%94%EC%B2%AD%20%EB%A9%94%EC%8B%9C%EC%A7%80%20%ED%99%95%EC%9D%B8.png)
 
 #### 일괄 요청 승인하기
 
@@ -85,7 +87,7 @@
 
 **더보기** 탭 **> 관리자** **> 기기 인증 승인** 메뉴 **> 요청** 탭으로 이동해 \[수락] 또는 \[거절] 버튼을 클릭합니다.
 
-![그림. 기기 인증 수락/거절](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9b1c127-1d66-4719-8bfa-9dd6cbc193d2/%E1%84%80%E1%85%A5%E1%84%8C%E1%85%A5%E1%86%AF.png)
+![그림. 기기 인증 수락/거절](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B8%B0%EA%B8%B0%EC%9D%B8%EC%A6%9D%20%EC%88%98%EB%9D%BD%EA%B1%B0%EC%A0%88.png)
 
 ### 복구키로 기기 인증하기
 
@@ -103,7 +105,9 @@
 
 1.  \[복구키로 인증할게요.] 버튼을 클릭합니다.
 
-    ![그림. 복구키로 인증](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb4ccfa8-6386-41c4-adfd-c9fa0fcf4336/Untitled.png)
+    ![그림. 복구키로 인증](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B3%B5%EA%B5%AC%ED%82%A4%EB%A1%9C%20%EC%9D%B8%EC%A6%9D.png)
+
+
 2.  저장한 복구키를 입력해 기기 인증을 수행합니다.
 
-    ![그림. 복구키 입력](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eaaaddfb-014e-43cf-98b9-077b5375033f/Untitled.png)
+    ![그림. 복구키 입력](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B3%B5%EA%B5%AC%ED%82%A4%20%EC%9E%85%EB%A0%A5.png)

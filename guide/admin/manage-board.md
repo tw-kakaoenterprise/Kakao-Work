@@ -21,13 +21,17 @@
 
 1.  **게시판** 메뉴에서 \[새 게시글 작성] 버튼을 클릭합니다.
 
-    ![그림. 새 게시글 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f34ee2c-12dd-4874-b83a-36ff23b9eba8/%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%A1%E1%86%AB\_%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB\_%E1%84%80%E1%85%AE%E1%84%89%E1%85%A5%E1%86%BC-1.png)
+    ![그림. 새 게시글 작성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B2%8C%EC%8B%9C%EA%B8%80_%EC%9E%91%EC%84%B1.png)
+
+
 2.  제목과 본문을 작성하고, \[등록] 버튼을 클릭합니다.
 
     * 각 첨부 파일은 100MB 이하여야 하며, 총 300MB 까지 첨부할 수 있습니다.
     * 첨부 파일 확장자가 `.bmp`, `.png`, `.jpeg`, `.gif`인 경우, 하단에 썸네일이 생성됩니다. 썸네일에서 **본문 삽입**을 클릭하면 본문 내에 해당 이미지를 삽입할 수 있습니다.
 
-    ![그림. 게시글 작성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c143ed0f-c92f-447e-bb25-cf562cf32f69/%EA%B2%8C%EC%8B%9C%EA%B8%80\_%EC%9E%91%EC%84%B1.png)
+    ![그림. 게시글 작성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B2%8C%EC%8B%9C%EA%B8%80_%EC%9E%91%EC%84%B1.png)
+
+
 3.  Bot 메시지 발송 여부를 선택합니다.
 
     | 버튼        | 설명                                    |
@@ -35,7 +39,7 @@
     | 게시글만 등록하기 | 게시글만 등록하고 Bot 메시지는 발송하지 않음            |
     | 발송하기      | 게시글을 등록한 후, 워크스페이스 전체 멤버에게 Bot 메시지 발송 |
 
-    ![그림. Bot 메시지 발송 여부 확인](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd4a77f0-6109-4d4b-b5f8-dbc53dd2acb0/%EB%B4%87\_%EB%A9%94%EC%8B%9C%EC%A7%80\_%EB%B0%9C%EC%86%A1\_%EC%97%AC%EB%B6%80\_%ED%99%95%EC%9D%B8.png)
+    ![그림. Bot 메시지 발송 여부 확인](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EB%B4%87_%EB%A9%94%EC%8B%9C%EC%A7%80_%EB%B0%9C%EC%86%A1_%EC%97%AC%EB%B6%80_%ED%99%95%EC%9D%B8.png)
 
     {% hint style="info" %}
     **안내**\
@@ -46,7 +50,7 @@
 
 Bot 메시지 발송 시, 워크스페이스 멤버들은 게시판 알림 메시지를 수신합니다. 멤버가 Bot 메시지에서 \[게시글 보기] 버튼 클릭하면, 상세 게시글을 확인할 수 있습니다.
 
-![그림. 게시판 알림 Bot 메시지](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94085f28-e437-49f8-bd5d-efb2bdfd942a/%EA%B2%8C%EC%8B%9C%EA%B8%80\_%EC%95%8C%EB%A6%BC\_%EB%A9%94%EC%8B%9C%EC%A7%80.png)
+![그림. 게시판 알림 Bot 메시지](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%95%8C%EB%A6%BC%20%EB%B4%87%20%EB%A9%94%EC%8B%9C%EC%A7%80.png)
 
 ### 게시글 수정 및 삭제하기
 
@@ -54,12 +58,14 @@ Bot 메시지 발송 시, 워크스페이스 멤버들은 게시판 알림 메�
 
 1.  게시글 리스트에서 수정할 게시글을 클릭합니다.
 
-    ![그림. 수정할 게시글 선택](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dae04177-aa29-4efd-b01b-146d3ebc5ea1/%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AF\_%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%80%E1%85%B3%E1%86%AF\_%E1%84%89%E1%85%A5%E1%86%AB%E1%84%90%E1%85%A2%E1%86%A8.png)
+    ![그림. 수정할 게시글 선택](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%88%98%EC%A0%95%ED%95%A0_%EA%B2%8C%EC%8B%9C%EA%B8%80_%EC%84%A0%ED%83%9D.png)
+
+
 2.  게시글을 수정하고 \[적용] 버튼을 클릭하거나, \[삭제하기] 버튼을 클릭하여 게시글을 삭제합니다.
 
     * **게시 상태**를 **미노출**로 변경 시, 해당 게시글이 웹 게시판에 노출되지 않습니다.
 
-    ![그림. 게시글 수정 및 삭제](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/371c51d2-cf32-43f0-a367-812a639b6ea3/%EA%B2%8C%EC%8B%9C%EA%B8%80\_%EC%88%98%EC%A0%95\_%EB%B0%8F\_%EC%82%AD%EC%A0%9C.png)
+    ![그림. 게시글 수정 및 삭제](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EA%B2%8C%EC%8B%9C%EA%B8%80_%EC%88%98%EC%A0%95_%EB%B0%8F_%EC%82%AD%EC%A0%9C.png)
 
 ### 웹 게시판 바로가기
 
@@ -67,7 +73,9 @@ Bot 메시지 발송 시, 워크스페이스 멤버들은 게시판 알림 메�
 
 1.  **게시판** 메뉴에서 \[웹 게시판 바로가기] 버튼을 클릭합니다.
 
-    ![그림. 웹 게시판 바로가기](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9fdbceb5-7335-4cbd-99d6-e7809d34802b/%E1%84%8B%E1%85%B0%E1%86%B8\_%E1%84%80%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%A1%E1%86%AB\_%E1%84%87%E1%85%A1%E1%84%85%E1%85%A9%E1%84%80%E1%85%A1%E1%84%80%E1%85%B5.png)
+    ![그림. 웹 게시판 바로가기](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9B%B9_%EA%B2%8C%EC%8B%9C%ED%8C%90_%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0.png)
+
+
 2.  작성한 게시글을 확인합니다.
 
-    ![그림. 웹 게시판](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/503e3759-7dbb-457c-a482-0e9af89c8e66/%EC%9B%B9\_%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
+    ![그림. 웹 게시판](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9B%B9_%EA%B2%8C%EC%8B%9C%ED%8C%90.png)
