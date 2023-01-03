@@ -109,7 +109,7 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 {% tab title="Mobile" %}
 1.  외부 멤버와의 채팅방에서 \[더보기] 아이콘 > \[차단] 버튼을 선택합니다.
 
-    ![멤버 차단](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F55189acb-cfc9-4286-9813-1ef6b3606646%2F%25E1%2584%2586%25E1%2585%25A6%25E1%2586%25B7%25E1%2584%2587%25E1%2585%25A5\_%25E1%2584%258E%25E1%2585%25A1%25E1%2584%2583%25E1%2585%25A1%25E1%2586%25AB.png\&blockId=df562e9c-3a1a-485e-8120-a1f6514c26f0)
+    ![멤버 차단](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EB%A9%A4%EB%B2%84%20%EC%B0%A8%EB%8B%A8.png)
 2. 멤버 차단 팝업창에서 확인을 선택합니다.
 3. 멤버가 차단되면, 해당 멤버와의 채팅방에서 더 이상 대화를 할 수 없습니다.
    * 차단된 멤버와 차단한 멤버는 서로의 프로필을 조회할 수 없으며, 1:1 채팅을 할 수 없습니다.
@@ -132,7 +132,7 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 {% tab title="Mobile" %}
 1.  **더보기 > 멤버** 메뉴를 선택합니다.
 
-    ![멤버 메뉴](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F6e5debed-86cc-4603-9ec6-c85fa1485b41%2F%25E1%2584%2586%25E1%2585%25A6%25E1%2586%25B7%25E1%2584%2587%25E1%2585%25A5.png\&blockId=421a47fb-26b4-4492-8b83-ad30a083320c)
+    ![멤버 메뉴](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EB%A9%A4%EB%B2%84%20%EB%A9%94%EB%89%B4.png)
 2. 차단 멤버 관리에서 차단 해제할 멤버의 \[해제] 버튼을 선택합니다.
    * 차단 해제한 멤버는 외부 멤버로 바로 추가할 수 있습니다.
 {% endtab %}
