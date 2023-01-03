@@ -12,7 +12,7 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 
 {% tabs %}
 {% tab title="PC" %}
-![내 프로필](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84.png)
+![내 프로필](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84.png)
 
 | 구분         | 설명                                               |
 | ---------- | ------------------------------------------------ |
@@ -35,13 +35,13 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 
 * 프로필에 표시되는 항목은 워크스페이스 관리자의 설정에 따라 달라질 수 있습니다.
 
-![내 프로필 정보 수정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png)
+![내 프로필 정보 수정](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.png)
 {% endtab %}
 {% endtabs %}
 
 ## 외부 멤버 추가 및 관리하기
 
-업무 목적으로 외부 워크스페이스에 속한 멤버와 대화가 필요한 경우, 나 또는 상대방을 외부 멤버로 추가한 후, 상대방과 대화를 할 수 있습니다. 외부 멤버와 대화를 시작하기 전 [내 프로필을 공유](profile.md#undefined-4)하여 상대방이 나를 외부 멤버로 등록하거나, [상대방의 프로필을 공유받아](profile.md#undefined-5) 내가 상대방을 외부 멤버로 등록해야 합니다.
+업무 목적으로 외부 워크스페이스에 속한 멤버와 대화가 필요한 경우, 나 또는 상대방을 외부 멤버로 추가한 후, 상대방과 대화를 할 수 있습니다. 외부 멤버와 대화를 시작하기 전 [내 프로필을 공유](profile.md#undefined-1)하여 상대방이 나를 외부 멤버로 등록하거나, [상대방의 프로필을 공유받아](profile.md#undefined-5) 내가 상대방을 외부 멤버로 등록해야 합니다.
 
 {% hint style="info" %}
 **안내**\
@@ -56,21 +56,19 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 {% tab title="PC" %}
 1.  내 프로필에서 프로필 이미지를 클릭합니다.
 
-    ![내 프로필 상세](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%83%81%EC%84%B8.png)
+    ![내 프로필 상세](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%83%81%EC%84%B8.png)
 2.  \[공유] 아이콘을 클릭한 후, **나의 프로필 링크**에서 생성할 프로필 링크 유형을 선택합니다.
 
-    ![나의 프로필 공유](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EA%B3%B5%EC%9C%A0.png)
+    ![나의 프로필 공유](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EA%B3%B5%EC%9C%A0.png)
 
     | 구분         | 설명                                                    |
     | ---------- | ----------------------------------------------------- |
     | 1회용 프로필 링크 | <p>1시간 동안만 유효한 프로필 링크<br>- 일회성으로 프로필 공유 시 적합</p>      |
     | QR 프로필 링크  | <p>영구적으로 사용하는 프로필 링크<br>- 명함/이메일 서명 등에 삽입하여 활용 가능</p> |
-
-
 3. 각 유형별로 생성된 링크를 복사한 후, 외부 워크스페이스 멤버에게 전달합니다.
 4.  상대가 나를 외부 멤버로 추가하면, 내 카카오워크에 외부 멤버 추가 안내 메시지가 발송됩니다. 이 메시지에서 \[프로필 확인하기] 버튼을 클릭합니다.
 
-    ![외부 멤버 프로필 확인](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%99%B8%EB%B6%80%20%EB%A9%A4%EB%B2%84%20%ED%94%84%EB%A1%9C%ED%95%84%20%ED%99%95%EC%9D%B8.png)
+    ![외부 멤버 프로필 확인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EC%99%B8%EB%B6%80%20%EB%A9%A4%EB%B2%84%20%ED%94%84%EB%A1%9C%ED%95%84%20%ED%99%95%EC%9D%B8.png)
 5. \[외부 멤버로 추가하기] > \[확인] 버튼을 클릭해 외부 멤버를 추가합니다.
 {% endtab %}
 {% endtabs %}
@@ -83,7 +81,7 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 {% tab title="PC" %}
 1.  상대방으로부터 공유받은 프로필 링크를 클릭한 후, \[프로필 확인하기] 버튼을 클릭합니다.
 
-    ![프로필 확인하기](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%ED%94%84%EB%A1%9C%ED%95%84%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.png)
+    ![프로필 확인하기](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%ED%94%84%EB%A1%9C%ED%95%84%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.png)
 2. 외부 멤버 안내 메시지가 나타나면, \[외부 멤버로 추가하기] 버튼을 클릭합니다.
    * 추가된 외부 멤버는 조직도 메뉴의 외부 멤버 탭에서 확인할 수 있습니다.
 {% endtab %}
@@ -102,7 +100,7 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 {% tab title="PC" %}
 1.  외부 멤버와의 채팅방에서 \[더보기] 아이콘을 클릭한 후, 다이내믹 패널의 \[멤버 차단] 버튼을 클릭합니다.
 
-    ![멤버 차단](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%A9%A4%EB%B2%84%20%EC%B0%A8%EB%8B%A8.png)
+    ![멤버 차단](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EB%A9%A4%EB%B2%84%20%EC%B0%A8%EB%8B%A8.png)
 2. 안내 팝업창을 확인하고, \[확인] 버튼을 클릭합니다.
 3. 멤버가 차단되면 해당 채팅방에서 더이상 대화할 수 없습니다.
    * 차단된 멤버와 차단한 멤버는 서로의 프로필을 조회할 수 없고 1:1 채팅이 불가합니다.
@@ -119,7 +117,7 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 
 * 차단 해제한 멤버는 외부 멤버로 바로 추가할 수 있습니다.
 
-![차단 멤버 관리](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%B0%A8%EB%8B%A8%20%EB%A9%A4%EB%B2%84%20%EA%B4%80%EB%A6%AC.png)
+![차단 멤버 관리](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EC%B0%A8%EB%8B%A8%20%EB%A9%A4%EB%B2%84%20%EA%B4%80%EB%A6%AC.png)
 {% endtab %}
 {% endtabs %}
 
@@ -131,10 +129,10 @@ description: 내 프로필을 설정하고, 프로필에서 활용할 수 있는
 {% tab title="PC" %}
 1.  내 프로필에서 프로필 이미지를 클릭합니다.
 
-    ![내 프로필 상세](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%83%81%EC%84%B8.png)
+    ![내 프로필 상세](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EB%82%B4%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%83%81%EC%84%B8.png)
 2.  내 프로필 상세 창에서 \[말풍선] 아이콘을 클릭합니다.
 
-    ![나와의 채팅](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%82%98%EC%99%80%EC%9D%98%20%EC%B1%84%ED%8C%85.png)
+    ![나와의 채팅](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/PC\_%EB%82%98%EC%99%80%EC%9D%98%20%EC%B1%84%ED%8C%85.png)
 3. 나와의 채팅방에서 메시지를 입력 후 엔터를 누르거나 \[전송] 아이콘을 클릭합니다.
    * 나와의 채팅방 제목에는 \[나] 아이콘이 붙습니다.
 {% endtab %}
