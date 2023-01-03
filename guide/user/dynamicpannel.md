@@ -10,7 +10,7 @@ description: 카카오워크의 다이내믹 패널을 안내합니다.
 
 다이내믹 패널은 필요 시 언제든 \[펼침/접음] 아이콘으로 열고 닫을 수 있습니다.
 
-![그림. 다이내믹 패널](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20\(2\).png)
+![다이내믹 패널](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20\(2\).png)
 
 | 구분          | 설명                                                                                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -29,7 +29,7 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
 
 {% hint style="info" %}
 **안내**\
-추천 명령어 및 일반 대화방에서 카카오 i 캐스퍼를 활용하는 방법은 [카카오 i 캐스퍼](https://kakaowork.oopy.io/user/kasper)[ ](kasper.md)문서를 참고하시기 바랍니다.
+추천 명령어 및 일반 대화방에서 카카오 i 캐스퍼를 활용하는 방법은 [카카오 i 캐스퍼](kasper.md)[ ](kasper.md)문서를 참고하시기 바랍니다.
 {% endhint %}
 
 ### 캐스퍼 1:1 채팅방
@@ -39,10 +39,13 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
 1.  다이내믹 패널에서 카카오 i 캐스퍼 이미지를 클릭합니다.
 
     ![그림. 다이내믹 패널 > 캐스퍼](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20\_%20%EC%BA%90%EC%8A%A4%ED%8D%BC.png)
-2. 캐스퍼와 1:1 채팅방이 생성되면, 메시지를 입력하고 엔터를 누르거나 \[전송] 아이콘을 클릭합니다.
-   *   캐스퍼 1:1 채팅방은 입력창에 `/캐스퍼`가 자동으로 입력되어 있으므로, 곧바로 명령어를 입력할 수 있습니다.\\
+2.  캐스퍼와 1:1 채팅방이 생성되면, 메시지를 입력하고 엔터를 누르거나 \[전송] 아이콘을 클릭합니다.
 
-       ![그림. 캐스퍼 1:1 대화방](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%BA%90%EC%8A%A4%ED%8D%BC%201\_1%20%EB%8C%80%ED%99%94%EB%B0%A9.png)
+    *
+
+    ![그림. 캐스퍼 1:1 대화방](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%BA%90%EC%8A%A4%ED%8D%BC%201\_1%20%EB%8C%80%ED%99%94%EB%B0%A9.png)
+
+    * 캐스퍼 1:1 채팅방은 입력창에 `/캐스퍼`가 자동으로 입력되어 있으므로, 곧바로 명령어를 입력할 수 있습니다.\\
 
 **캐스퍼 1:1 채팅방과 일반 채팅방**
 
