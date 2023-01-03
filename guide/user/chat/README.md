@@ -14,7 +14,7 @@ description: 채팅 기능과 채팅 탭 구성에 대해 안내합니다.
 
 {% tabs %}
 {% tab title="PC" %}
-![그림. 카카오워크 PC](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20PC.png)
+![채팅 탭](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EC%B1%84%ED%8C%85%20%ED%83%AD.png)
 
 | 구분        | 설명                                                                                                                            |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -32,7 +32,7 @@ description: 채팅 기능과 채팅 탭 구성에 대해 안내합니다.
 {% endtab %}
 
 {% tab title="Mobile" %}
-![그림. 카카오워크 PC](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EB%AA%A8%EB%B0%94%EC%9D%BC.png)
+![채팅 탭](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/mobile_%EC%B1%84%ED%8C%85%20%ED%83%AD%20%EA%B5%AC%EC%84%B1.png)
 
 | 항목        | 설명                                                                                                                                                      |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
