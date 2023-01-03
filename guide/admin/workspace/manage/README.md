@@ -9,7 +9,7 @@
 카카오워크를 기업의 사내 계정 시스템과 연동하여 사용할 경우 연동된 항목은 관리자가 직접 수정할 수 없습니다.
 {% endhint %}
 
-![그림. 워크스페이스 멤버 관리](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/02201c00-a65b-4e2a-94d2-bd63a6f81e19/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4\_%EB%A9%A4%EB%B2%84\_%EA%B4%80%EB%A6%AC.png)
+![그림. 워크스페이스 멤버 관리](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%9B%8C%ED%81%AC%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4_%EB%A9%A4%EB%B2%84_%EA%B4%80%EB%A6%AC.png)
 
 | 구분             | 설명                                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------------------ |
