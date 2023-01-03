@@ -23,6 +23,7 @@
     * [설정](guide/user/setting.md)
     * [멀티 워크스페이스](guide/user/multi-workspace.md)
   * [관리자 가이드](guide/admin/README.md)
+    * [카카오워크 관리자 서비스](readme/admin/service.md)
     * [워크스페이스](guide/admin/workspace/README.md)
       * [워크스페이스 개설](guide/admin/workspace/create.md)
       * [워크스페이스 관리](guide/admin/workspace/manage/README.md)
