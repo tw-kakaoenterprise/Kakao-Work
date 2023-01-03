@@ -15,7 +15,7 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
     * **멤버 선택** 팝업창에서는 즐겨찾기로 등록된 멤버가 기본값으로 나타나며, 검색을 통해 다른 멤버를 추가할 수 있습니다.
     * **조직도에서 초대**를 클릭하면 조직도에서 멤버를 조회해 대화 상대로 추가할 수 있습니다.&#x20;
 
-    <figure><img src="https://t1.kakaocdn.net/service_kep_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png" alt=""><figcaption><p>채팅방 생성</p></figcaption></figure>
+    ![채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
 2. 채팅방이 생성되면 메시지를 입력하고 엔터를 누르거나 \[전송] 아이콘을 클릭해 채팅을 시작합니다.
    * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
    * 채팅 시작 전 그룹 채팅방명을 설정하면 모두에게 같은 이름으로 채팅방이 개설됩니다.
@@ -30,7 +30,7 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
 {% tab title="PC" %}
 1.  \[조직도] 아이콘을 클릭합니다.
 
-    ![조직도](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A1%B0%EC%A7%81%EB%8F%84.png)
+    ![조직도](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%A1%B0%EC%A7%81%EB%8F%84.png)
 2. 채팅방을 생성할 조직을 선택하고, 참여 그룹 및 멤버를 확인 후 \[채팅방] 버튼을 클릭합니다.
 3. 해당 조직의 멤버가 모두 포함된 채팅방이 생성됩니다.
    * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
@@ -48,20 +48,11 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
 
     * **즐겨찾기**의 멤버 프로필을 클릭하면 해당 멤버와의 1:1 채팅방으로 바로 이동할 수 있습니다.
 
-    ![프로필에서 채팅방 생성
-    ](../4%20%E1%84%8E%E1%85%A2%E1%84%90%E1%85%B5%E1%86%BC%2050885c976659493196d7eef798e4e05b/Untitled%205.png)
+    ![프로필에서 채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90%EC%84%9C%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
 2. 채팅방이 생성되면 메시지를 입력하고 엔터를 누르거나 \[전송] 아이콘을 클릭해 채팅을 시작합니다.
    * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
 {% endtab %}
 {% endtabs %}
-
-#### 특정 멤버와 함께 있는 채팅방 확인하기
-
-멤버의 프로필 창에서 \[함께 있는 채팅방] 아이콘을 클릭하면, 해당 멤버와 함께 있는 그룹 채팅방 목록을 확인할 수 있습니다.
-
-* **이 멤버와 새로운 채팅방 만들기**를 클릭하면, 해당 멤버를 포함한 채팅방을 편리하게 생성할 수 있습니다.
-
-![함께 있는 채팅방 확인](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%ED%95%A8%EA%BB%98%EC%9E%88%EB%8A%94%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%ED%99%95%EC%9D%B8.png)
 
 ## 외부 멤버와 대화하기
 
@@ -77,10 +68,10 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
 {% tab title="PC" %}
 1.  **채팅** 탭에서 \[채팅방] 아이콘 **조직도에서 초대**를 클릭합니다.
 
-    ![채팅방 생성 > 조직도에서 초대](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1%20%3E%20%EC%A1%B0%EC%A7%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%B4%88%EB%8C%80.png)
+    ![채팅방 생성 > 조직도에서 초대](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1%3E%EC%A1%B0%EC%A7%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%B4%88%EB%8C%80.png)
 2.  **조직도에서 멤버 선택** 팝업창의 **외부 멤버** 메뉴에서 대화할 상대를 선택하고, \[선택] 버튼을 클릭합니다.
 
-    ![외부 멤버 탭에서 대화 상대 선택](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%99%B8%EB%B6%80%20%EB%A9%A4%EB%B2%84%20%ED%83%AD%EC%97%90%EC%84%9C%20%EB%8C%80%ED%99%94%20%EC%83%81%EB%8C%80%20%EC%84%A0%ED%83%9D.png)
+    ![외부 멤버 탭에서 대화 상대 선택](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%99%B8%EB%B6%80%20%EB%A9%A4%EB%B2%84%20%ED%83%AD%EC%97%90%EC%84%9C%20%EB%8C%80%ED%99%94%20%EC%83%81%EB%8C%80%20%EC%84%A0%ED%83%9D.png)
 3. 안내 팝업창에서 \[채팅방 개설] 버튼을 클릭합니다.
 4. 채팅방이 생성되면 메시지를 입력하고 엔터를 누르거나 \[전송] 아이콘을 클릭해 채팅을 시작합니다.
    * 채팅방이 생성된 후, 메시지를 전송해야만 대화 상대방에게도 채팅방이 노출됩니다.
@@ -103,10 +94,10 @@ description: 채팅방을 생성해 멤버들과 대화를 시작하는 방법�
 {% tab title="PC" %}
 1.  **채팅** 탭에서 \[채팅방] 아이콘을 선택하고, **비밀 채팅방**을 클릭합니다.
 
-    ![비밀 채팅방 생성](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22532541-b5d7-4661-937b-97dbebdbbe6d/%E1%84%87%E1%85%B5%E1%84%86%E1%85%B5%E1%86%AF\_%E1%84%8E%E1%85%A2%E1%84%90%E1%85%B5%E1%86%BC%E1%84%87%E1%85%A1%E1%86%BC.png)
+    ![비밀 채팅방 생성](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%B9%84%EB%B0%80%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%83%9D%EC%84%B1.png)
 2.  **비밀 채팅방 설정** 팝업창에서 메시지 삭제 옵션 설정합니다.
 
-    ![비밀 채팅방 옵션](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8bd65164-4826-4633-b33d-f145d9cbf3db/%E1%84%87%E1%85%B5%E1%84%86%E1%85%B5%E1%86%AF\_%E1%84%8E%E1%85%A2%E1%84%90%E1%85%B5%E1%86%BC%E1%84%87%E1%85%A1%E1%86%BC\_%E1%84%8B%E1%85%A9%E1%86%B8%E1%84%89%E1%85%A7%E1%86%AB.png)
+    ![비밀 채팅방 옵션](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%B9%84%EB%B0%80%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EC%98%B5%EC%85%98.png)
 
     | 구분           | 설명                                                                                            |
     | ------------ | --------------------------------------------------------------------------------------------- |
