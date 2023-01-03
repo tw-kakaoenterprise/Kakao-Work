@@ -6,11 +6,11 @@ description: 카카오워크의 다이내믹 패널을 안내합니다.
 
 **다이내믹 패널**은 카카오워크 AI 비서 카카오 i 캐스퍼와 함께 하는 나만의 업무 공간입니다. 다이내믹 패널에서는 캐스퍼가 제안하는 맞춤 정보를 확인하고 캐스퍼와 1:1로 대화할 수 있으며, 즐겨찾기한 멤버와 조직에게 빠르게 접근할 수 있습니다.
 
-**다이내믹 패널 구성**
+#### 다이내믹 패널 구성
 
 다이내믹 패널은 필요 시 언제든 \[펼침/접음] 아이콘으로 열고 닫을 수 있습니다.
 
-![그림. 다이내믹 패널](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20\(2\).png)
+![다이내믹 패널](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90.png)
 
 | 구분          | 설명                                                                                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -38,13 +38,13 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
 
 1.  다이내믹 패널에서 카카오 i 캐스퍼 이미지를 클릭합니다.
 
-    ![그림. 다이내믹 패널 > 캐스퍼](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20\_%20%EC%BA%90%EC%8A%A4%ED%8D%BC.png)
+    ![다이내믹 패널 캐스퍼](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%8C%A8%EB%84%90%20_%20%EC%BA%90%EC%8A%A4%ED%8D%BC.png)
 2. 캐스퍼와 1:1 채팅방이 생성되면, 메시지를 입력하고 엔터를 누르거나 \[전송] 아이콘을 클릭합니다.
    *   캐스퍼 1:1 채팅방은 입력창에 `/캐스퍼`가 자동으로 입력되어 있으므로, 곧바로 명령어를 입력할 수 있습니다.\\
 
-       ![그림. 캐스퍼 1:1 대화방](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%BA%90%EC%8A%A4%ED%8D%BC%201\_1%20%EB%8C%80%ED%99%94%EB%B0%A9.png)
+       ![캐스퍼 1:1 대화방](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%BA%90%EC%8A%A4%ED%8D%BC%201_1%20%EB%8C%80%ED%99%94%EB%B0%A9.png)
 
-**캐스퍼 1:1 채팅방과 일반 채팅방**
+#### 캐스퍼 1:1 채팅방과 일반 채팅방
 
 캐스퍼 1:1 채팅방은 캐스퍼 활용에 특화된 채팅방으로, 일반 채팅방에서 제공하는 기능들이 제한됩니다.
 
@@ -68,18 +68,18 @@ AI 업무 비서 카카오 i 캐스퍼는 사용자의 질문에 인공지능 �
 
     * 이미 즐겨찾기를 한 개 이상 등록한 경우, \[조직도] 아이콘을 클릭합니다.
 
-    ![그림. 전체 멤버 보기](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A0%84%EC%B2%B4%20%EB%A9%A4%EB%B2%84%20%EB%B3%B4%EA%B8%B0.png)
+    ![전체 멤버 보기](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%A0%84%EC%B2%B4%20%EB%A9%A4%EB%B2%84%20%EB%B3%B4%EA%B8%B0.png)
 2.  즐겨찾기에 추가할 멤버 또는 조직명의 \[별] 아이콘을 클릭합니다.
 
     * 즐겨찾기에 추가하려는 멤버에 마우스 커서를 올리면 \[별] 아이콘이 나타납니다.
     * \[별] 아이콘을 다시 클릭하면 즐겨찾기에서 해제할 수 있습니다.
 
-    ![그림. 조직도에서 즐겨찾기 추가](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A1%B0%EC%A7%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%20%EC%B6%94%EA%B0%80.png)
+    ![조직도에서 즐겨찾기 추가](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%A1%B0%EC%A7%81%EB%8F%84%EC%97%90%EC%84%9C%20%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%20%EC%B6%94%EA%B0%80.png)
 3.  다이내믹 패널에서 즐겨찾기에 등록된 멤버/조직을 확인할 수 있습니다.
 
     * \[새로고침] 아이콘을 클릭해, 멤버 프로필 및 근무 상태를 최신으로 업데이트할 수 있습니다.
 
-    ![그림. 즐겨찾기 추가 완료](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/kakao%20work%20%EC%82%AC%EC%9A%A9%EC%9E%90/%EA%B7%B8%EB%A6%BC.%20%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%20%EC%B6%94%EA%B0%80%20%EC%99%84%EB%A3%8C.png)
+    ![즐겨찾기 추가 완료](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%20%EC%B6%94%EA%B0%80%20%EC%99%84%EB%A3%8C.png)
 
 {% hint style="info" %}
 **안내**\
