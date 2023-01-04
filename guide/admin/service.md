@@ -1,7 +1,6 @@
 # 카카오워크 관리자 서비스
 
 관리자 서비스는 회사 및 조직에서 업무 환경에 맞게 카카오워크를 사용할 수 있도록 워크스페이스 설정, 멤버 설정, 커스텀 Bot 개발 등 다양한 기능을 제공합니다.
-
 관리자 서비스는 슈퍼 관리자, 관리자, 또는 Bot 개발자 권한을 부여받은 멤버만 접근할 수 있습니다. 관리자 서비스에 접속이 필요한 경우, [권한 정보](service.md#undefined)를 참고하여 해당 워크스페이스 관리자에게 권한을 요청하시기 바랍니다.
 
 ## 권한 정보
@@ -29,3 +28,42 @@
 **안내**\
 ****카카오워크 관리자 서비스의 메뉴 구성에 대한 설명은 [부록. 카카오워크 관리자 서비스](../../readme/admin/admin-service.md) 문서를 참고하시기 바랍니다.
 {% endhint %}
+
+                               |
+
+### 메뉴 구성
+
+[카카오워크 관리자 서비스](https://admin.kakaowork.com/)의 메뉴 구성은 다음과 같습니다.
+
+![그림. 카카오워크 관리자 서비스](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9B%8C%ED%81%AC%20%EA%B4%80%EB%A6%AC%EC%9E%90%20%EC%84%9C%EB%B9%84%EC%8A%A4(%EB%B6%80%EB%A1%9Da).png)
+
+| 구분                                                                                                           | 설명                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| https://www.notion.so/7218c86c7c6b4b829d924df5469adcda                                                       | 워크스페이스의 기본 정보와 프로필 정보 설정                                                                                                                                       |
+| https://www.notion.so/7218c86c7c6b4b829d924df5469adcda                                                       | 워크스페이스 이름과 ID 등과 같은 기본 정보 설정                                                                                                                                   |
+| https://www.notion.so/7218c86c7c6b4b829d924df5469adcda                                                       | 프로필에 표시할 항목 변경                                                                                                                                                 |
+| https://www.notion.so/40c226233dab4bfaa0675f12770f3540                                                       | 워크스페이스의 멤버, 조직도, 직책/직위, 관리자 설정, 계정 연동 등 수행                                                                                                                     |
+| https://www.notion.so/40c226233dab4bfaa0675f12770f3540                                                       | 워크스페이스에 새로운 멤버 등록 및 기존 멤버의 정보 조회 또는 변경                                                                                                                         |
+| https://www.notion.so/40c226233dab4bfaa0675f12770f3540                                                       | 조직도 구성 및 조직도 정보 생성/관리                                                                                                                                          |
+| https://www.notion.so/40c226233dab4bfaa0675f12770f3540                                                       | 워크스페이스 멤버들의 직책 또는 직위 설정                                                                                                                                        |
+| https://www.notion.so/40c226233dab4bfaa0675f12770f3540                                                       | 워크스페이스 관리자를 설정 및 관리자별 접근 가능 메뉴 제한 설정                                                                                                                           |
+| https://www.notion.so/40c226233dab4bfaa0675f12770f3540                                                       | 카카오워크 앱과 다양한 회사 시스템과 연동ㅊ상세 작업은 https://account.kakaoi.ai/login/form페이지에서 진행                                                                                    |
+| https://www.notion.so/6771ab948065447faa4da9ede653cfc7                                                       | 카카오워크 앱의 바로가기에 기본으로 제공되는 워크 서비스의 노출 여부를 설정                                                                                                                     |
+| https://www.notion.so/15854aaf2a3147a5a41c54e254aef1fb                                                       | 워크스페이스 멤버들에게 전달할 공지 게시글 작성 및 관리                                                                                                                                |
+| https://www.notion.so/22ebe24d47804be3ae0ba4d288b44c77                                                       | 카카오워크 앱의 바로가기 메뉴에서 제공하는 서비스를 등록 및 편집                                                                                                                           |
+| https://www.notion.so/d17fc11a945a45129657371bdaa6cd33                                                       | 기존 Bot을 관리 및 신규 Bot을 개발/관리                                                                                                                                     |
+| https://www.notion.so/d17fc11a945a45129657371bdaa6cd33                                                       | 워크스페이스에서 사용 중인 Bot 내역과 활성화 여부 설정                                                                                                                               |
+| https://www.notion.so/d17fc11a945a45129657371bdaa6cd33                                                       | 워크스페이스용 Bot을 생성할 수 있는 개발자 추가 및 관리                                                                                                                              |
+| https://www.notion.so/d17fc11a945a45129657371bdaa6cd33https://www.notion.so/d17fc11a945a45129657371bdaa6cd33 | <p>워크스페이스의 커스텀 Bot을 생성 및 관리<br>-Bot 개발자로 지정된 멤버만 Bot 개발 가능</p>                                                                                                 |
+| http://kko.to/4jaSAsafj                                                                                      | Bot 개발을 위한 기술 문서인 https://docs.kakaoi.ai/kakao\_work/webapireference/ 가이드로 연결                                                                                  |
+| http://kko.to/JbJZAstfT                                                                                      | <p>Block Kit을 활용하여 커스텀 Bot을 구성해 볼 수 있는 https://www.kakaowork.com/block-kit-builder로 연결<br>-자세한 내용은 https://docs.kakaoi.ai/kakao_work/blockkit/appdix_c/ 참고</p> |
+| QnA 데이터 관리↗︎                                                                                                 | Kakao i Kasper 지식 검색에서 활용할 서비스 데이터 등록/관리                                                                                                                       |
+| https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f                                                       | 카카오워크의 PC 버전과 모바일 버전의 보안 관련 설정 관리                                                                                                                              |
+| https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f                                                       | 카카오워크 사용과 관련된 보안 설정 가능                                                                                                                                         |
+| https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f                                                       | 카카오워크 PC 앱 사용과 관련된 보안 설정 관리                                                                                                                                    |
+| https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f                                                       | 카카오워크 모바일 앱 사용과 관련된 보안 설정 관리                                                                                                                                   |
+| https://www.notion.so/ff61cee4d0004b6b98f4cf757c8bb38f                                                       | 외부 카카오워크 워크스페이스 멤버와 대화 설정 가능                                                                                                                                   |
+| https://www.notion.so/b6fbd5a435ac402fac3ea0ab7b62e836                                                       | 월별 이용 내역과 납부 현황을 확인하고, 청구 정보를 조회 또는 변경 가능                                                                                                                      |
+| https://www.notion.so/b6fbd5a435ac402fac3ea0ab7b62e836                                                       | 카카오워크 이용과 관련된 청구현황 확인                                                                                                                                          |
+| https://www.notion.so/1674c398edcc4faaa26b94a76419373e                                                       | 카카오워크 이용과 관련된 통계 분석 확인                                                                                                                                         |
+
