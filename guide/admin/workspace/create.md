@@ -85,7 +85,7 @@
 
 ### 멤버 일괄 등록하기
 
-1.  [카카오워크 관리자 ](https://admin.kakaowork.com/)**페이스 멤버 멤버 관리** 메뉴에서 \[멤버 일괄등록] 버튼을 클릭합니다.
+1.  [카카오워크 관리자 ](https://admin.kakaowork.com/)의 **페이스 멤버 멤버 관리** 메뉴에서 \[멤버 일괄등록] 버튼을 클릭합니다.
 
     ![그림. 멤버 일괄 등록](https://t1.kakaocdn.net/service\_kep\_docpublish/Figma/\[%EA%B4%80%EB%A6%AC%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C]%20Kakao%20Work/%EB%A9%A4%EB%B2%84\_%EC%9D%BC%EA%B4%84\_%EB%93%B1%EB%A1%9D.png)
 2.  \[Excel 양식 다운로드] 버튼을 클릭하여 샘플 양식을 내려받은 후, 양식에 맞게 멤버 정보를 작성합니다.
