@@ -79,7 +79,7 @@ description: 다양한 채팅방 관리 및 설정 기능을 안내합니다.
 {% tab title="PC" %}
 \[설정] 아이콘 > **채팅** 메뉴에서 원하는 배경화면 색상을 선택하고, **모든 채팅방에 적용**을 클릭합니다.
 
-![모든 채팅방 배경화면 색상 설정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%AA%A8%EB%93%A0%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4%20%EC%83%89%EC%83%81%20%EC%84%A4%EC%A0%95.pngg)
+![모든 채팅방 배경화면 색상 설정](https://t1.kakaocdn.net/service_kep_docpublish/Figma/%5B%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B0%80%EC%9D%B4%EB%93%9C%5D%20Kakao%20Work/PC_%EB%AA%A8%EB%93%A0%20%EC%B1%84%ED%8C%85%EB%B0%A9%20%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4%20%EC%83%89%EC%83%81%20%EC%84%A4%EC%A0%95.png)
 {% endtab %}
 
 {% tab title="Mobile" %}
