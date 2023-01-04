@@ -23,6 +23,7 @@
     * [설정](guide/user/setting.md)
     * [멀티 워크스페이스](guide/user/multi-workspace.md)
   * [관리자 가이드](guide/admin/README.md)
+    * [카카오워크 관리자 서비스](readme/admin/admin-service.md)
     * [카카오워크 관리자 서비스](guide/admin/service.md)
     * [워크스페이스](guide/admin/workspace/README.md)
       * [워크스페이스 개설](guide/admin/workspace/create.md)
@@ -51,4 +52,3 @@
     * [메시지 암호화](guide/admin/encrypt.md)
     * [인증키](guide/admin/key.md)
     * [기기 인증](guide/admin/device.md)
-    * [부록. 카카오워크 관리자 서비스](guide/admin/appx.md)
